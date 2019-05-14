@@ -1,0 +1,280 @@
+ranking,World Rank,University,Det.,Presence Rank*,Impact Rank*,Openness Rank*,Excellence Rank*
+1,4,University of Oxford,,1,14,10,4
+2,11,University of Cambridge,,102,18,6,10
+3,21,University College London,,225,47,9,8
+4,33,University of Edinburgh,,5,57,52,58
+5,59,Imperial College London,,658,134,22,19
+6,68,University of Manchester,,285,111,68,51
+7,80,King's College London,,479,158,29,55
+8,86,University of Glasgow,,3,107,545,125
+9,97,University of Warwick,,32,114,259,162
+10,109,University of Leeds,,553,108,172,144
+11,122,Bristol University,,539,222,54,88
+12,136,University of Nottingham,,738,157,216,118
+13,151,University of Sheffield,,331,195,201,120
+14,157,Newcastle University Newcastle upon Tyne,,571,140,238,180
+15,164,University of Exeter,,137,194,97,218
+16,167,Queen Mary University of London,,869,241,41,156
+17,187,London School of Economics and Political Science,,516,91,168,452
+18,195,University of York,,655,165,106,312
+19,203,University of Liverpool,,329,331,341,152
+20,225,Cardiff University,,1020,318,217,187
+21,230,University of Saint Andrews,,35,220,284,378
+22,239,University of Leicester,,845,204,202,332
+23,250,University of Southampton,,1756,258,2341,104
+24,252,Durham University,,464,208,875,247
+25,266,University of Sussex,,993,245,224,352
+26,271,University of Aberdeen,,873,295,200,314
+27,293,University of East Anglia,,1273,300,225,343
+28,311,University of Surrey,,1366,217,329,427
+29,312,Queen's University Belfast,,765,384,398,294
+30,317,Lancaster University,,1537,430,150,300
+31,324,University of Bath,,753,265,328,425
+32,343,University of Reading,,756,335,237,408
+33,346,University of Dundee,,1537,364,158,398
+34,359,Open University UK,,639,171,323,631
+35,377,London School of Hygiene & Tropical Medicine,,1223,794,278,236
+36,378,University of Strathclyde,,824,397,478,441
+37,385,Loughborough University,,1130,377,408,472
+38,409,University of Kent,,1036,294,460,606
+39,426,University of Birmingham,,1548,286,9431,106
+40,437,Brunel University,,2272,554,177,489
+41,495,University of Plymouth,,2281,569,603,512
+42,501,City University London,,1521,406,473,688
+43,516,Heriot-Watt University,,1553,483,565,662
+44,527,University of Essex,,1497,404,497,773
+45,572,Swansea University,,2773,881,385,529
+46,589,Bangor University,,942,737,376,713
+47,600,University of Stirling,,2301,587,559,773
+48,608,University of Portsmouth,,1302,593,698,784
+49,627,Cranfield University,,2473,714,613,693
+50,634,Birkbeck University of London,,1530,604,397,888
+51,638,Northumbria University,,1724,768,503,746
+52,641,University of Hull,,3278,736,536,727
+53,643,Aberystwyth University / Prifysgol Aberystwyth,,1302,578,763,868
+54,654,Aston University,,1978,807,563,741
+55,658,University of the West of England,,1790,538,678,922
+56,681,Keele University,,2985,711,554,832
+57,684,University of Ulster,,2088,876,455,778
+58,704,University of Hertfordshire,,1933,666,823,899
+59,712,University of Brighton,,1413,700,949,884
+60,714,Manchester Metropolitan University,,1881,617,816,979
+61,736,Royal Holloway University of London,,2009,888,4573,518
+62,761,Goldsmiths University of London,,1260,558,727,1202
+63,777,University of Salford,,1930,621,828,1128
+64,785,Sheffield Hallam University,,1334,580,1083,1187
+65,792,Liverpool John Moores University,,4287,1328,754,690
+66,797,Nottingham Trent University,,2230,701,809,1089
+67,816,Institute of Cancer Research University of London,,3361,1962,350,653
+68,818,Bournemouth University,,1768,791,1056,1067
+69,819,University of Huddersfield,,2035,785,683,1148
+70,825,Oxford Brookes University,,2985,730,935,1123
+71,826,Middlesex University,,2047,792,871,1111
+72,831,De Montfort University,,2166,610,1117,1294
+73,831,University of Central Lancashire,,2762,882,1135,989
+74,838,Coventry University,,2155,782,1055,1113
+75,844,University of Greenwich,,2914,810,1116,1087
+76,889,Kingston University London,,2334,871,1046,1174
+77,928,Saint George's University of London,,6231,2636,502,617
+78,937,Lincoln University,,1463,886,915,1363
+79,974,University of Wolverhampton,,3176,828,780,1461
+80,982,University of Westminster,,2408,852,1103,1407
+81,1001,School of Oriental and African Studies University of London,,1669,653,1190,1698
+82,1077,London Business School,,2971,947,575,1652
+83,1079,Anglia Ruskin University,,3439,867,1306,1522
+84,1110,Glasgow Caledonian University,,3006,1559,959,1187
+85,1139,Leeds Beckett University (Leeds Metropolitan University),,3084,1204,1126,1430
+86,1145,Napier University Edinburgh,,2249,875,1130,1772
+87,1192,Royal Veterinary College University of London,,5045,2023,1114,1076
+88,1301,University of East London,,4327,1087,1171,1836
+89,1332,London South Bank University,,4017,1007,1250,1966
+90,1335,University of Bedfordshire,,1153,1544,1309,1655
+91,1341,Teesside University,,3135,1524,835,1710
+92,1350,University of South Wales (Glamorgan & Wales Newport),,2627,1840,1297,1469
+93,1437,Roehampton University,,6304,1646,876,1763
+94,1449,University of Derby,,5525,1293,1025,2012
+95,1456,Robert Gordon University,,3443,1348,1443,1957
+96,1459,Staffordshire University,,3785,1336,1730,1888
+97,1469,University of the West of Scotland (University of Paisley),,4660,2524,1243,1403
+98,1479,London Metropolitan University,,4488,1063,1827,2132
+99,1491,Birmingham City University (University of Central England),,2520,1110,1938,2148
+100,1563,Liverpool School of Tropical Medicine,,6880,4816,1091,965
+101,1658,Edge Hill University,,2985,2090,1334,1998
+102,1685,University of Chester,,4394,2126,1301,1998
+103,1752,University of the Arts London,,1120,490,3255,3482
+104,1802,Canterbury Christ Church University,,2882,1902,1983,2248
+105,1830,University of Northampton,,3252,1694,1754,2468
+106,1874,Cardiff Metropolitan University (University of Wales Institute Cardiff),,4209,2847,1603,2016
+107,1958,University of Bolton,,5629,2493,2282,2164
+108,1986,University of Gloucestershire,,4488,2209,1728,2486
+109,2028,University of Abertay,,5629,2279,2202,2418
+110,2065,Royal College of Art,,4279,798,4456,3332
+111,2082,School of Advanced Study University of London,,2000,1159,3492,3198
+112,2203,Queen Margaret University,,6445,3272,1928,2369
+113,2217,University of Winchester,,8975,2825,1684,2579
+114,2244,University of Sunderland,,3061,1210,1478,3735
+115,2247,Scottish Association for Marine Science,,9314,5837,1324,1746
+116,2272,York Saint John University,,4103,1933,2819,3004
+117,2278,Liverpool Hope University,,6258,2880,2384,2579
+118,2460,Bath Spa University,,6405,1990,2040,3414
+119,2541,University of West London (Thames Valley University),,4707,2710,1880,3275
+120,2558,Scottish Rural College (Scottish Agricultural College),,5259,3899,1060,3037
+121,2569,University of Buckingham,,6588,2633,1809,3332
+122,2575,Harper Adams University,,6304,3761,1807,2899
+123,2603,Royal College of Surgeons of England,,3727,1514,6487,3381
+124,2639,University of Cumbria,,5511,2995,1891,3332
+125,2679,Southampton Solent University,,4455,2072,3618,3591
+126,2867,University of Chichester,,5259,3595,2471,3446
+127,2926,Royal College of Physicians,,4594,1157,11401,2899
+128,3177,University of Wales Trinity Saint David (Swansea Metropolitan University),,6210,4090,5056,3482
+129,3213,University of Worcester,,6445,3260,11401,2292
+130,3556,Bucks (Buckinghamshire Chilterns) New University,,11680,4036,4132,4140
+131,3646,Leeds Trinity University,,7959,4711,5300,3972
+132,3760,Glasgow School of Art,,4813,1941,4979,5064
+133,3916,University of Bradford,,3882,1481,655,6033
+134,4066,University of the Highlands and Islands,,1574,1533,1912,6033
+135,4339,(3) Manchester Business School,,8449,2478,778,6033
+136,4719,(3) Henley Business School University of Reading,,4717,3919,902,6033
+137,4732,Falmouth University (Dartington College of Arts),,4967,2476,4078,6033
+138,4885,Courtauld Institute of Art,,6370,1361,9149,6033
+139,4897,Architectural Association School of Architecture,,3368,1628,8616,6033
+140,4944,Glyndŵr University,,6445,3141,3854,6033
+141,4981,Saint Mary's University Twickenham,,8229,3288,3455,6033
+142,5105,Royal College of Music,,6811,2533,6715,6033
+143,5143,Wessex Institute of Technology,,17888,3755,11401,4666
+144,5158,Regent s University London,,3524,3766,4623,6033
+145,5161,Royal College of Psychiatrists,,4780,883,11401,6033
+146,5358,Guildhall School of Music and Drama,,8758,3399,5940,6033
+147,5451,Brighton and Sussex Medical School,,10976,6959,562,6033
+148,5566,University of Suffolk,,6811,5123,3607,6033
+149,5722,Institute of Historical Research,,2729,1499,11401,6033
+150,5812,University of St Mark & St John Plymouth,,7484,5891,3435,6033
+151,5812,Royal College of Nursing,,3665,1539,11401,6033
+152,5929,University College of Birmingham (College of Food Tourism and Creative Studies),,9388,4638,9888,5580
+153,5931,Trinity Laban,,10976,3553,8380,6033
+154,5975,Richmond American International University in London,,10753,5214,5258,6033
+155,6104,Royal Agricultural University,,9006,5961,4822,6033
+156,6151,Central School of Speech and Drama University of London,,11242,4170,8152,6033
+157,6213,University for the Creative Arts,,8106,3261,10084,6033
+158,6220,Newman University,,11458,5829,5383,6033
+159,6355,Bishop Grosseteste University,,9215,6720,4920,6033
+160,6394,Hull York Medical School,,16319,8351,1842,6033
+161,6425,University of Wales,,9314,4341,9110,6033
+162,6496,Cornwall College,,6954,6274,6584,6033
+163,6691,Royal Academy of Music,,8772,2594,11401,6033
+164,6791,"Ahora Royal Conservatoire of Scotland, Glasgow (formerly RSAMD)",,7256,4584,9975,6033
+165,6876,Hartpury College,,10802,6618,7244,6033
+166,6939,Newcastle College,,8292,6262,8183,6033
+167,6993,University of Law (College of Law),,15503,5399,8834,6033
+168,7277,Royal Northern College of Music,,10230,3367,11401,6033
+169,7332,BPP University College of Professional Studies,,9598,3490,11401,6033
+170,7603,Norwich University of the Arts,,17405,6291,9195,6033
+171,7631,GSM London (Greenwich School of Management),,11692,9582,5240,6033
+172,7763,New College of the Humanities,,14041,8458,7200,6033
+173,7769,Writtle University College,,9833,6449,11401,5580
+174,7773,Anglo-European College of Chiropractic,,18167,6596,9162,6033
+175,8076,Arts University Bournemouth,,7882,4579,11401,6033
+176,8199,Ravensbourne College of Design and Communication,,16858,4282,11401,6033
+177,8386,Royal Welsh College of Music & Drama,,11428,4828,11401,6033
+178,8525,University College of Estate Management,,13120,10424,6419,6033
+179,8538,Arden University,,16422,6829,10355,6033
+180,8611,Kaplan UK,,7924,5332,11401,6033
+181,8718,Royal Academy of Dramatic Art,,7318,5517,11401,6033
+182,9142,Pearson College London,,11971,5800,11401,6033
+183,9229,National Film and Television School,,12228,5883,11401,6033
+184,9282,"City of Glasgow College (Glasgow Metropolitan College, College of Nautical Studies)",,9962,6092,11401,6033
+185,9334,Leeds College of Art,,8898,6215,11401,6033
+186,9379,Plymouth College of Art and Design,,8146,6335,11401,6033
+187,9462,Sotheby's Institute of Art London,,14354,6048,11401,6033
+188,9479,BIMM (Tech Music School),,8764,6442,11401,6033
+189,9531,Liverpool Institute for Performing Arts,,19284,5773,11401,6033
+190,9600,Leeds College of Music,,15007,6184,11401,6033
+191,9628,Bradford College,,9573,6593,11401,6033
+192,9780,Westminster Kingsway College,,5904,7055,11401,6033
+193,9977,Nottingham College,,13917,6773,11401,6033
+194,10107,British School of Osteopathy,,17435,9024,10309,6033
+195,10142,European School of Osteopathy,,17013,10510,9009,6033
+196,10152,Greater Brighton Metropolitan College (City College Brighton + Northbrook College Sussex),,11089,7199,11401,6033
+197,10220,Myerscough College,,14313,7074,11401,6033
+198,10250,London Academy of Music and Dramatic Art,,18954,6758,11401,6033
+199,10463,Blackpool and The Fylde College,,9759,7720,11401,6033
+200,10517,Rose Bruford College,,9632,7808,11401,6033
+201,10620,Academy of Contemporary Music,,13983,7630,11401,6033
+202,10642,Gateshead College,,11158,7866,11401,6033
+203,10678,Loughborough College,,9759,8595,11232,6033
+204,10893,City College Norwich,,11810,8111,11401,6033
+205,10949,Blackburn College UK,,9530,8329,11401,6033
+206,11107,Guildford College,,15868,8065,11401,6033
+207,11230,Leeds College of Business Management and Technology,,14327,8347,11401,6033
+208,11437,Belfast Metropolitan College,,8678,8998,11401,6033
+209,11499,Grŵp Llandrillo Menai,,5081,9337,11401,6033
+210,11511,Grimsby Institute of Further & Higher Education,,13552,8774,11401,6033
+211,11568,South Devon College,,6588,9280,11401,6033
+212,11661,Fife College (Adam Smith College),,11784,9065,11401,6033
+213,11862,Croydon College,,11108,9358,11401,6033
+214,12026,City and Guilds of London Art School,,10753,9612,11401,6033
+215,12167,Carmarthenshire College,,7948,9995,11401,6033
+216,12232,London South East Colleges,,14548,9626,11401,6033
+217,12240,Wirral Metropolitan College,,7521,10113,11401,6033
+218,12297,Northern School of Contemporary Dance,,17507,9484,11401,6033
+219,12477,South Gloucestershire and Stroud College (Filton College),,6187,10534,11401,6033
+220,12483,Stranmillis University College,,14457,9946,11401,6033
+221,12483,National Centre for Circus Arts (The Circus Space in London),,18291,9647,11401,6033
+222,12525,Saint Mary's University College Belfast,,10019,10300,11401,6033
+223,12525,Gower College Swansea,,8617,10390,11401,6033
+224,12607,Stockport College,,13004,10205,11401,6033
+225,12665,Arts Educational Schools,,14475,10182,11401,6033
+226,12935,Lewisham Southwark College,,14493,10532,11401,6033
+227,12951,Hereford College of Arts,,11072,10757,11401,6033
+228,12960,South Tyneside College,,16751,10369,11401,6033
+229,12960,East Coast College (Great Yarmouth & Lowestoft),,12345,10698,11401,6033
+230,12972,Farnborough College of Technology,,13004,10651,11401,6033
+231,13047,Salford City College,,13322,10743,11401,6033
+232,13081,Ruskin College,,18254,10411,11401,6033
+233,13160,Bristol Old Vic Theatre School in Bristol,,20507,10346,11401,6033
+234,13191,The Manchester College,,14354,10855,11401,6033
+235,13196,Royal Drawing School,,15364,10794,11401,6033
+236,13274,West Suffolk College,,12390,11108,11401,6033
+237,13330,Darlington College of Technology,,16930,10852,11401,6033
+238,13341,Suffolk New College,,16897,10865,11401,6033
+239,13467,South Eastern Regional College,,9992,11496,11401,6033
+240,13734,Southern Regional College,,11158,11773,11401,6033
+241,13818,Halifax College,,13983,11714,11401,6033
+242,13905,South West College,,14649,11761,11401,6033
+243,14015,Somerset College of Arts and Technology,,16296,11785,11401,6033
+244,14047,British College of Osteopathic Medicine,,22741,11281,11401,6033
+245,14278,Ayrshire College (Ayr College),,11981,12449,11401,6033
+246,14288,Newcastle under Lyme College,,18263,11974,11401,6033
+247,14409,American University in London,,26982,17022,6532,6033
+248,14438,Northern Regional College,,10278,12829,11401,6033
+249,14475,London School of Business and Management,,16516,12397,11401,6033
+250,14480,Central School of Ballet in London,,20879,12015,11401,6033
+251,14827,European School of Economics London,,22427,12340,11401,6033
+252,14861,London Contemporary Dance School,,13842,13158,11401,6033
+253,14883,All Nations Christian College,,21065,12544,11401,6033
+254,14941,Conservatoire for Dance and Drama,,16150,13049,11401,6033
+255,15213,Rambert School of Ballet and Contemporary Dance,,21201,12972,11401,6033
+256,15243,Guildford School of Acting University of Surrey,,12120,13752,11401,6033
+257,15418,Selby College,,10243,14105,11401,6033
+258,15504,Tyne Metropolitan College TyneMet College,,17362,13682,11401,6033
+259,15522,English National Ballet School,,22226,13285,11401,6033
+260,15722,Redcar & Cleveland College,,17507,13941,11401,6033
+261,16161,London School of Jewish Studies,,16831,14629,11401,6033
+262,16437,Taitec Manchester,,27782,12636,11401,6033
+263,17089,Holborn College,,27782,13439,11401,6033
+264,17163,Manchester Academic Health Science Centre,,23791,15148,11401,6033
+265,17187,Medway School of Pharmacy,,19710,15655,11401,6033
+266,17632,Fashion Design University of Westminster,,23383,15801,11401,6033
+267,17951,Bristol Baptist College,,20396,16519,11401,6033
+268,18088,Ystrad Mynach College,,20478,16693,11401,6033
+269,18412,Andover College (Cricklade College),,19016,17242,11401,6033
+270,18640,London College of Science & Technology,,19546,17455,11401,6033
+271,18813,Grafton College of Management Sciences,,25390,16967,11401,6033
+272,19134,Otley College,,27782,16002,11401,6033
+273,19501,Futureworks Manchester School of Media,,26827,17499,11401,6033
+274,20222,London School of Theology,,20524,19349,11401,6033
+275,21216,International Colleges of Islamic Science Greater London,,25056,20062,11401,6033
+276,22341,London College of Business & Computing,,25745,21271,11401,6033
+277,22924,Interior Design Institute,,27204,21472,11401,6033
+278,23453,Manchester International College,,23996,22889,11401,6033
+279,24432,Azad University Oxford,,26246,23726,11401,6033

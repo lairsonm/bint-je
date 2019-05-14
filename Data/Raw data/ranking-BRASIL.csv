@@ -1,0 +1,1385 @@
+ranking,World Rank,University,Det.,Presence Rank*,Impact Rank*,Openness Rank*,Excellence Rank*
+1,79,(2) Universidade de São Paulo USP,,80,127,137,70
+2,212,Universidade Federal do Rio de Janeiro,,39,213,312,348
+3,286,Universidade Estadual de Campinas UNICAMP,,292,319,298,331
+4,362,Universidade Estadual Paulista Júlio de Mesquita Filho,,366,559,103,369
+5,368,Universidade Federal do Rio Grande do Sul UFRGS,,223,399,471,421
+6,422,Universidade Federal de Minas Gerais UFMG,,346,584,435,458
+7,433,Universidade Federal de Santa Catarina UFSC,,154,324,782,644
+8,553,Universidade Federal do Paraná,,30,574,738,817
+9,594,Universidade de Brasília UNB,,414,563,740,821
+10,596,Universidade Federal Fluminense,,259,407,1118,930
+11,714,Universidade Federal do Ceará,,603,850,702,875
+12,731,Universidade Federal da Bahia,,525,727,837,976
+13,734,Universidade Federal do Rio Grande do Norte,,645,754,751,963
+14,774,Universidade Federal de Goiás UFG,,52,849,889,1092
+15,775,Universidade do Estado do Rio de Janeiro UERJ,,765,1359,304,813
+16,788,Universidade Federal de Pernambuco,,758,1128,794,844
+17,799,Universidade Federal de São Paulo UNIFESP,,1360,2017,746,556
+18,830,Pontificia Universidade Católica do Rio de Janeiro PUC-RIO,,704,827,1035,1130
+19,872,Universidade Federal de São Carlos,,1036,1550,690,873
+20,900,Universidade Federal de Santa Maria UFSM,,75,1474,944,1020
+21,1015,Pontificia Universidade Católica do Rio Grande do Sul PUCRS,,1088,1169,812,1350
+22,1026,Universidade Federal de Pelotas UFPEL,,929,1916,713,1023
+23,1046,Universidade Federal de Viçosa UFV,,252,2235,614,1047
+24,1081,Universidade Estadual de Maringá,,717,1424,849,1353
+25,1083,Universidade Federal do Pará UFPA,,838,1282,1003,1385
+26,1101,Universidade Estadual de Londrina,,1032,1567,1027,1248
+27,1101,Universidade Federal da Paraíba UFPB,,510,1762,911,1222
+28,1141,Universidade Federal de Campina Grande,,1510,797,923,1933
+29,1209,Fundação Getulio Vargas FGV,,43,552,936,2752
+30,1214,Universidade Federal de Uberlândia,,698,1784,1352,1334
+31,1218,Universidade Federal de Juiz de Fora UFJF,,571,2651,1902,938
+32,1252,Universidade Tecnológica Federal do Paraná UTFPR,,665,1472,1513,1533
+33,1285,Universidade Federal do Espírito Santo,,1075,2111,1110,1370
+34,1379,Universidade Federal do Amazonas UFAM,,1435,1006,1947,2044
+35,1401,Pontificia Universidade Católica do Paraná PUCPR,,1995,1926,543,1787
+36,1435,Universidade Federal do ABC UFABC,,2620,4898,519,936
+37,1506,Universidade Federal de São João del Rei UFSJ,,2387,3535,2112,1089
+38,1514,Universidade Federal de Lavras UFLA,,1223,3034,975,1507
+39,1579,Universidade Estadual de Ponta Grossa UEPG,,1974,2022,1288,1940
+40,1635,Universidade Federal de Sergipe UFS,,788,3284,1632,1556
+41,1697,Universidade Federal do Rio Grande FURG,,1319,3290,1295,1677
+42,1709,Universidade Federal do Maranhão,,1564,1510,2099,2334
+43,1726,Universidade Federal de Ouro Preto UFOP,,512,3000,1712,1851
+44,1759,Universidade do Estado de Santa Catarina UDESC,,1435,2081,2172,2125
+45,1762,Universidade Federal de Alagoas,,2114,3282,1679,1710
+46,1771,Universidade do Vale do Rio dos Sinos UNISINOS,,1574,1541,1412,2599
+47,1870,Universidade Federal de Mato Grosso,,1553,3107,2248,1905
+48,2014,Universidade Federal de Mato Grosso do Sul,,1417,2973,1877,2319
+49,2092,Universidade Federal Rural do Rio de Janeiro UFRRJ,,1861,4167,1772,2044
+50,2108,Universidade Estadual do Oeste do Paraná UNIOESTE,,1510,2839,2284,2486
+51,2111,Pontificia Universidade Católica do Minas Gerais PUC MINAS,,1537,2634,2405,2551
+52,2121,Universidade Estadual de Feira de Santana UEFS,,2829,3769,1529,2230
+53,2147,Universidade Presbiteriana Mackenzie,,2534,2744,1214,2765
+54,2178,Universidade Católica de Brasilia,,2637,3462,1535,2449
+55,2178,Universidade Federal Rural de Pernambuco UFRPE,,1877,5301,2001,1829
+56,2197,Universidade Estadual de Montes Claros UNIMONTES,,1985,2030,2456,2966
+57,2233,Pontificia Universidade Católica de São Paulo PUC-SP,,87,1482,848,3972
+58,2263,Instituto Tecnológico de Aeronáutica ITA,,4630,4363,1532,2203
+59,2333,Universidade de Caxias do Sul,,2760,3335,2515,2563
+60,2345,Universidade Estadual da Paraíba UEPB,,1887,3219,3107,2599
+61,2379,Universidade Estácio de Sá,,3355,2821,1705,3004
+62,2401,Universidade Estadual do Ceará,,1802,4191,2004,2551
+63,2406,Universidade de Passo Fundo,,2124,3547,2308,2716
+64,2443,Universidade Paulista UNIP,,3708,2804,2785,2943
+65,2457,Universidade Federal de Itajubá UNIFEI,,3411,4588,2267,2404
+66,2508,Universidade Estadual do Centro Oeste UNICENTRO,,3226,2560,2993,3150
+67,2524,Universidade Nove de Julho,,3524,5279,1393,2502
+68,2606,Universidade Federal do Estado do Rio de Janeiro UNIRIO,,1960,4849,3083,2551
+69,2614,Universidade Federal da Grande Dourados UFGD,,3068,3882,2005,2986
+70,2635,Universidade de Pernambuco,,6445,6254,1886,2277
+71,2658,Universidade do Sul de Santa Catarina UNISUL,,2604,4327,2313,2879
+72,2666,Universidade Estadual de Santa Cruz UESC,,3467,5305,2072,2599
+73,2724,Universidade de Fortaleza UNIFOR,,4128,4713,2523,2782
+74,2740,Universidade Estadual do Norte Fluminense Darcy Ribeiro,,5133,7192,1333,2369
+75,2749,Universidade Federal do Triangulo Mineiro UFTM,,6118,5740,2522,2486
+76,2781,Universidade Federal dos Vales do Jequitinhonha e Mucuri UFVJM,,2413,5788,1822,2782
+77,2784,Universidade do Estado da Bahia UNEB,,457,2876,3256,3696
+78,2800,Universidade Federal de Alfenas UNIFAL-MG,,3058,8303,1022,2404
+79,2808,Universidade de Santa Cruz do Sul UNISC,,2588,2186,3285,3860
+80,2825,Universidade do Vale do Itajaí UNIVALI,,2785,3741,2218,3446
+81,2862,Universidade Federal do Pampa UNIPAMPA,,1463,7636,2080,2518
+82,2930,Universidade Luterana do Brasil ULBRA,,2091,5384,3614,2899
+83,2940,(1) Universidade do Extremo Sul Catarinense UNESC,,2186,7509,3019,2518
+84,2980,Universidade Federal do Vale do São Francisco UNIVASF,,2743,5370,3302,3058
+85,3018,Universidade Federal Rural da Amazônia,,3124,3003,3934,3816
+86,3024,Universidade Regional de Blumenau FURB,,2557,4161,3211,3556
+87,3024,Centro Federal de Educacão Tecnológica de Minas Gerais CEFET-MG,,3008,5674,3822,2966
+88,3048,Universidade Salvador UNIFACS,,4916,2544,3335,4095
+89,3080,Universidade Federal do Tocantins UFT,,1102,4984,2618,3591
+90,3084,Universidade Federal do Piauí UFPI,,1164,3532,11401,2164
+91,3095,Universidade Federal do Recôncavo da Bahia UFRB,,1915,4770,3341,3522
+92,3114,Universidade Federal de Ciências da Saúde de Porto Alegre UFCSPA,,5387,9746,1652,2468
+93,3143,Universidade do Estado de Mato Grosso UNEMAT,,1893,5927,3013,3310
+94,3145,Universidade Paranaense UNIPAR,,3962,3387,3663,3925
+95,3150,Universidade Estadual de Goiás UEG,,2171,4703,3873,3556
+96,3204,Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Norte IFRN,,533,2783,4203,4330
+97,3236,Universidade do Vale do Paraíba UNIVAP,,4692,7491,2169,3124
+98,3257,Universidade do Estado do Amazonas UEA,,5387,7438,3726,2921
+99,3274,Universidade Federal Rural do Semi-Árido UFERSA,,2549,6343,2201,3556
+100,3287,Universidade Guarulhos UNG,,4897,8703,1770,3004
+101,3295,Universidade Cruzeiro do Sul,,7484,7427,1962,3226
+102,3315,Universidade Federal de Rondônia,,2284,6113,2951,3591
+103,3318,Universidade Federal do Acre UFAC,,3008,7368,3951,3098
+104,3394,Faculdade de Medicina de São José do Rio Preto FAMERP,,8394,8032,1764,3275
+105,3423,Universidade Tiradentes UNIT,,3589,8541,4735,2858
+106,3446,Centro Universitário da Fundação Educacional Inaciana,,4753,7499,2662,3414
+107,3450,Universidade de Taubaté UNITAU,,4455,4434,5600,3779
+108,3485,Centro Federal de Educação Tecnológica Celso Suckow do Fonseca CEFET/RJ,,5211,6550,3849,3522
+109,3489,Instituto Federal de Educação Ciência e Tecnologia do Espírito Santo,,5574,4445,4016,4029
+110,3511,Universidade Metodista de São Paulo,,1631,1743,3697,5064
+111,3520,Pontificia Universidade Católica do Campinas PUC-CAMPINAS,,4218,4315,2386,4330
+112,3588,Universidade Positivo,,5733,6991,3398,3625
+113,3592,Instituto Federal de Educação Ciência e Tecnologia de São Paulo IFSP,,1273,5691,3819,4029
+114,3598,Universidade Federal de Roraima UFFR,,2272,5062,4207,4095
+115,3634,Universidade Estadual do Maranhão UEMA,,2700,3104,5750,4479
+116,3637,Anhanguera Educacional,,9801,5680,2682,4029
+117,3658,Instituto Federal de Educação Ciência e Tecnologia do Rio de Janeiro IFRJ,,4827,9859,3765,3004
+118,3667,Faculdade de Ciências Médicas da Santa Casa de São Paulo FCMSCSP,,6468,9606,2821,3198
+119,3679,Universidade Federal do Cariri,,4505,1823,4539,5064
+120,3695,Universidade FEEVALE,,4422,6639,3666,3860
+121,3709,Universidade do Estado do Rio Grande do Norte UERN,,3594,8056,3869,3591
+122,3732,Universidade Federal do Oeste do Para,,4233,9334,3200,3381
+123,3735,Universidade Federal da Fronteira Sul UFFS,,475,9086,2721,3735
+124,3739,Universidade Regional do Cariri URCA,,6844,7238,3775,3735
+125,3740,Instituto Nacional de Telecomunicaçoes INATEL,,6468,6128,4678,3860
+126,3747,Universidade Católica Dom Bosco,,3061,7261,3199,3925
+127,3765,Universidade Federal da Integração Latino-Americana,,1678,7314,2922,4029
+128,3787,Centro Universitário UNIVATES,,2729,7162,3820,3925
+129,3788,Universidade do Sagrado Coração USC,,7025,8115,3433,3655
+130,3805,Universidade do Oeste de Santa Catarina UNOESC,,2835,4622,4656,4409
+131,3813,Universidade Norte do Paraná UNOPAR,,9720,8002,4655,3522
+132,3821,Universidade Católica de Pernambuco,,2996,6059,5551,3972
+133,3827,Universidade Estadual de Mato Grosso do Sul,,4428,7390,3855,3860
+134,3830,Escola Superior de Propaganda e Marketing ESPM,,2762,2831,3260,5064
+135,3875,Universidade de Ribeirão Preto UNAERP,,6954,9041,2053,3779
+136,3885,Centro Universitário de Maringá CESUMAR,,4386,1763,5113,5288
+137,3886,Instituto Federal de Educação Ciência e Tecnologia de Santa Catarina IFSC,,1724,4540,4618,4566
+138,3889,Universidade Vila Velha UVV,,13657,9993,2332,3446
+139,3895,Universidade de Sorocaba,,6258,10105,2318,3556
+140,3925,Universidade do Grande Rio UNIGRANRIO,,9673,9965,6152,2986
+141,3934,Fundação e Faculdade de Medicina do ABC,,11466,13075,2954,2716
+142,4004,Universidade Santa Cecilia UNISANTA,,4017,8642,3628,3925
+143,4018,Universidade Regional do Noroeste do Estado do Rio Grande do Sul UNIJUÍ,,1957,6655,2934,4479
+144,4041,Centro Universitário de Belo Horizonte UNIBH,,11820,1995,6980,5064
+145,4075,Instituto Federal Catarinense,,368,5247,4462,4768
+146,4075,Universidade do Oeste Paulista UNOESTE,,3258,6776,3113,4479
+147,4081,Pontificia Universidade Catolica de Goiás PUC Goiás,,987,3493,11401,3860
+148,4098,Universidade Veiga de Almeida,,9632,7528,4108,4140
+149,4098,Universidade de Santo Amaro UNISA,,10876,9602,3898,3696
+150,4110,Universidade Estadual do Sudoeste da Bahia UESB,,2505,5518,11401,3177
+151,4163,Faculdade de Odontologia São Leopoldo Mandic,,10622,14076,1985,3058
+152,4178,Universidade Comunitaria da Região de Chapecó UNOCHAPECÓ,,3130,8447,4104,4202
+153,4199,Instituto Federal de Educação Ciência e Tecnologia Paraíba IFPB,,2067,7964,4878,4269
+154,4199,Universidade de Franca UNIFRAN,,11406,12236,2061,3522
+155,4207,Senac Serviço Nacional de Aprendizagem Comercial Departamento Nacional,,486,1098,6551,6033
+156,4229,Universidade Anhembi Morumbi,,5259,4299,3526,5064
+157,4229,Universidade São Francisco,,5525,11307,1969,3860
+158,4281,Instituto Federal de Educação Ciência e Tecnologia Fluminense,,2228,6132,5040,4666
+159,4285,Universidade Potiguar UNP,,5226,9293,6231,3816
+160,4321,Universidade do Mogi Das Cruzes UMC,,6628,10080,3632,4029
+161,4392,Universidade Estadual do Paraná UNESPAR,,3399,4619,6433,4908
+162,4418,Instituto Federal de Educação Ciência e Tecnologia do Rio Grande do Sul IFRS,,1827,1949,3830,6033
+163,4480,Universidade FUMEC,,4769,6338,3792,4908
+164,4485,Centro Universitário de Brasilia UNICEUB,,2693,6036,4832,4908
+165,4596,Escola Bahiana de Medicina e Saúde Publica,,4739,11868,4072,3972
+166,4609,Centro Universitário de Araraquara UNIARA,,8553,10549,4067,4202
+167,4610,Universidade Estadual do Piauí UESPI,,4916,5896,11401,3735
+168,4635,Faculdades EST,,5241,1357,7580,6033
+169,4666,Universidade de Uberaba UNIUBE,,5607,8527,4208,4666
+170,4677,Faculdade de Medicina de Marília,,8125,12760,4466,3779
+171,4679,Universidade Estadual Vale do Acaraú UVA,,7395,9506,6491,4202
+172,4724,Universidade Salgado de Oliveira UNIVERSO,,8003,10154,8359,3816
+173,4747,Universidade de Cruz Alta UNICRUZ,,6304,7322,5636,4768
+174,4761,Universidade Federal do Amapa UNIFAP,,2807,6873,11401,3779
+175,4766,Instituto Federal Goiano,,3094,3067,3016,6033
+176,4800,Centro Universitário do Maranhão UNICEUMA,,9310,12580,3786,4029
+177,4826,Instituto Federal de Educação Ciência e Tecnologia de Pernambuco IFPE,,1516,8107,4998,4908
+178,4847,Universidade José do Rosário Vellano Alfenas,,4843,10236,5399,4409
+179,4885,Universidade Federal de Integração Luso Afro Brasileira UNILAB,,3779,9981,3086,4768
+180,4909,Universidade Brasil,,8536,15575,3745,3591
+181,4917,Universidade Vale do Rio Verde UNINCOR,,6628,2696,11401,4908
+182,5027,Fundação Dom Cabral FDC,,10463,6747,5768,5064
+183,5049,Instituto Federal de Educação Ciência e Tecnologia do Sul de Minas Gerais IFSULDEMINAS,,1847,8669,4417,5064
+184,5073,Universidade Regional Integrada do Alto Uruguai e das Missões URI,,4474,7360,11401,3972
+185,5081,Universidade Estadual do Rio Grande do Sul UERGS,,6844,11567,4251,4479
+186,5086,Universidade Estadual do Norte do Paraná UENP,,4108,9928,3504,4908
+187,5102,Centro Universitário Augusto Motta UNISUAM,,7624,10899,5404,4479
+188,5146,Universidade Católica de Santos UNISANTOS,,6751,9000,3714,5064
+189,5158,Universidade de Contestado,,6723,8983,6523,4768
+190,5206,Universidade de Marilia UNIMAR,,10004,10900,5225,4566
+191,5240,Instituto de Ensino e Pesquisa INSPER,,5955,5055,1838,6033
+192,5256,Universidade Estadual de Ciências da Saúde de Alagoas UNCISAL,,5984,10706,4443,4768
+193,5281,(1) Fundação Herminio Ometto FHO UNIARARAS,,7025,12122,4061,4566
+194,5291,Faculdade de Tecnología de São Paulo,,12390,11814,5478,4409
+195,5294,Instituto Federal Sul Rio Grandense,,2367,9243,5117,5064
+196,5338,Universidade São Judas Tadeu,,10404,8244,3867,5288
+197,5402,(1) Centro Universitário UNA,,8175,9050,6619,4908
+198,5405,Instituto Mauá de Tecnología,,9448,9316,4593,5064
+199,5612,Universidade da Região de Joinville UNIVILLE,,5081,9852,11401,3925
+200,5670,Universidade Castelo Branco,,9098,8004,8201,5064
+201,5682,IFB Instituto Federal de Brasília,,3050,4914,5447,6033
+202,5720,"Escola Brasileira de Administração Pública e de Empresas, Fundação Getulio Vargas",,10389,10268,11401,3816
+203,5761,Fundação Armando Alvares Penteado FAAP,,6588,4021,7061,6033
+204,5802,Instituto Federal de Educação Ciência e Tecnologia de Alagoas,,1817,9574,5933,5288
+205,5816,Instituto Federal de Educação Ciência e Tecnologia do Ceará,,1970,6677,3318,6033
+206,5836,Escola Nacional da Administração Pública,,2769,3354,9230,6033
+207,5867,Fundação Escola de Comercio Alvares Penteado FECAP,,7256,8336,4507,5580
+208,5874,Centro Universitário Eurípides de Marília UNIVEM,,5241,7134,6651,5580
+209,5884,Universidade do Vale do Sapucai,,9240,14454,6004,4330
+210,5893,Centro Universitário Fieo UNIFIEO,,12572,9938,4141,5288
+211,5893,Instituto Federal de Educação Ciência e Tecnologia da Bahia IFBA,,895,6371,4809,6033
+212,5935,Universidade Católica de Salvador UCSal,,4813,9217,3814,5580
+213,6003,Insituto Federal Farroupilha,,3608,5914,5153,6033
+214,6021,Fundação Universitária de Cardiologia,,21494,18753,8028,3058
+215,6168,Faculdades La Salle UNILASALLE,,3872,8102,2512,6033
+216,6168,Centro Universitário Ritter dos Reis UNIRITTER,,6279,9147,4988,5580
+217,6191,Centro Universitario UNIRG,,6118,5831,10786,5288
+218,6191,FAE Centro Universitário,,6304,6638,8672,5580
+219,6228,Grupo Educacional UNINTER,,4813,5937,6036,6033
+220,6255,Ifap Instituto Federal do Amapá,,5629,5152,7380,6033
+221,6279,Universidade Metropolitana de Santos UNIMES,,14327,12368,7668,4666
+222,6320,Instituto Federal de Educação Ciência e Tecnologia Baiano Catu IFBAIANO,,3872,9385,5852,5580
+223,6335,Centro Universitário São Camilo São Paulo,,9859,10382,6166,5288
+224,6372,Universidade Municipal de São Caetano do Sul USCS,,5008,8323,2975,6033
+225,6379,Centro Paula Souza,,3691,9183,8773,5288
+226,6410,Instituto de Educação Superior Presidente Kennedy IFESP,,15868,1957,11401,6033
+227,6417,Centro Universitario Estadual da Zona Oeste,,9699,15699,6424,4409
+228,6447,Universidade do Estado de Minas Gerais UEMG,,3411,6691,11401,5064
+229,6449,Instituto Federal de Educação Ciência e Tecnologia do Piauí,,3955,9540,6237,5580
+230,6485,Faculdades Metropolitanas Unidas FMU,,4000,6755,11401,5064
+231,6540,Centro Universitário Salesiano de São Paulo UNISAL,,5550,6609,6493,6033
+232,6545,Faculdade Campo Limpo Paulista,,8950,14449,7432,4566
+233,6681,Universidade Católica de Petrópolis,,9779,9927,5926,5580
+234,6685,Instituto Federal de Educação Ciência e Tecnologia do Tocantins,,3263,6964,7049,6033
+235,6697,Escola Superior de Ciências da Santa Casa de Misericordia de Vitoria,,11820,14831,8975,4330
+236,6697,Fundação Educacional de Ituverava,,7899,3168,11096,6033
+237,6736,Universidade Metodista de Piracicaba UNIMEP,,5819,13725,11401,3860
+238,6761,Centro Universitário Barão de Mauá,,8125,11943,7598,5064
+239,6809,Faculdades de Taquara FACCAT,,5955,7777,5743,6033
+240,6833,Faculdade Social da Bahia,,10834,5655,8394,6033
+241,6870,Faculdade Integrado de Campo Mourão,,5511,5761,8844,6033
+242,6870,Centro Universitário de Votuporanga UNIFEV,,7025,2936,11401,6033
+243,6880,Universidade Franciscana,,14548,14929,11401,3591
+244,6946,Universidade Gama Filho,,11709,11128,11401,4409
+245,6974,Centro Universitário de João Pessoa UNIPÊ,,6043,9303,8271,5580
+246,6999,Universidade Cidade de São Paulo UNICID,,8805,9069,4121,6033
+247,7005,Universidade da Amazonia,,4488,8035,6413,6033
+248,7055,Faculdade Meridional,,3822,9600,4222,6033
+249,7079,FIA Business School,,9880,7716,6501,6033
+250,7111,Instituto Federal de Educação Ciência e Tecnologia de Mato Grosso Campus Cuiabá,,2851,9349,5102,6033
+251,7117,Instituto Federal de Minas Gerais IFMG,,1878,9528,5142,6033
+252,7137,Universidade Braz Cubas de Mogi das Cruzes UBC,,9507,10647,8877,5288
+253,7173,Centro Universitário do Estado do Pará CESUPA,,8421,12357,8448,5064
+254,7277,Faculdades de Direito de Vitoria FDV,,11272,7923,6772,6033
+255,7277,Instituto Federal de Educação Ciência e Tecnologia do Maranhão IFMA,,2769,10212,4337,6033
+256,7299,Centro Universitário Cesmac,,6880,14101,6692,5064
+257,7319,Faculdade Cásper Líbero FACASPER,,5525,9272,5423,6033
+258,7398,Faculdade Christus Unichristus,,8170,10022,10875,5064
+259,7422,FUCAPE Business School,,6987,12637,4797,5580
+260,7456,Centro Universitário Belas Artes de São Paulo,,6304,7385,8483,6033
+261,7456,Faculdade dos Imigrantes FAI,,5955,8140,7607,6033
+262,7463,Escola de Pos-Graduacao em Economia da Fundacao Getulio Vargas,,5492,11865,11401,4566
+263,7469,Instituto Federal de Educação Tecnológica do Pará IFPA,,3419,9796,5535,6033
+264,7500,Unicatólica Quixadá,,7169,7107,8877,6033
+265,7557,Faculdade Evangélica do Paraná,,15574,11376,11401,4566
+266,7577,Universidade Vale do Rio Doce UNIVALE,,6751,12452,9462,5064
+267,7587,Fundação Universidade do Tocantins UNITINS,,15091,10858,7219,5580
+268,7614,Faculdades Integradas do Brasil UNIBRASIL,,5840,8804,7121,6033
+269,7622,Faculdade Maurício de Nassau UNINASSAU,,3361,8490,11401,5288
+270,7647,Instituto Federal de Mato Grosso do Sul IFMS,,5387,9310,6426,6033
+271,7708,Universidadé de Cuiabá UNIC,,15774,12987,11401,4330
+272,7718,Centro de Ensino Superior dos Campos Gerais CESCAGE,,10433,3962,11401,6033
+273,7743,Instituto Federal de Educação Ciência e Tecnologia do Sudeste de Minas Gerais,,3327,10996,4482,6033
+274,7756,Faculdade Leão Sampaio,,7438,16186,7776,4768
+275,7778,Faculdade de Tecnologia Machado de Assis FAMA,,3181,4547,11401,6033
+276,7817,Faculdade de Ciencias Medicas e da Saúde de Juiz de Fora SUPREMA,,9767,17978,7776,4479
+277,7819,Faculdade de Medicina de Jundiaí,,16243,15839,3020,5288
+278,7867,Centro Universitário Filadélfia UNIFIL,,11960,7936,8359,6033
+279,7867,Faculdade Frassinetti do Recife,,21948,3583,11401,6033
+280,7903,Universidade Católica de Pelotas,,3779,13175,1688,6033
+281,7972,Faculdade São Lucas,,9933,15373,8063,4908
+282,8123,Universidade Ibirapuera UNIB,,15294,12491,11401,4566
+283,8176,Instituto AOCP,,8483,4679,11401,6033
+284,8306,Instituto Federal de Ciência e Tecnologia de Sergipe IFS,,5226,11064,5617,6033
+285,8317,Centro Universitário Newton Paiva,,9814,9482,7551,6033
+286,8348,Instituto Federal do Amazonas,,3116,11200,5997,6033
+287,8363,Faculdade de Tecnología e Ciencias de Feira de Santana FTC,,12220,4753,11401,6033
+288,8455,Centro Universitário da Grande Dourados UNIGRAN,,7995,12211,10786,5064
+289,8541,Senac São Paulo,,1823,11279,6826,6033
+290,8582,Instituto Federal de Educação Ciência e Tecnologia do Triangulo Mineiro IFTM,,4539,12158,4816,6033
+291,8631,Instituto Federal de Educação Ciência e Tecnologia do Sertão Pernambucano,,4298,10928,6933,6033
+292,8666,Instituto Federal de Rondônia IFRO,,3651,11016,7033,6033
+293,8675,Universidade Anhanguera UNIDERP,,12572,10785,11401,5064
+294,8726,Universidade Estadual de Roraima,,5926,9605,8678,6033
+295,8726,Centro Universitário de Anapolis UNIEVANGÉLICA,,5287,11852,5532,6033
+296,8927,Centro Universitário Claretiano,,6187,11245,6818,6033
+297,8938,Centro Universitário Nossa Senhora do Patrocínio CEUNSP,,16202,10815,9975,5580
+298,8969,Grupo Educacional Opet,,11329,5593,11401,6033
+299,9004,Universidade Nilton Lins,,19238,16269,11401,4140
+300,9052,Universidade do Planalto Catarinense UNIPLAC,,5715,16556,6552,5288
+301,9105,Faculdades do Vale do Juruena AJES,,9427,9150,9514,6033
+302,9118,Instituto Federal do Norte de Minas Gerais,,2878,12089,6569,6033
+303,9142,Grupo Educacional UNIESP,,6043,10431,8433,6033
+304,9214,Faculdades Integradas Helio Alonso FACHA,,9530,8281,10392,6033
+305,9214,Instituto de Ensino Superior Fucapi FUCAPI,,22955,13672,8591,5288
+306,9270,Centro Universitário Leonardo da Vinci UNIASSELVI,,7484,9934,9060,6033
+307,9348,(1) Centro Universitário de Volta Redonda UNIFOA,,11634,18065,7631,4908
+308,9386,Centro Universitário da Fundação de Ensino Octavio Bastos UNIFEOB,,9583,9134,11401,5580
+309,9386,Instituto Superior de Fillosofia Berthier,,10731,8646,10235,6033
+310,9408,UniSociesc,,16243,11012,7082,6033
+311,9424,Serviço Nacional de Aprendizagem Industrial de Santa Catarina,,7484,11000,7984,6033
+312,9446,UNASP Campus Hortolandia,,5477,11177,11401,5288
+313,9512,Centro Universitário de Brusque UNIFEBE,,5018,11604,7639,6033
+314,9531,Faculdade de Castanhal FCAT,,11663,6334,11401,6033
+315,9600,(1) Universidade Candido Mendes UCAM,,13858,10795,11401,5288
+316,9707,Instituto de Educação Superior de Brasília IESB,,9314,9858,9612,6033
+317,9715,Senac Rio Grande do Sul,,3383,7300,11401,6033
+318,9916,Faculdade Assis Gurgacz FAG,,4327,11093,9047,6033
+319,9994,Centro Universitário do Sul de Minas UNIS,,508,11955,9213,6033
+320,10058,Faculdade Ingá UNINGÁ,,8064,15568,11401,4666
+321,10083,Fundação Escola de Sociologia e Política de São Paulo FESPSP,,9336,10886,9047,6033
+322,10090,Centro Universitário de Goias UNIANHANGUERA,,14709,8944,10486,6033
+323,10287,Faculdades Integradas Aparicio Carvalho FIMCA,,11358,11411,8601,6033
+324,10295,Business School São Paulo,,24466,13183,10309,5288
+325,10301,Instituto Federal do Acre IFAC,,3882,13208,7195,6033
+326,10311,Universidade do Estado do Pará UEPA,,9147,21635,11401,3625
+327,10439,Instituto Federal de Educação Ciência e Tecnologia de Roraima,,4025,13706,6723,6033
+328,10492,Centro Universitário de Várzea Grande UNIVAG,,7787,14698,11401,4908
+329,10517,(3) Universidade Candido Mendes Campos dos Goytacazes,,12157,11977,8235,6033
+330,10570,Faculdade de Informática e Administração Paulista FIAP,,6723,8092,11401,6033
+331,10620,Faculdades Integradas Alcantara Machado Faculdade de Artes Alcantara Machado FIAM-FAAM,,9840,13852,6045,6033
+332,10620,Centro Universitário de Patos de Minas UNIPAM,,5259,11648,9312,6033
+333,10632,Centro Universitário Adventista de São Paulo UNASP,,9666,13314,6919,6033
+334,10642,Centro Universitário Fundação Santo André FSA,,11705,13300,6766,6033
+335,10795,Instituto Metodista Izabela Hendrix,,7521,14843,9195,5580
+336,10845,Centro Universitario do Norte,,7205,12429,8563,6033
+337,10936,Escola de Direito do Rio de Janeiro da Fundação Getulio Vargas FGV-DIREITO,,9573,8306,11401,6033
+338,10972,Faculdade de Ciências Aplicadas e Sociais de Petrolina FACAPE,,12890,11709,9129,6033
+339,11014,Instituto Nacional de Educação de Surdos INES,,8069,11068,10084,6033
+340,11091,Wyden Educacional (DeVry Brasil),,5032,8835,11401,6033
+341,11188,Centro Universitario Curitiba UNICURITIBA,,6258,11860,9676,6033
+342,11283,Fundação Lusiada-Centro Universitario Lusíada UNILUS,,10866,15469,10486,5288
+343,11296,(3) Pontificia Universidade Católica do Minas Gerais PUC MINAS Poços de Caldas,,12519,12860,8333,6033
+344,11319,Centro Universitário de Franca UNI-FACEF,,4155,12048,11401,5580
+345,11378,Fundação Educacional de Barretos UNIFEB,,10138,15723,11401,4908
+346,11451,Universidade Presidente Antonio Carlos UNIPAC,,9962,13498,11401,5288
+347,11460,IME Instituto Militar de Engenharia,,10575,25310,11401,3037
+348,11471,Toledo Prudente Centro Universitatrio (UNITOLEDO),,3581,11784,10309,6033
+349,11511,IPOG Instituto de Pós Graduação Pólo Natal,,7764,9142,11401,6033
+350,11589,Escola de Direito de São Paulo,,6954,9278,11401,6033
+351,11619,Instituto Adventista Paranaense IAP,,12189,8978,11401,6033
+352,11649,Universidade Estadual de Alagoas UNEAL,,8115,13210,8834,6033
+353,11692,Faculdade de Ciências Médicas de Minas Gerais,,13945,16713,11401,4768
+354,11703,Centro Universitário de Sete Lagoas UNIFEMM,,13495,14187,7255,6033
+355,11710,Centro Universitário Católica de Santa Catarina,,8469,14261,7655,6033
+356,11916,ESCS Escola Superior de Ciências da Saúde,,2371,10283,11401,6033
+357,11956,Faculdade de Engenharia de Minas Gerais FEAMIG,,17507,9043,11401,6033
+358,11973,Faculdade Estadual de Ciências e Letras de Campo Mourao,,7744,13022,9485,6033
+359,11973,Senai São Paulo,,3941,16216,6264,6033
+360,11982,Centro Universitário de Formiga UNIFOR-MG,,6531,13047,9576,6033
+361,11988,Universidade Santa Úrsula,,13513,13487,10987,5580
+362,11999,Faculdade da Amazônia,,23904,8546,11401,6033
+363,12060,Faculdades Associadas de Ensino São João da Boa Vista UNIFAE,,7624,15870,6330,6033
+364,12060,Faculdades Integradas de Ourinhos FIO,,13513,17638,7624,5580
+365,12060,Centro Universitario Barriga Verde UNIBAVE,,6370,13916,8821,6033
+366,12070,Faculdade da Serra Gaúcha FSG,,6344,12439,10206,6033
+367,12087,Associação Caruaruense de Ensino Superior,,4780,14552,8405,6033
+368,12094,Centro Universitário do Rio Grande do Norte UNI-RN,,6043,13543,9312,6033
+369,12261,Faculdade NOVAFAPI,,10900,16168,6033,6033
+370,12387,Centro Universitário de Rio Preto UNIRP,,14531,17487,8249,5580
+371,12401,UNICARIOCA,,11830,13345,9485,6033
+372,12459,Faculdades de Campinas FACAMP,,18167,15052,7099,6033
+373,12459,Centro Universitário do Distrito Federal UDF,,12007,12891,10004,6033
+374,12549,Escola Superior de Administração Marketing e Comunicação de Campinas ESAMC,,10590,13015,10053,6033
+375,12549,Centro Universitário Serra dos Órgãos UNIFESO,,12323,14928,11401,5288
+376,12583,Faculdade de Tecnología FTEC,,13077,13338,9676,6033
+377,12590,Faculdades FAESA,,10845,12084,10658,6033
+378,12620,Universidade para o Desenvolvimento do Alto Vale do Itajaí UNIDAVI,,9158,13831,9462,6033
+379,12659,Centro Universitário do Norte Paulista UNORP,,14865,17042,9149,5580
+380,12659,Faculdade Projeção Ceilândia,,6559,16243,7148,6033
+381,12659,Senai RS,,7624,12314,10718,6033
+382,12665,Associação Educacional Dom Bosco AEDB,,7825,11229,11232,6033
+383,12679,Universidade Iguaçu UNIG,,13544,13213,11401,5580
+384,12718,Universidade de Rio Verde FESURV,,9720,15385,11401,5288
+385,12718,Centro Universitário de União da Vitória UNIUV,,11234,14039,9274,6033
+386,12757,Faculdades Integradas Brasil Amazônia FIBRA,,11796,10507,11401,6033
+387,12765,Universidade á Distancia do Norte do Paraná UNOPAR,,15441,10237,11401,6033
+388,12802,Centro Universitário de Lins UNILINS,,8622,17953,10392,5288
+389,12835,Faculdade de Rondônia,,8669,10769,11401,6033
+390,12901,Centro Universitário Toledo,,3608,14793,9485,6033
+391,13001,Centro Universitario Jorge Amado UNIJORGE,,9814,10903,11401,6033
+392,13035,Centro Universitário Central Paulista UNICEP,,9507,17119,11401,5064
+393,13072,Faculdades Pedro Leopoldo,,8297,15862,8117,6033
+394,13081,Centro Universitário UNIEURO,,9072,14003,11401,5580
+395,13100,Faculdade Latino Americana de Ciências Sociais FLACSO,,9483,11056,11401,6033
+396,13196,Faculdade de Engenharia de Sorocaba FACENS,,9169,12415,10987,6033
+397,13206,Institução Toledo de Ensino,,14354,15964,7744,6033
+398,13206,Faculdade de Ciências Humanas e Sociais de Igarassu FACIG,,6811,11396,11401,6033
+399,13218,Faculdade Novos Horizontes,,11944,17070,6535,6033
+400,13218,Senac Rio,,3340,14014,10440,6033
+401,13284,Faculdade de Ciências Biológicas e da Saúde UNIVIÇOSA,,8747,17220,10153,5580
+402,13293,Universidade Tuiuti do Paraná UTP,,13107,15954,11401,5288
+403,13293,Faculdade da Saúde e Ecologia Humana FASEH,,12458,19805,11401,4666
+404,13349,(1) Universidade de Itaúna UI,,16150,17079,11401,5064
+405,13358,Faculdade Católica de Santa Catarina FACASC,,15007,11015,11401,6033
+406,13411,Instituto de Engenharia IE,,5773,11736,11401,6033
+407,13475,Faculdade de Desenvolvimento do Rio Grande do Sul FADERGS,,9637,15474,9096,6033
+408,13493,Faculdades FAEL,,10814,12915,10875,6033
+409,13493,Faculdades Integradas UPIS,,15127,14163,11401,5580
+410,13533,Faculdade União das Américas UNIAMÉRICA,,11867,15458,9034,6033
+411,13575,União Educacional do Planalto Central,,14385,17507,10987,5288
+412,13588,Complexo de Ensino Superior de Santa Catarina CESUSC,,8915,14755,9911,6033
+413,13625,Faculdade Avantis,,14666,14525,9790,6033
+414,13734,Centro Universitário Monte Serrat UNIMONTE,,14161,11573,11401,6033
+415,13757,Instituto INFNET,,13970,11618,11401,6033
+416,13818,Centro de Gestão Empreendedora FEAD,,11514,14611,10153,6033
+417,13943,Instituto Centro de Ensino Tecnologico,,13612,14965,9911,6033
+418,13943,Faculdade Sumaré,,12336,14873,10053,6033
+419,13969,Centro Universitário de Ensino Superior do Amazonas,,18950,11517,11401,6033
+420,13969,Faculdade de Medicina de Petropolis e Faculdade Arthur Sa Earp Neto,,17048,14567,10027,6033
+421,13981,Instituto Superior e Centro Educacional Luterano Bom Jesus,,12336,14585,10273,6033
+422,14006,Escola de Engenharia de Piracicaba FUMEP,,14441,11923,11401,6033
+423,14015,Centro Universitário do Planalto de Araxá UNIARAXÁ,,10313,16423,8865,6033
+424,14038,Centro Universitário Luterano de Palmas CEULP/ULBRA,,5525,12632,11401,6033
+425,14047,Faculdade Paulus de Tecnología e Comunicacao FAPCOM,,7395,13919,10875,6033
+426,14093,Faculdades Unidas do Norte de Minas FUNORTE,,12746,18053,10180,5580
+427,14121,Faculdade SATC,,11497,14996,10180,6033
+428,14160,Instituto Brasileiro de Medicina de Reabilitação IBMR,,17276,14570,10180,6033
+429,14184,Centro Universitário do Leste de Minas Gerais UNILESTE,,9286,12503,11401,6033
+430,14257,Faculdades Santo Agostinho Montes Claros,,13308,15593,9790,6033
+431,14278,Faculdades Integradas de Mineiros UNIFIMES,,6916,16016,9851,6033
+432,14278,Faculdade Impacta Tecnología FIT,,17182,12039,11401,6033
+433,14298,Panamericana Escola de Arte e Design PANAMERICANA,,17981,12004,11401,6033
+434,14298,Faculdades MULTIVIX,,15151,15498,9790,6033
+435,14298,Centro Universitário do Triângulo UNITRI,,9227,15804,11401,5580
+436,14309,Faculdade Independente do Nordeste FAINOR,,6784,16370,9556,6033
+437,14330,Faculdades Campo Real,,6880,17344,8616,6033
+438,14438,Faculdades Associadas de Uberaba FAZU,,11173,12769,11401,6033
+439,14438,Faculdades Oswaldo Cruz,,7360,13030,11401,6033
+440,14540,Instituto Mairiporã Thomaz Cruz / Faculdades de Mairipora IMENSU,,22075,11978,11401,6033
+441,14551,Trevisan Escola de Negócios,,13917,12716,11401,6033
+442,14623,(1) Escola Superior de Gestão ESEG ETAPA,,7098,13323,11401,6033
+443,14627,União Dinamica das Faculdades Cataratas UDC,,18590,15002,10273,6033
+444,14753,Fundação Araucária,,12519,13073,11401,6033
+445,14869,Conservatório Souza Lima,,11201,13352,11401,6033
+446,14869,Abeu Centro Universitario,,8429,13526,11401,6033
+447,14869,Centro Regional Universitario de Espírito Santo do Pinhal UNIPINHAL,,7438,13600,11401,6033
+448,15027,Centro Universitário 7 de Setembro,,5098,14000,11401,6033
+449,15027,Centro Universitário Campos de Andrade,,7773,13777,11401,6033
+450,15027,Faculdade de Tecnologia do Nordeste e Terra Nordeste FATENE,,12875,13437,11401,6033
+451,15178,Faculdades Integradas Rio Branco,,17151,13887,11232,6033
+452,15183,CESUCA Faculdade INEDI,,10372,17872,9060,6033
+453,15202,Universidade Estadual do Amapá UEAP,,19786,18089,11401,5288
+454,15230,Senac Santa Catarina,,7624,18393,8793,6033
+455,15230,Centro Universitário Geraldo di Biase UGB,,11810,17810,9096,6033
+456,15251,Faculdade de Belém FABEL,,14944,13569,11401,6033
+457,15284,Faculdade de Tecnología FATEC Guaratingueta,,15051,17830,8886,6033
+458,15307,Universidade de Vassouras,,9084,14034,11401,6033
+459,15317,Centro Universitário Celso Lisboa,,14019,16020,10486,6033
+460,15334,Centro de Integração Empresa Escola do Paraná,,15574,13619,11401,6033
+461,15455,Centro Universitário Módulo,,14000,19336,7463,6033
+462,15455,AVM Faculdade Integrada,,3994,14783,11401,6033
+463,15463,Faculdades Porto-Alegrenses FAPA,,14666,13855,11401,6033
+464,15533,Faculdade de Tecnologia de Guarulhos FATEC,,22678,13242,11401,6033
+465,15538,Faculdade Católica do Tocantins UBEC,,9604,16828,10355,6033
+466,15550,Faculdade de Direito de São Bernardo do Campo,,8560,14431,11401,6033
+467,15599,Faculdade Joaquim Nabuco,,7098,14634,11401,6033
+468,15616,Centro Universitário Fluminense UNIFLU,,18362,18676,8117,6033
+469,15683,Senai Goias,,13745,14211,11401,6033
+470,15683,Fundação Educacional do Município de Assis FEMA,,12283,14319,11401,6033
+471,15744,Fundação Educacional Machado de Assis FEMA,,12361,14400,11401,6033
+472,15789,Instituto Federal de Educação Ciência e Tecnologia de Goiás,,5165,18233,11401,5580
+473,15809,UNIFACISA,,11173,14598,11401,6033
+474,15809,Escola Nacional de Ciências Estatísticas,,25234,21378,11401,4768
+475,15879,Unidade de Ensino Superior Vale do Iguaçu UNIGUAÇU,,7908,18084,9911,6033
+476,15879,Faculdades Adventistas da Bahia FADBA,,6700,15032,11401,6033
+477,15941,Faculdade Salesiana Maria Auxiliadora,,15503,14422,11401,6033
+478,15941,Centro Universitário do Espírito Santo UNESC,,16897,14291,11401,6033
+479,16008,Escola Paulista de Direito,,9059,15029,11401,6033
+480,16052,Faculdade Cantareira,,11448,14910,11401,6033
+481,16052,Faculdade Pernambucana de Saúde,,13132,17944,11401,5580
+482,16111,Faculdade de Juazeiro do Norte,,11393,19542,8503,6033
+483,16124,Escola da Cidade Faculdade de Arquitetura e Urbanismo AEAUSP,,12587,14920,11401,6033
+484,16124,Faculdades São José,,15487,17253,10309,6033
+485,16178,Faculdade Cidade Verde FCV,,12708,17525,10309,6033
+486,16178,Complexo Educacional Ítalo Brasileira UNIÍTALO,,15007,14784,11401,6033
+487,16189,Faculdade Integrada da Grande Fortaleza FGF,,12925,16031,11096,6033
+488,16227,Faculdade Ubaense Ozanam Coelho,,7568,17761,10440,6033
+489,16227,Faculdade AIEC,,15574,14784,11401,6033
+490,16273,Faculdades Integradas Barros Melo,,10866,15236,11401,6033
+491,16273,Centro Universitário de Barra Mansa,,12875,15075,11401,6033
+492,16289,Faculdade Jesuita de Teologia e Filosofia FAJE,,11944,15153,11401,6033
+493,16339,Centro de Ensino Superior do Amapá CEAP,,9742,15408,11401,6033
+494,16339,Faculdade Anisio Teixeira FAT,,9699,15407,11401,6033
+495,16369,Faculdade de Direito de Itu,,21800,14381,11401,6033
+496,16425,Faculdade Cenecista de Rio Bonito FACERB,,23406,14260,11401,6033
+497,16444,Faculdade de Medicina de Campos,,12914,17435,10542,6033
+498,16453,União Educacional de Cascavel UNIVEL,,11971,15383,11401,6033
+499,16459,Faculdades Milton Campos,,13729,15250,11401,6033
+500,16468,Escola Superior de Advocacia da Ordem dos Advogados do Brasil,,10262,15543,11401,6033
+501,16468,Faculdade Damas,,8261,15672,11401,6033
+502,16468,União Metropolitana de Educação e Cultura UNIME,,17088,14975,11401,6033
+503,16483,Instituto Educacional Sao Paulo INTESP,,25030,14107,11401,6033
+504,16512,Centro Universitário São Camilo Espírito Santo,,10845,17215,10786,6033
+505,16595,Faculdade IDEAU,,6954,15936,11401,6033
+506,16664,Faculdade Novo Hamburgo IENH,,6231,16103,11401,6033
+507,16691,Faculdade Regional da Bahia UNIRB,,14197,17456,10658,6033
+508,16695,Instituto Metodista Granbery,,9372,15878,11401,6033
+509,16695,Fundação Visconde de Cairu,,8673,15944,11401,6033
+510,16711,Escola de Musica e Belas Artes do Paraná EMBAP,,9887,15867,11401,6033
+511,16734,Fundação de Ensino Superior de Passos,,10511,16495,11232,6033
+512,16743,Faculdade Zumbi dos Palmares,,10825,15844,11401,6033
+513,16753,Instituto Tocantinense Presidente Antonio Carlos ITPAC,,12637,15724,11401,6033
+514,16773,Centro Universitário Católico Salesiano Auxilium UNISALESIANO,,9742,15971,11401,6033
+515,16804,Centro Universitario Assunção UNIFAI,,9169,16068,11401,6033
+516,16821,Faculdades Integradas UNIFAFIBE,,7098,16228,11401,6033
+517,16863,Faculdade do Centro Leste,,14475,17014,10987,6033
+518,16906,Faculdade de Chapadão do Sul FACHASUL,,24434,14753,11401,6033
+519,17005,Faculdade Teológica Sul Americana,,14892,15859,11401,6033
+520,17017,Faculdades Santa Cruz,,9138,16303,11401,6033
+521,17017,Faculdade Bezerra de Araújo,,23996,14960,11401,6033
+522,17069,Faculdade de Pato Branco FADEP,,10278,16286,11401,6033
+523,17102,Escola Politécnica de Saúde Joaquim Venâncio,,5241,23855,11401,4908
+524,17102,Faculdades Integradas de Patos,,9195,19301,10053,6033
+525,17132,Fundação Comunitária de Ensino Superior de Itabira FUNCESI,,10900,18431,10542,6033
+526,17132,Faculdade de Direito de Santa Maria FADISMA,,10433,18014,10786,6033
+527,17143,Faculdade Orígenes Lessa FACOL,,19907,15573,11401,6033
+528,17143,Complexo Educacional São Judas Tadeu,,27410,17638,9485,6033
+529,17163,Escola Superior de Gestão Comercial e Marketing ESIC,,15774,15973,11401,6033
+530,17163,Faculdade de Direito do Sul de Minas FDSM,,12361,16250,11401,6033
+531,17172,Instituto Federal Catarinense Campus Rio do Sul SC,,4369,18250,10987,6033
+532,17172,Faculdade de Ciências Médicas da Paraíba,,10855,19452,11401,5580
+533,17197,Faculdades ETEP,,19916,17340,10786,6033
+534,17226,Fundação de Educação para o Trabalho de Minas Gerais UTRAMIG,,15214,16093,11401,6033
+535,17232,Instituto de Ensino e Pesquisa em Adminsitração INEPAD,,25371,15027,11401,6033
+536,17272,Faculdade Ateneu,,15032,16173,11401,6033
+537,17272,Centro Universitário do Cerrado Patrocinio UNICERP,,12242,18506,10542,6033
+538,17282,Faculdade de Ciências Humanas e Sociais FUCAMP FACIHUS,,9355,16578,11401,6033
+539,17282,Faculdades Doctum,,10986,16467,11401,6033
+540,17321,Faculdade de Tecnología Carlos Drummond de Andrade,,16542,16126,11401,6033
+541,17367,Faculdade de Direito de Franca,,11746,16525,11401,6033
+542,17403,Centro Universitário da Fundação Educacional Guaxupe UNIFEG,,8069,19987,11401,5580
+543,17403,Universidade Patativa,,22616,15640,11401,6033
+544,17419,Centro Universitário Sant'Anna UniSant'Anna,,17696,16144,11401,6033
+545,17451,Faculdades ICESP PROMOVE de Brasilia,,11173,16668,11401,6033
+546,17517,Faculdade Cambury,,13458,16583,11401,6033
+547,17541,União Educacional do Norte UNINORTE,,14424,16538,11401,6033
+548,17573,Escola Superior do Ministerio Publico FMP,,12471,16739,11401,6033
+549,17624,Centro Universitário de Lavras UNILAVRAS,,17661,16383,11401,6033
+550,17632,Faculdade Sete de Setembro Paulo Afonso FASETE,,7438,17188,11401,6033
+551,17678,Faculdade Ages,,6445,17328,11401,6033
+552,17707,Faculdade Metropolitana de Maringá UNIFAMMA,,18505,16395,11401,6033
+553,17722,Faculdade das Américas FAM,,11118,17034,11401,6033
+554,17722,Fundação Educacional Unificada Campograndense FEUC,,12283,16947,11401,6033
+555,17771,Unidade de Ensino Superior Dom Bosco UNDB,,13365,20313,9658,6033
+556,17794,Faculdades Integradas de Santa Fé do Sul FUNEC,,7853,17997,11232,6033
+557,17808,Faculdade IESP,,14457,16863,11401,6033
+558,17808,(1) Faculdade Especializada em Direito FADISP,,15200,16814,11401,6033
+559,17819,Faculdade de Minas FAMINAS,,9829,17233,11401,6033
+560,17831,Faculdade de Pindamonhangaba,,13132,21956,11401,5288
+561,17831,Sistema Educacional Expoente,,13970,16943,11401,6033
+562,17868,Faculdade dos Guararapes,,17888,16656,11401,6033
+563,17898,FAA Faculdade Anhanguera de Anápolis,,15600,16892,11401,6033
+564,17906,Faculdade de Administração e Negócios de Sergipe FANESE,,14729,18017,11096,6033
+565,17961,Faculdade Horizontina FAHOR,,9887,18421,11096,6033
+566,17961,Faculdade São Francisco de Barreiras,,16422,16907,11401,6033
+567,18007,Faculdade Eduvale de Avaré,,13322,19430,10486,6033
+568,18035,"FAI Centro de Ensino Superior em Gestão, Tecnologia e Educação",,13623,17249,11401,6033
+569,18067,Faculdades Kennedy,,13810,17268,11401,6033
+570,18067,Rede Metodista de Educação do Sul,,7205,23045,7580,6033
+571,18088,Faculdade Fernão Dias,,22937,16441,11401,6033
+572,18098,Instituto Singularidades,,20983,16655,11401,6033
+573,18112,Faculdade Maria Milza FAMAM,,14576,17257,11401,6033
+574,18152,Faculdade de Agudos,,16960,20250,9888,6033
+575,18161,Centro de Pesquisas Epidemiológicas UFPEL,,13495,17391,11401,6033
+576,18176,"Centro Superior de Tecnología em Hotelaria, Turismo e Gastronomia de São Paulo HOTEC",,17088,17121,11401,6033
+577,18236,Faculdade Potiguar da Paraíba FPB,,14441,17412,11401,6033
+578,18241,Faculdade de Ciências Biomédicas de Cacoal FACIMED,,6279,18070,11401,6033
+579,18265,Fundacao Educacional de Andradina,,17696,20325,11401,5580
+580,18280,Instituto Nacional de Pós Graduação INPG,,19606,17039,11401,6033
+581,18291,União das Escolas Superiores de Rondônia UNIRON (ex UNIPEC),,7521,18022,11401,6033
+582,18291,SIGBOL Fashion,,20495,16961,11401,6033
+583,18304,Centro de Ensino Unificado de Teresina CEUT,,17307,17287,11401,6033
+584,18335,Faculdade Souza Marques,,18704,17175,11401,6033
+585,18353,Faculdade Pernambucana FAPE-PE,,18967,17186,11401,6033
+586,18374,UNESC Rondonia,,13132,17699,11401,6033
+587,18374,Carlos Chagas Instituto de Ciências da Saúde,,27455,26235,11401,4202
+588,18402,Faculdade São Bernardo,,8240,18093,11401,6033
+589,18437,Faculdade Paulista de Pesquisa e Ensino Superior FAPPES,,11620,17869,11401,6033
+590,18437,Faculdades Spei,,20507,17128,11401,6033
+591,18461,Faculdade Integrado INESUL,,8598,18138,11401,6033
+592,18476,Faculdade Arnaldo,,13810,17766,11401,6033
+593,18485,(1) Faculdade Antonio Meneghetti,,5492,18401,11401,6033
+594,18495,Faculdade Alfredo Nasser,,10834,17997,11401,6033
+595,18505,Faculdade Método de São Paulo FAMESP,,12055,17935,11401,6033
+596,18519,Faculdade 2 de Julho,,15525,17672,11401,6033
+597,18519,Faculdades Integradas de Fernandopolis FEF,,17151,17521,11401,6033
+598,18538,Centro Universitário de Caratinga UNEC,,9814,18127,11401,6033
+599,18538,Faculdade de Saúde Ibituruna,,17435,17514,11401,6033
+600,18557,Universidade Regional Integrada do Alto Uruguai e das Missoes URI Santiago,,9572,18150,11401,6033
+601,18596,Faculdade Evangélica do Meio Norte FAEME,,27410,15873,11401,6033
+602,18615,Faculdade de Tecnología de Botucatu,,11126,19386,10987,6033
+603,18632,Centro de Ensino Superior de Catalão CESUC,,16670,17705,11401,6033
+604,18640,Faculdade Metropolitana da Grande Recife,,14576,17887,11401,6033
+605,18661,Faculdade Cearense,,10881,19658,10875,6033
+606,18661,Faculdade de Tecnología FATEC Rio Preto,,25443,17807,11096,6033
+607,18661,Faculdades Integradas de Bauru,,17949,17620,11401,6033
+608,18696,Faculdades Alves Faria ALFA,,13678,19026,11096,6033
+609,18711,União das Faculdades dos Grandes Lagos,,12904,18112,11401,6033
+610,18732,Senac Minas Gerais,,12708,18143,11401,6033
+611,18732,Faculdade de Música do Espírito Santo,,16986,17788,11401,6033
+612,18764,Centro Universitário Santo Agostinho UNIFSA,,10632,18330,11401,6033
+613,18789,Faculdade de Americana FAM,,21094,17475,11401,6033
+614,18813,Faculdade Estadual de Ciências Económicas de Apucarana FECEA,,16457,17936,11401,6033
+615,18863,Faculdade Novo Milênio,,16343,18007,11401,6033
+616,18871,Faculdade de Ciências Humanas ESUDA,,13729,18240,11401,6033
+617,18876,Faculdades Cathedral,,11996,18377,11401,6033
+618,18876,UNINTA Centro Universitario,,14115,19189,11096,6033
+619,18898,Faculdade de Guanambi,,10230,18492,11401,6033
+620,18924,Faculdades Adventistas de Minas Gerais FADMINAS,,16215,18116,11401,6033
+621,18928,Escola Superior de Administração e Gestão ESAGS,,13810,18321,11401,6033
+622,18928,Faculdade pelo Serviço Nacional de Aprendizagem Comercial Pernambuco,,14829,18256,11401,6033
+623,18948,Faculdade Victor Hugo,,20551,17747,11401,6033
+624,18957,Faculdade e Escola Técnica LS,,18689,21047,11401,5580
+625,18970,Centro Universitário de Itajubá FEPI,,11520,18515,11401,6033
+626,19053,Faculdade IESCAMP,,18487,18092,11401,6033
+627,19062,Instituição Moura Lacerda,,12189,18578,11401,6033
+628,19084,Faculdade de Direito de Sorocaba FADI,,21379,17838,11401,6033
+629,19084,Autarquia de Ensino Superior de Garanhuns AESGA,,12532,18597,11401,6033
+630,19099,(1) Faculdade de Ciências Gerenciais de Manhuaçu FACIG,,9733,18825,11401,6033
+631,19105,(1) Faculdade Pio Décimo,,12272,18644,11401,6033
+632,19119,Instituto Metodista Bennett,,16215,18376,11401,6033
+633,19166,FATEC Jundiai,,16296,18401,11401,6033
+634,19203,Universidade da Região da Campanha URCAMP,,10765,23725,11401,5288
+635,19249,Faculdade Redentor,,11142,18896,11401,6033
+636,19270,Faculdade Educacional de Araucária FACEAR,,15032,18643,11401,6033
+637,19278,"Instituto Estadual de Educaçao, Ciencia e Tecnologia IEMA",,14370,18720,11401,6033
+638,19278,Faculdades de Chapecó UCEFF,,8188,19137,11401,6033
+639,19291,Faculdade Metropolitana de Manaus FAMETRO,,16106,18574,11401,6033
+640,19291,Faculdade Católica de Rondônia FCR,,11520,18925,11401,6033
+641,19291,Faculdades Integradas Pitágoras FIP-MOC,,12414,18868,11401,6033
+642,19291,Faculdade São Luis Jaboticabal,,15828,18587,11401,6033
+643,19311,Faculdade de Tecnologia São Caetano FATEC,,17915,18421,11401,6033
+644,19323,Fundação Dracenense de Educação e Cultura FUNDEC,,13015,18858,11401,6033
+645,19340,Fundação de Apoio à Tecnologia FAT,,22826,17991,11401,6033
+646,19353,Faculdades Pequeno Príncipe,,13882,18817,11401,6033
+647,19366,(1) Faculdades de Enfermagem e Medicina Nova Esperança FACENE / FAMENE,,10372,19079,11401,6033
+648,19385,Faculdade de Medicina de Itajubá,,17839,18506,11401,6033
+649,19395,Associação Catarinense de Ensino Faculdade Guilherme Guimbala ACE,,17088,18589,11401,6033
+650,19403,Faculdade Escritor Osman da Costa Lins,,11877,19034,11401,6033
+651,19426,Faculdade Sant'Ana,,11810,21723,10235,6033
+652,19438,Centro Universitário Municipal de São José USJ,,14408,18872,11401,6033
+653,19443,Faculdade Campos Elíseos,,12756,19014,11401,6033
+654,19482,Faculdades Integradas de Três Lagoas AEMS,,12980,19056,11401,6033
+655,19491,Faculdade Sul Americana FASAM,,17151,18727,11401,6033
+656,19510,Faculdade de Tecnología de Sorocaba,,14865,18932,11401,6033
+657,19523,Faculdade Paulista de Artes FPA,,18270,18674,11401,6033
+658,19539,Faculdade Machado Sobrinho,,18856,18626,11401,6033
+659,19564,Castelli Escola Superior de Hotelaria,,17307,18819,11401,6033
+660,19610,Faculdades Integradas Rui Barbosa,,14441,19100,11401,6033
+661,19625,Fundação Salvador Arena,,27603,16907,11401,6033
+662,19625,Faculdade Metropolitana da Amazônia FAMAZ,,12398,21190,10658,6033
+663,19668,Faculdade de Educação e Meio Ambiente FAEMA,,7971,19633,11401,6033
+664,19681,Faculdade Processus,,10995,19422,11401,6033
+665,19690,"Faculdade de Administração, Ciências, Educação e Letras FACEL",,23554,18346,11401,6033
+666,19698,Faculdade de Olinda FOCCA,,21163,18593,11401,6033
+667,19746,Faculdade de Filosofia Ciências e Letras de Mandaguari FAFIMAM,,14493,19252,11401,6033
+668,19750,Faculdade Paraíso FAP,,14987,19217,11401,6033
+669,19799,Faculdade QI,,21811,18685,11401,6033
+670,19799,Faculdade Santa Maria de Glória,,19013,18954,11401,6033
+671,19799,Faculdade Palotina de Santa Maria FAPAS,,15487,19248,11401,6033
+672,19799,Faculdade de Tecnologia de Americana FATEC,,13544,19404,11401,6033
+673,19840,Faculdade Paranaense,,15698,19273,11401,6033
+674,19840,Faculdade Instituto Paulista de Ensino FIPEN,,13917,19407,11401,6033
+675,19855,Faculdade São Roque,,20999,18813,11401,6033
+676,19862,Faculdade de Tecnologia de Lins FATEC Lins,,15265,20662,10987,6033
+677,19862,Faculdades do Integrão do Sertao FIS,,21735,18755,11401,6033
+678,19872,Faculdade Batista Brasileira FBB,,19672,18973,11401,6033
+679,19891,Faculdade União de Goyazes,,15441,19365,11401,6033
+680,19900,Centro de Ensino Superior de Arcoverde,,15737,19345,11401,6033
+681,19910,Faculdade do Vale do Jaguaribe,,11301,19713,11401,6033
+682,19920,Faculdade Baiana de Direito,,18734,19116,11401,6033
+683,19928,Inteligencia Educacional e Sistemas de Ensino IESDE,,27304,17777,11401,6033
+684,19935,Centro Universitário Católico Salesiano Auxilium UNISALESIANO Lins,,11620,19731,11401,6033
+685,19953,Faculdade Araguaia,,10642,19816,11401,6033
+686,19953,Instituto Municipal de Ensino Superior de Catanduva IMES,,11840,19753,11401,6033
+687,19953,Fundação Municipal de Ensino Superior de Bragança Paulista FESB,,14072,19573,11401,6033
+688,19953,Faculdade de Engenharia São Paulo,,21760,18886,11401,6033
+689,19968,Faculdades Unidas do Vale do Araguaia,,16215,19397,11401,6033
+690,19968,Faculdade Maringá,,23311,18740,11401,6033
+691,20019,Escola Superior de Educação Física de Jundiaí,,19567,19155,11401,6033
+692,20019,Faculdade Machado de Assis,,18632,19245,11401,6033
+693,20019,Fundação Educacional de Divinópolis FUNEDI,,23840,18725,11401,6033
+694,20033,Instituto de Ciências Sociais e Humanas INCISOH (Centro de Educação Integrada do Vale do São Francisco),,22067,18937,11401,6033
+695,20033,Faculdade Luciano Feijão,,13026,21016,10987,6033
+696,20045,Universidade Virtual Publica do Brasil UniRede,,17696,19363,11401,6033
+697,20053,Seminário Teológico Batista do Sul do Brasil,,25793,18452,11401,6033
+698,20092,Escola Superior de Criciuma ESUCRI,,14729,19679,11401,6033
+699,20092,Faculdade de Filosofia Ciencias e Letras de Caruaru FAFICA,,20374,19170,11401,6033
+700,20104,Faculdade da Fundação Educacional Araçatuba FAC-FEA,,15127,19670,11401,6033
+701,20104,Católica de Vitória,,11247,19966,11401,6033
+702,20131,Escola Superior de Ensino Helena Antipoff Associação Pestalozzi de Niterói,,21750,19093,11401,6033
+703,20139,Escola Superior Batista do Amazonas ESBAM,,17307,19537,11401,6033
+704,20139,Faculdade Teológica Batista de São Paulo,,19847,19295,11401,6033
+705,20180,Faculdade de Pará de Minas FAPAM,,14987,19778,11401,6033
+706,20180,Faculdades São Camilo,,19805,19353,11401,6033
+707,20192,Centro Universitário Planalto do Distrito Federal UNIPLAN,,20745,19286,11401,6033
+708,20192,Faculdade Santa Maria FSM,,19758,19377,11401,6033
+709,20192,Associação de Ensino Superior do Piauí AESPI,,23110,19051,11401,6033
+710,20213,Faculdade Santa Helena,,21458,19224,11401,6033
+711,20235,Faculdade UNIGRAN Capital,,19233,19502,11401,6033
+712,20244,Faculdade Juscelino Kubitschek,,17771,19650,11401,6033
+713,20244,Fundação Instituto Tecnológico de Osasco FITO,,14829,19896,11401,6033
+714,20255,Faculdade de Administração e Artes de Limeira FAAL,,15985,19816,11401,6033
+715,20255,Faculdade Nova Roma,,18500,19597,11401,6033
+716,20255,Faculdade Estadual de Filosofia Ciências e Letras de União da Vitoria FAFI,,13761,20021,11401,6033
+717,20255,Faculdade Doutor Leocádio José Correia FALEC,,25900,18739,11401,6033
+718,20269,Centro Universitário Adventista de São Paulo Campus São Paulo UNASP-SP,,18961,19562,11401,6033
+719,20269,UniSEB Interativo (Faculdade Interativa COC UniCOC),,27204,18307,11401,6033
+720,20269,Faculdade de Direito da Alta Paulista / Faculdade da Alta Paulista FADA,,17540,19709,11401,6033
+721,20269,Institutos Superiores de Ensino do Censa ISECENSA,,16263,19801,11401,6033
+722,20282,Faculdade Padre João Bagozzi,,19907,19481,11401,6033
+723,20292,Instituto de Ensino Superior de Rondonia Faculdades Associadas de Ariquemes FAAR,,14197,20025,11401,6033
+724,20292,CATHEDRAL Faculdades Cathedral Barra do Garças,,11634,20208,11401,6033
+725,20308,Escola de Negócios UBS,,21716,19322,11401,6033
+726,20308,Faculdade Roraimense de Ensino Superior FARES,,17810,19720,11401,6033
+727,20359,Faculdade Venda Nova do Imigrante FAVENI,,11930,20282,11401,6033
+728,20382,INCISA IMAM,,19665,19643,11401,6033
+729,20382,UNIBRATEC,,18341,19766,11401,6033
+730,20395,Faculdades Integradas de Itapetininga FKB,,17114,19896,11401,6033
+731,20395,Faculdade Santa Terezinha CEST,,13428,20211,11401,6033
+732,20407,Faculdade Anchieta,,20062,19637,11401,6033
+733,20430,Grupo Polis Educacional,,17949,19873,11401,6033
+734,20430,Faculdade de Ilhéus,,20894,19588,11401,6033
+735,20458,Faculdades FACET,,19924,19738,11401,6033
+736,20467,Faculdade Ceres FACERES,,15032,20196,11401,6033
+737,20467,Faculdades IPEP,,22705,19444,11401,6033
+738,20485,Faculdade de Ciências e Tecnologia do Maranhão FACEMA,,6844,20817,11401,6033
+739,20485,Escola e Faculdade Luterana São Marcos,,13458,20351,11401,6033
+740,20500,União Educacional de Brasília UNEB,,24408,19289,11401,6033
+741,20500,Faculdade de Ciências da Saúde de São Paulo FACIS,,22117,19569,11401,6033
+742,20522,Faculdade de Ensino Superior de São Miguel do Iguacu FAESI,,16369,20156,11401,6033
+743,20533,Faculdade de Tecnología de Alagoas FAT,,17566,20067,11401,6033
+744,20533,Faculdade de Tecnología CETEP,,12890,20433,11401,6033
+745,20542,Faculdade Marechal Rondon,,18621,19960,11401,6033
+746,20558,Faculdade Flamingo,,22616,19569,11401,6033
+747,20570,Prof Antônio Belizandro Barbosa Rezende FATEC Itapetininga,,15441,20904,11232,6033
+748,20588,Instituto Municipal de Ensino Superior de Bebedouro Victorio Cardassi IMESB,,12506,20549,11401,6033
+749,20588,Faculdade Montes Belos,,15441,20309,11401,6033
+750,20600,Faculdade Instituto de Desenvolvimento Cultural IDC,,15622,20306,11401,6033
+751,20612,Faculdade de Tecnologia CDL Câmara de Dirigentes Lojistas de Fortaleza,,19879,19924,11401,6033
+752,20629,Faculdades Integradas Teresa d'Ávila FATEA,,10404,23729,11401,5580
+753,20629,Faculdade de Tecnología FATEC Jahu,,20426,19892,11401,6033
+754,20629,Instituto Cuiabano de Educação ICE,,13810,20488,11401,6033
+755,20660,Faculdades FACCAT,,18798,20102,11401,6033
+756,20660,Faculdade Lourenço Filho FLF,,22299,19740,11401,6033
+757,20671,Faculdade Educacional de Colombo INESUL,,12165,20656,11401,6033
+758,20685,Faculdade de Ciências Sociais Aplicadas de Extrema FAEX,,13858,20553,11401,6033
+759,20694,Faculdade Talentos Humanos FACTHUS,,16215,20354,11401,6033
+760,20694,"Fundação de Apoio ao Ensino, Pesquisa e Assistência FAEPA",,19300,20093,11401,6033
+761,20714,Faculdade de Ciências Sociais Aplicadas do Sul de Minas Gerais FACESM,,16048,20401,11401,6033
+762,20714,Faculdades Integradas de Jacarepagua FIJ,,20932,19938,11401,6033
+763,20728,Faculdade de Ciências e Tecnología de Birigüi FATEB,,19494,20121,11401,6033
+764,20728,Faculdade Luterana de Teologia,,17739,20274,11401,6033
+765,20762,Faculdade Guairacá Guarapuava,,5607,21259,11401,6033
+766,20796,"União das Instituições de Serviços, Ensino e Pesquisa UNISEP",,23715,19740,11401,6033
+767,20796,Escola de Governo Professor Paulo Neves de Carvalho,,16831,20438,11401,6033
+768,20811,Faculdade Santos Dumont FESJ,,15896,20541,11401,6033
+769,20811,Faculdades Borges de Mendonça,,13594,22503,10718,6033
+770,20818,Faculdade Católica Dom Orione FACDO,,20453,20146,11401,6033
+771,20818,Faculdades Gammon,,17593,20398,11401,6033
+772,20831,Faculdade de Medicina de Barbacena FAME,,15851,20591,11401,6033
+773,20843,Faculdade de Tecnología Ciências e Educação FATECE,,17329,20464,11401,6033
+774,20858,Faculdades Secal,,14131,20711,11401,6033
+775,20867,Faculdades Integradas Espírita,,17981,20426,11401,6033
+776,20876,Faculdade de Direito de Varginha FADIVA,,12614,20846,11401,6033
+777,20876,Faculdade das Atividades Empresariais de Teresina FAETE,,23554,19852,11401,6033
+778,20886,Faculdade Nossa Senhora Aparecida,,20533,20205,11401,6033
+779,20895,Centro Universitário Paulistano UNIPAULISTANA,,16489,20605,11401,6033
+780,20895,Faculdade de Cuiabá FAUC,,21485,20135,11401,6033
+781,20895,União de Escolas Superiores de Olinda FUNESO,,18099,20451,11401,6033
+782,20905,Faculdade de Ciências Económicas Administrativas e Contabeis de Divinopolis FACED,,15723,20673,11401,6033
+783,20916,Fundação São José Centro Universitário São José de Itaperuna,,12843,20881,11401,6033
+784,20916,Faculdade São Mateus Instituto Vale do Cricaré UNIVC,,17435,20546,11401,6033
+785,20935,Unidade de Ensino Superior de Feira de Santana UNEF,,19954,20322,11401,6033
+786,20935,Faculdades Integradas Campos Salles,,17593,20546,11401,6033
+787,20953,Associação de Ensino de Botucatu UNIFAC,,20834,20254,11401,6033
+788,20962,Faculdade de Ciências e Tecnología de Unaí,,14457,20805,11401,6033
+789,20962,Faculdade Sinop,,13146,20908,11401,6033
+790,20976,Faculdades Integradas do Vale do Ivaí,,13810,20862,11401,6033
+791,20976,Faculdade de Educação Santa Terezinha FEST,,12179,20984,11401,6033
+792,20987,Faculdade de Macapá FAMA,,21406,20227,11401,6033
+793,20987,Faculdade de Filosofia e Ciencias Humanas de Goiatuba,,24266,19879,11401,6033
+794,20987,Serviço Nacional de Aprendizagem Industrial do Pernambuco,,10495,21123,11401,6033
+795,20999,Fundação Educacional Montes Claros,,16516,20704,11401,6033
+796,20999,Instituto Camillo Filho ICF,,22275,20177,11401,6033
+797,21021,Faculdades Integradas de Itarare,,13690,20938,11401,6033
+798,21038,Faculdade de Ciências Económicas do Triângulo Mineiro,,11663,21108,11401,6033
+799,21049,Faculdades Integradas de Santo André FEFISA,,27705,18544,11401,6033
+800,21059,Faculdade Capivari FUCAP,,13513,21007,11401,6033
+801,21078,Faculdade de Jandaia do Sul FAFIJAN,,16319,20796,11401,6033
+802,21087,Faculdades Logatti Araraquara,,19841,20527,11401,6033
+803,21114,Faculdade Aldete Maria Alves FAC-FAMA,,13289,21078,11401,6033
+804,21125,Faculdade de Administração de Curvelo,,17362,20772,11401,6033
+805,21155,Faculdade Teológica Batista do Paraná,,22371,20342,11401,6033
+806,21155,Sociedade de Ensino Universitario do Nordeste SEUNE,,12833,21160,11401,6033
+807,21194,Faculdade Metropolitana Porto Velho,,18341,20757,11401,6033
+808,21203,Faculdade de Ciências Humanas de Olinda FACHO,,22022,20427,11401,6033
+809,21203,Faculdade Municipal Professor Franco Montoro,,19558,20679,11401,6033
+810,21216,Faculdade de São Vicente UNIBR,,20845,20585,11401,6033
+811,21216,Faculdade de Quatro Marcos,,11867,21306,11401,6033
+812,21216,Centro de Ensino Superior de São Gotardo CESG,,14197,21128,11401,6033
+813,21227,Escola Superior São Francisco de Assis ESFA,,11358,21355,11401,6033
+814,21227,Faculdade do Futuro,,14548,21109,11401,6033
+815,21249,Faculdade do Noroeste de Minas FINOM,,21053,20600,11401,6033
+816,21249,Associação de Escolas Reunidas ASSER,,16048,21023,11401,6033
+817,21269,Faculdades Sudamérica,,21860,20532,11401,6033
+818,21280,Faculdade de São Bento do Rio de Janeiro,,26446,19869,11401,6033
+819,21289,CEDEPE Business School,,21350,20627,11401,6033
+820,21302,Faculdade de Tecnología de Praia Grande CEETEPS,,15774,21105,11401,6033
+821,21302,Instituto Santo Tomás de Aquino ISTA,,16132,21076,11401,6033
+822,21325,Fundação Lowtons de Educação e Cultura FUNLEC,,17276,21007,11401,6033
+823,21325,Faculdade Hélio Rocha,,26336,19934,11401,6033
+824,21325,Centro Universitário de Araras Dr Edmundo Ulson UNAR,,18456,20895,11401,6033
+825,21332,Faculdade de Estudos Avancados do Pará FEAPA,,16516,21078,11401,6033
+826,21365,Associação Vitoriana de Ensino Superior FAVI,,21173,20695,11401,6033
+827,21374,Faculdade Latino Americana de Educação Administraçao Turismo e Pedagogia FLATED,,21360,20690,11401,6033
+828,21374,Faculdade Bilac,,20524,20777,11401,6033
+829,21387,Faculdades Eduvale,,14115,21344,11401,6033
+830,21387,Faculdade de Ciências Sociais Aplicadas de Belo Horizonte FACISABH,,25056,20261,11401,6033
+831,21387,Faculdade de Tecnologia de São José dos Campos FATEC,,24023,20403,11401,6033
+832,21387,Instituto Capacitare,,26566,19924,11401,6033
+833,21398,Faculdade Amadeus FAMA,,9873,21696,11401,6033
+834,21398,Faculdade de Filosofia Ciências e Letras de Ibitinga FAIBI,,19213,20895,11401,6033
+835,21398,Faculdade Paulista de Serviço Social FAPSS,,19249,20908,11401,6033
+836,21398,Faculdade de Tecnología de Piracicaba FATEP,,19277,20895,11401,6033
+837,21426,Faculdade CESREI,,16006,21219,11401,6033
+838,21426,Centro de Ensino Superior de Foz do Iguaçu CESUFOZ,,22489,20643,11401,6033
+839,21426,Faculdade de Odontologia do Recife,,24655,20363,11401,6033
+840,21441,Faculdades Monteiro Lobato,,18294,21029,11401,6033
+841,21461,Faculdade de Ciências e Educação de Rubiataba FACER,,12925,21533,11401,6033
+842,21472,Escola Superior Madre Celeste ESMAC,,18290,21071,11401,6033
+843,21482,Faculdade de Dança Angel Vianna,,24408,20469,11401,6033
+844,21503,Faculdade Legale,,16215,21288,11401,6033
+845,21509,CECON Centro Educacional Conceição Nunes,,16542,21280,11401,6033
+846,21509,Faculdade Santíssimo Sacramento,,17810,21160,11401,6033
+847,21509,Faculdade Network,,16296,21301,11401,6033
+848,21509,Faculdade do Sul da Bahia FASB,,20566,20908,11401,6033
+849,21526,Faculdade de Tecnologia de Indaiatuba,,15851,21370,11401,6033
+850,21538,Faculdade Canção Nova,,17276,21255,11401,6033
+851,21550,Faculdade Planalto IESPLAN,,23640,20653,11401,6033
+852,21594,Faculdade Batista Pioneira,,14354,21601,11401,6033
+853,21602,Faculdade Nobre,,22440,20835,11401,6033
+854,21609,Fundação Educacional de Penapolis,,18029,21288,11401,6033
+855,21624,ITPAC de Porto Nacional Instituto Tocantinense Presidente Antônio Carlos de Porto Nacional,,14767,21588,11401,6033
+856,21645,Universidade Estadual do Norte do Paraná UENP Campus de Cornélio Procópio,,16457,21489,11401,6033
+857,21645,Centro Universitário Metropolitano de São Paulo UNIMESP,,22564,20876,11401,6033
+858,21672,Faculdade Mater Dei,,15241,21613,11401,6033
+859,21686,Escola Superior de Negócios ESUP,,19060,21276,11401,6033
+860,21686,Faculdade Pio XII,,9543,22049,11401,6033
+861,21732,Faculdade Metropolitana Marabá,,16422,21575,11401,6033
+862,21732,Faculdade de Direito de Cachoeiro de Itapemirim FDCI,,15424,21665,11401,6033
+863,21732,Faculdade Mario Schenberg,,19084,21323,11401,6033
+864,21732,Faculdade Reges de Dracena (Centro de Ensino da Alta Paulista CEALPA),,17236,21511,11401,6033
+865,21745,Serviço Nacional de Aprendizagem Comercial do Pernambuco,,11735,22959,11096,6033
+866,21757,Faculadade FESP Fundação de Estudos Sociais do Paraná,,20487,21216,11401,6033
+867,21767,Centro de Ensino Superior do Vale São Francisco,,15383,21719,11401,6033
+868,21781,(3) Universidade Regional Integrada do Alto Uruguai e das Missões URI,,15737,21716,11401,6033
+869,21781,Unidade de Ensino Superior do Sul do Maranhão UNISULMA,,19223,21395,11401,6033
+870,21792,Faculdade Vale do Salgado FVS,,6279,22425,11401,6033
+871,21792,Fundação Educacional da Regiao dos Lagos FERLAGOS,,18882,21443,11401,6033
+872,21802,Faculdade de Administração de Governador Valadares,,13107,21938,11401,6033
+873,21802,Faculdade de Telêmaco Borba FATEB,,16858,21637,11401,6033
+874,21822,Faculdades Tecsoma,,15896,21751,11401,6033
+875,21822,UNICE Ensino Superior,,19382,21434,11401,6033
+876,21833,Faculdade São Salvador,,23698,20977,11401,6033
+877,21833,Instituto de Educação Superior UNYAHNA,,24569,20861,11401,6033
+878,21833,Faculdade Dehoniana,,13955,21915,11401,6033
+879,21833,Faculdades de Pinhais FAPI,,22544,21104,11401,6033
+880,21857,Escola e Faculdade Fortec,,24081,20942,11401,6033
+881,21876,Instituto Esperança de Ensino Superior,,14041,21946,11401,6033
+882,21876,Faculdade de Caldas Novas UNICALDAS,,16074,21789,11401,6033
+883,21876,Faculdade de Educação São Francisco,,18856,21545,11401,6033
+884,21907,Faculdade de Tecnología Herrero,,20756,21385,11401,6033
+885,21907,Faculdades São Sebastião FASS,,16897,21763,11401,6033
+886,21921,Faculdade Jangada,,15007,21927,11401,6033
+887,21932,Faculdade Catuaí,,21627,21318,11401,6033
+888,21932,Centro Superior de Ensino e Pesquisa de Machado CESEP,,18910,21595,11401,6033
+889,21954,Faculdades Integradas Maria Imaculada,,18611,21650,11401,6033
+890,21976,Faculdade de Patos de Minas,,18816,21650,11401,6033
+891,21992,Centro de Ensino Superior de Jataí CESUT,,13249,22142,11401,6033
+892,21992,Faculdade de Tecnologia de Barueri,,17981,21756,11401,6033
+893,21992,Faculdade Integrada de Santa Maria FISMA,,16516,21871,11401,6033
+894,22004,Faculdade FISUL,,13777,22107,11401,6033
+895,22024,Faculdade de Balsas UNIBALSAS,,10255,22391,11401,6033
+896,22056,Fundação Helena Antipoff FHA,,15574,22011,11401,6033
+897,22062,Instituto Baiano de Ensino Superior IBES,,22589,21366,11401,6033
+898,22073,Faculdade do Litoral Sul Paulista FALS,,19758,21693,11401,6033
+899,22073,Faculdade de Tecnologia Assessoritec,,21163,21539,11401,6033
+900,22085,Faculdade de Ciências Empresariais FACEMP,,15647,22063,11401,6033
+901,22097,Faculdade Dinâmica do Vale do Piranga,,12095,22343,11401,6033
+902,22114,Faculdade Santa Rita,,23580,21301,11401,6033
+903,22148,Faculdade Madre Thaís FMT,,23731,21341,11401,6033
+904,22166,FACCREI- FACED Conjunto Universitário Cornélio Procópio,,18816,21886,11401,6033
+905,22166,Faculdade de Tecnologia Professor Waldomiro May FATEC,,18763,21896,11401,6033
+906,22175,Faculdade Vicentina,,16030,22146,11401,6033
+907,22175,Faculdade Meta FAMETA,,19182,21867,11401,6033
+908,22175,Faculdades Tecnologicas Faesa CET-FAESA,,21208,21677,11401,6033
+909,22189,Faculdade de Tecnologia de Curitiba FATEC,,19437,21849,11401,6033
+910,22200,Senac Goiás,,480,24011,11401,6033
+911,22208,UNISEPE Educacional,,13576,22367,11401,6033
+912,22208,Centro Universitário Farias Brito (Faculdade Farias Brito),,10676,22557,11401,6033
+913,22227,Faculdade Don Domênico Guarujá,,21320,21734,11401,6033
+914,22236,Faculdade do Pantanal FAPAN,,19074,21952,11401,6033
+915,22247,Autarquia Educacional do Belo Jardim AEB,,23540,21511,11401,6033
+916,22265,Faculdade de Tecnologia de Mogi Mirim FATEC,,19089,21975,11401,6033
+917,22265,Faculdade Campo Grande FCG,,23458,21533,11401,6033
+918,22277,Faculdade Fidelis,,24906,21335,11401,6033
+919,22291,UCP Faculdades do Centro do Paraná Pitanga FATEC Ivaiporã,,10802,22647,11401,6033
+920,22306,Faculdade Saber e Fé FAETESF,,15383,22346,11401,6033
+921,22306,Faculdade de Ensino Superior da Amazônia Reunida FESAR,,17362,22165,11401,6033
+922,22319,Faculdade de Aracruz FAACZ,,15051,22373,11401,6033
+923,22319,Faculdade Brasil,,19169,22019,11401,6033
+924,22329,Faculdade Paraíso Ceará FAP,,20693,21903,11401,6033
+925,22329,(1) Faculdade de Direito Conselheiro Lafaiete FDCL,,16048,22313,11401,6033
+926,22334,Faculdade de Ensino Superior de Linhares,,14161,22470,11401,6033
+927,22341,Faculdades Energia,,24182,21533,11401,6033
+928,22341,Centro Universitário de Desenvolvimento do Centro-Oeste UNIDESC,,19672,22017,11401,6033
+929,22357,Faculdade da Amazonia Ocidental FAAO,,18494,22132,11401,6033
+930,22357,Faculdade Presbiteriana Gammon FAGAMMON,,21109,21891,11401,6033
+931,22357,Instituto Superior de Educação PRÓ-SABER,,17981,22180,11401,6033
+932,22376,Escola Superior de Advocacia do Estado de Ceará ESA CE,,17624,22252,11401,6033
+933,22376,Centro Universitário de Jales UNIJALES,,13594,22544,11401,6033
+934,22387,Escola Superior de Teologia e Espiritualidade Franciscana ESTEF,,19916,22044,11401,6033
+935,22387,Faculdade Minas Gerais,,19710,22063,11401,6033
+936,22387,Faculdade Panamericana de Ji Paraná UNIJIPA,,16106,22383,11401,6033
+937,22400,Faculdade de Ensino Superior de Floriano FAESF,,9801,22855,11401,6033
+938,22413,União Educacional do Vale do Aço UNIVAÇO,,16751,22358,11401,6033
+939,22426,Faculdade São Luís de França,,17462,22316,11401,6033
+940,22439,Instituto Florence,,7256,23077,11401,6033
+941,22453,Fundação Educacional Nordeste Mineiro FENORD,,14916,22515,11401,6033
+942,22461,Faculdade Almeida Rodrigues,,18413,22257,11401,6033
+943,22473,Faculdade Salesiana Dom Bosco ISMA,,21082,22019,11401,6033
+944,22485,Faculdade Nacional de Educaçao e Ensino Superior do Paraná INESUL,,12805,22725,11401,6033
+945,22485,Faculdade de Filosofia Ciencias e Letras do Alto São Francisco FASF,,13810,22658,11401,6033
+946,22485,União das Faculdades de Jussara UNIFAJ,,17151,22404,11401,6033
+947,22532,Faculdade de Belford Roxo FABEL,,17839,22391,11401,6033
+948,22545,UNIPACTO Teófilo Otoni,,19597,22230,11401,6033
+949,22553,Instituto Superior do Litoral do Paraná ISULPAR,,19823,22239,11401,6033
+950,22553,Faculdade São Paulo FSP,,18563,22977,11232,6033
+951,22571,Centro de Ensino Superior de Valença,,20792,22158,11401,6033
+952,22571,Faculdade União de Campo Mourão UNICAMPO,,15214,23266,11232,6033
+953,22583,Faculdade Católica de Anápolis,,11201,22964,11401,6033
+954,22583,Faculdade Concórdia FACC,,16778,22526,11401,6033
+955,22593,Faculdades Integradas Einstein de Limeira,,18099,22440,11401,6033
+956,22593,Faculdade Nossa Cidade FNC,,22217,22063,11401,6033
+957,22593,Faculdade Evangélica de Tecnologia Ciências e Biotecnologia FAECAD,,26246,21472,11401,6033
+958,22601,Decision Business School,,24865,21746,11401,6033
+959,22601,Faculdade Cidade de Coromandel FCC,,21538,22132,11401,6033
+960,22613,Faculdade CET,,18636,22425,11401,6033
+961,22624,Instituto dos Advogados de Minas Gerais IAMG,,20927,22220,11401,6033
+962,22624,Faculdade Guarapuava,,17540,22519,11401,6033
+963,22624,Faculdades Integradas Coração de Jesus,,22730,22029,11401,6033
+964,22624,Faculdade de Filosofia Ciências e Letras de Cajazeiras FAFIC,,15774,22666,11401,6033
+965,22641,Faculdade Univértix,,15622,22695,11401,6033
+966,22651,Faculdade Brasileira,,15525,22717,11401,6033
+967,22651,Faculdade Central de Cristalina FACEC,,26709,21395,11401,6033
+968,22659,Faculdade de Tecnologia de Mogi das Cruzes,,20305,22336,11401,6033
+969,22659,Faculdade de Educaçao de Costa Rica FECRA,,26925,21331,11401,6033
+970,22659,CESV Centro de Ensino Superior de Vitória,,23006,22044,11401,6033
+971,22693,Faculdade Asa de Brumadinho,,16930,22653,11401,6033
+972,22693,Faculdade SOGIPA de Educação Física,,10733,23122,11401,6033
+973,22702,(1) Faculdade Dom Bosco de Porto Alegre,,14354,22880,11401,6033
+974,22702,Faculdade de Formaçao de Professores da Mata Sul AEMASUL,,20242,22377,11401,6033
+975,22714,Instituto Superior de Ensino do Ceará FAECE,,22756,22132,11401,6033
+976,22728,Fundaçao de Desenvolvimiento Gerencial FDG,,21151,22313,11401,6033
+977,22745,Instituto Matonense Municipal de Ensino Superior IMMES,,18967,22523,11401,6033
+978,22762,Faculdade Delta,,13594,22994,11401,6033
+979,22762,Faculdade Municipal de Palhoça FMP,,17696,22669,11401,6033
+980,22781,Faculdade Eficaz,,18574,22603,11401,6033
+981,22793,Faculdade Tecnologia Pindamonhangaba FATEC,,14408,22964,11401,6033
+982,22804,Fátima Educação,,18710,22608,11401,6033
+983,22829,Faculdade de Direito de Ipatinga FADIPA,,19061,22619,11401,6033
+984,22839,Faculdade do Clube Naútico Mogiano,,22955,22261,11401,6033
+985,22849,Fundação Paulista de Tecnología e Educação,,24488,22081,11401,6033
+986,22870,Faculdade Gama e Souza,,22311,22377,11401,6033
+987,22882,Faculdade de Mococa FAFEM,,18373,22749,11401,6033
+988,22893,Faculdade de Tecnologia Dr Thomaz Novelino FATEC Franca,,23110,22299,11401,6033
+989,22893,Faculdades Integradas Urubupungá,,20181,22584,11401,6033
+990,22918,Faculdade Mauá,,19847,22658,11401,6033
+991,22929,Faculdade de Direito e Ciências Sociais do Leste de Minas,,15647,23049,11401,6033
+992,22929,Centro Universitário UNICNEC,,17435,22911,11401,6033
+993,22958,Faculdade Santo Antônio de Pádua FASAP,,20825,22630,11401,6033
+994,22976,Centro Sulamericano de Ensino Superior CESUL,,20188,22717,11401,6033
+995,22976,Faculdade Arnaldo Horácio Ferreira FAAHF,,16243,23064,11401,6033
+996,22976,Faculdade de Tecnología Intensiva FATECI,,25809,22044,11401,6033
+997,22991,Faculdade América Latina,,21392,22608,11401,6033
+998,23001,Faculdade Euclides da Cunha FEUC,,21454,22608,11401,6033
+999,23008,Faculdade Católica de Fortaleza,,18063,22948,11401,6033
+1000,23041,Faculdade de Teologia e Ciências FATEC,,18671,22932,11401,6033
+1001,23041,Claretiano Faculdade de Rio Claro,,17593,25940,9431,6033
+1002,23041,Faculdade Raimundo Marinho FRM,,19415,22855,11401,6033
+1003,23053,Faculdade José Lacerda Filho de Ciencias Aplicadas Ipojuca FAJOLCA,,20274,22800,11401,6033
+1004,23061,FAIP Faculdade do Grupo FAEF,,15698,23194,11401,6033
+1005,23061,Faculdade de Tecnologia de Tatuí FATEC,,23805,22445,11401,6033
+1006,23071,FESP Faculdades,,18277,23013,11401,6033
+1007,23081,Faculdades Unificadas de Foz do Iguaçu UNIFOZ,,24600,22371,11401,6033
+1008,23097,Fundação Educacional Dr Raul Bauab Jahu,,10243,23604,11401,6033
+1009,23115,Faculdade Santa Lúcia,,24789,22399,11401,6033
+1010,23137,Faculdade CCAA,,26709,22019,11401,6033
+1011,23137,Faculdade de Tecnologia da Zona Leste FATEC,,22955,22658,11401,6033
+1012,23150,Faculdade de Ciências Humanas de Curvelo,,21948,22775,11401,6033
+1013,23183,(1) Faculdade Teológica Batista Equatorial FATEBE,,21125,22893,11401,6033
+1014,23192,Faculdade Ciências da Vida,,17810,23201,11401,6033
+1015,23202,Fundação Machadense de Ensino Superior e Comunicação FUMESC,,19750,23057,11401,6033
+1016,23213,Faculdades Chafic UNICEAD,,17771,23238,11401,6033
+1017,23213,Faculdades Integradas Maria Thereza FAMATH,,21725,22873,11401,6033
+1018,23222,Instituto Superior de Educação IVOTI,,12361,23631,11401,6033
+1019,23235,Faculdade Castelo Branco FUNCAB,,15525,23424,11401,6033
+1020,23235,Faculdade Cidade de João Pinheiro FCJP,,21528,22922,11401,6033
+1021,23257,Instituto de Especialização e Pós Graduação IEPG,,23181,22749,11401,6033
+1022,23268,Faculdade Anchieta de Ensino Superior do Paraná FAESP,,16615,23370,11401,6033
+1023,23268,Faculdade de Tecnologia de Garça FATEC,,14072,23535,11401,6033
+1024,23280,Faculdade SOPECE,,18317,23250,11401,6033
+1025,23292,Faculdade Metodista,,21232,23004,11401,6033
+1026,23300,Faculdade de Direito do Vale do Rio Doce FADIVALE,,18301,23286,11401,6033
+1027,23300,Faculdade de Ampére FAMPER,,16930,23383,11401,6033
+1028,23300,Instituto Taubaté de Ensino Superior ITES,,24299,22669,11401,6033
+1029,23316,Faculdade FIBRA,,21811,22967,11401,6033
+1030,23349,Faculdade Padrão,,27495,21665,11401,6033
+1031,23349,Faculdade Católica do Ceará,,22884,22904,11401,6033
+1032,23349,Instituto UNIEMP,,26970,22178,11401,6033
+1033,23361,Faculdade da Associação Brasiliense de Educação FABE,,18029,23354,11401,6033
+1034,23368,Faculdades Integradas Camões,,24906,22663,11401,6033
+1035,23395,Faculdades de Oliveira,,19613,23278,11401,6033
+1036,23395,Instituto Padre Machado,,19725,23266,11401,6033
+1037,23403,Faculdade de Engenharia de Agrimensura de Pirassununga,,25279,22666,11401,6033
+1038,23412,(1) Faculdade Sudoeste Paulista,,20999,23181,11401,6033
+1039,23412,Instituto Pernambucano de Ensino Superior IPESU,,24617,22775,11401,6033
+1040,23412,Faculdade INAP,,19575,23311,11401,6033
+1041,23412,Instituto de Ensino Superior Blauro Cardoso de Mattos FASERRA,,21937,23090,11401,6033
+1042,23412,Faculdades Integradas Regionais de Avaré FREA,,19233,23330,11401,6033
+1043,23427,Instituto de Ensino Superior Santo Antônio,,25973,22566,11401,6033
+1044,23438,Instituto Taquaritinguense de Ensino Superior ITES,,20007,23293,11401,6033
+1045,23472,Faculdade de Ciências Socias Aplicadas FACISA (Centro de Ensino Superior do Extremo Sul da Bahia CESESB),,24023,22921,11401,6033
+1046,23472,Faculdade Evolução,,16696,23578,11401,6033
+1047,23472,Instituto Superior de Educação do Parana INSEP,,11971,23918,11401,6033
+1048,23472,UNIFAAT,,22955,23044,11401,6033
+1049,23494,Instituto Superior de Economia e Administração ISEAD,,25847,22669,11401,6033
+1050,23506,Faculdade Triângulo Mineiro FTM,,15383,23729,11401,6033
+1051,23506,Faculdade de Paulínia,,18784,23452,11401,6033
+1052,23514,Centro de Estudios Universitarios de Colider FACIDER,,15294,23752,11401,6033
+1053,23563,União Latino Americana de Tecnología ULT,,27782,21495,11401,6033
+1054,23579,Faculdade de Campina Grande do Sul FASUL,,22657,23220,11401,6033
+1055,23586,Faculdade Boas Novas,,13637,23973,11401,6033
+1056,23586,Instituto Cenecista de Ensino Superior de Santo Angelo IESA,,18805,23558,11401,6033
+1057,23598,Faculdade de Anicuns,,20920,23402,11401,6033
+1058,23624,Fundação Saint Pastous,,19800,23513,11401,6033
+1059,23638,Faculdade do Maranhão FACAM,,23041,23259,11401,6033
+1060,23647,UNIESP Faculdade Eça de Queirós FACEQ,,27648,21839,11401,6033
+1061,23647,Faculdade de Ciências Humanas e Exatas do Sertão do São Francisco,,16030,23846,11401,6033
+1062,23647,Faculdade de Filosofia Ciencias e Letras de Macaé FAFIMA,,25390,22967,11401,6033
+1063,23679,Faculdades CELER,,16422,23846,11401,6033
+1064,23697,UNIESSA,,24160,23183,11401,6033
+1065,23697,Instituto Belo Horizonte de Ensino Superior IBHES,,25299,23037,11401,6033
+1066,23697,Faculdade de Ciências Contabeis e Administrativas de Cachoeiro do Itapemirim FACCACI,,21350,23468,11401,6033
+1067,23718,Faculdade do Seridó,,21141,23499,11401,6033
+1068,23733,(1) Faculdade Metropolitana de Curitiba FAMEC,,27705,21843,11401,6033
+1069,23733,Faculdade Serra da Mesa FASEM,,16150,23948,11401,6033
+1070,23733,Instituto de Estudos Superiores do Maranhão IESMA,,21840,23459,11401,6033
+1071,23742,Faculdade de Ciências de Wenceslau Braz FACIBRA,,23947,23278,11401,6033
+1072,23742,Faculdade Saberes,,21509,23499,11401,6033
+1073,23757,Faculdade de Cariacica UNIEST,,24006,23278,11401,6033
+1074,23757,Faculdade José Augusto Vieira FJAV,,21824,23491,11401,6033
+1075,23768,Faculdades Alvorada Plus,,15348,24029,11401,6033
+1076,23768,Faculdade de Teologia Integrada FATIN,,23243,23371,11401,6033
+1077,23798,Faculdade de Educação de Bacabal FEBAC,,16400,23983,11401,6033
+1078,23841,Faculdade Latino Americana de Teologia Integral FLAM,,24434,23311,11401,6033
+1079,23873,(1) Faculdade São Francisco de Assis UNIFIN,,27705,22007,11401,6033
+1080,23873,Novo Rumo Faculdade e Escola Técnica,,16369,24073,11401,6033
+1081,23886,Escola e Faculdade Santa Marina,,27108,22757,11401,6033
+1082,23917,Instituto de Ensino Superior de Itapira IESI,,24608,23377,11401,6033
+1083,23936,Faculdade Quirinópolis FAQUI,,20854,23780,11401,6033
+1084,23955,UNIESP Faculdade de Filosofia Ciências e Letras Nossa Senhora Aparecida FNSA,,26336,23145,11401,6033
+1085,23955,Faculdade Dom Bosco,,25491,23306,11401,6033
+1086,23967,Faculdade de Desenvolvimento e Integração Regional FADIRE,,23437,23558,11401,6033
+1087,23977,Unicentro Faculdade de Educação de Jaru UNICENTRO,,19466,23948,11401,6033
+1088,23977,Faculdade de Rolim de Moura FAROL,,19518,23946,11401,6033
+1089,23977,Faculdades Integradas de Paranaíba FIPAR,,20166,23890,11401,6033
+1090,23993,Faculdade de Ciências da Bahia FACIBA,,23110,23632,11401,6033
+1091,23993,Faculdade Padre Dourado FACPED,,15808,24251,11401,6033
+1092,23993,Faculdade Aldeia de Carapicuiba FALC,,22705,23679,11401,6033
+1093,23993,Faculdade de Tecnologia Jardim FATEJ,,24266,23491,11401,6033
+1094,24005,Faculdade Pimenta Bueno FAP,,19021,24015,11401,6033
+1095,24024,Faculdade Teológica e Seminario Batista Ana Wollerman,,26566,23153,11401,6033
+1096,24024,Faculdades Integradas Libertas,,17048,24189,11401,6033
+1097,24045,Instituto Brasileiro de História do Direito IBHD,,23231,23682,11401,6033
+1098,24045,Faculdade Sergipana FASER,,24329,23535,11401,6033
+1099,24045,União de Ensino Superior do Paraná UESPAR,,20131,23973,11401,6033
+1100,24059,Faculdade Serra do Carmo,,19944,23997,11401,6033
+1101,24068,Instituto de Ensino e Pesquisa Objetivo IEPO,,25309,23443,11401,6033
+1102,24081,Faculdade Batista de Vila Velha FABAVI,,27782,22122,11401,6033
+1103,24081,Faculdade Luterana Rui Barbosa,,23607,23691,11401,6033
+1104,24114,Faculdade Raimundo de Sá Urtiga Filho,,16960,24311,11401,6033
+1105,24144,Faculdade Sagrada Família FASF,,26507,23329,11401,6033
+1106,24158,Faculdade Missioneira do Paraná FAMIPAR,,21265,23997,11401,6033
+1107,24168,Faculdade de Itápolis FACITA,,22768,23858,11401,6033
+1108,24175,Faculdade de Tecnologia da Zona Sul FATEC ZS,,24381,23721,11401,6033
+1109,24181,Instituto Varzeagrandese de Ensino IVE,,24064,23752,11401,6033
+1110,24202,Faculdade de Ciências Humanas de Cruzeiro FACIC,,23311,23862,11401,6033
+1111,24214,Faculdades Integradas Torricelli,,27782,22303,11401,6033
+1112,24214,Dom Pedro II Salvador,,27603,22627,11401,6033
+1113,24214,Faculdade de Tecnologia Apoena FTA,,19886,24202,11401,6033
+1114,24245,Faculdade de Ciências e Tecnologias de Campos Gerais FACICA,,13234,24755,11401,6033
+1115,24245,Faculdade de Tecnologia de Sete Lagoas FACSETE,,17810,24406,11401,6033
+1116,24258,Faculdade de Educação Fisica FEFISO,,23981,23846,11401,6033
+1117,24262,Instituição Educacional São Judas Tadeu,,18618,24367,11401,6033
+1118,24270,Faculdade de Tecnologia da Serra Gaúcha FTSG,,16343,24563,11401,6033
+1119,24289,Faculdade Nazarena do Brasil FNB,,25133,23752,11401,6033
+1120,24289,Faculdade INESP Instituto Nacional de Ensino e Pesquisa,,25056,23752,11401,6033
+1121,24300,Faculdade Internacional Signorelli,,20453,24255,11401,6033
+1122,24309,Faculdade Gamaliel,,21627,24157,11401,6033
+1123,24309,Polo Universitário Santo Antônio,,17507,24512,11401,6033
+1124,24318,Faculdade Evangélica de Brasília,,23791,23973,11401,6033
+1125,24318,Faculdade de Tecnologia América do Sul,,27084,23321,11401,6033
+1126,24330,Faculdade de Ciências Agro-ambientais FAGRAM,,26621,23499,11401,6033
+1127,24330,Instituto Municipal de Ensino Superior de São Manuel IMES,,25071,23805,11401,6033
+1128,24369,Centro de Ensino Superior de Conselheiro Lafaiete,,18582,24491,11401,6033
+1129,24369,Faculdade do Bico do Papagaio FABIC,,17405,24621,11401,6033
+1130,24369,"Faculdade de Ciências, Educação e Teologia do Norte do Brasil FACETEN",,15424,24755,11401,6033
+1131,24390,Universidade da Paz Campus Brasília UNIPAZ,,26149,23704,11401,6033
+1132,24390,Escola de Negócios UNI7,,26246,23682,11401,6033
+1133,24412,Faculdade Pedro II,,22291,24217,11401,6033
+1134,24451,Faculdade Intermunicipal do Noroeste do Paraná FACINOR,,23311,24165,11401,6033
+1135,24458,UNESC Faculdades,,18099,24669,11401,6033
+1136,24458,Conservatório Brasileiro de Música,,26935,23565,11401,6033
+1137,24467,Faculdade Santa Izildinha,,17981,24682,11401,6033
+1138,24467,Instituto Pró-Universidade Canoense Faculdade de Tecnología IPUC,,20159,24488,11401,6033
+1139,24484,Faculdades São Judas Tadeu SJT,,22337,24311,11401,6033
+1140,24499,Instituto Cuiabá de Ensino e Cultura ICEC,,22884,24270,11401,6033
+1141,24505,Faculdade João Paulo II,,19330,24621,11401,6033
+1142,24520,Evangélica Faculdade de Goianésia,,19815,24574,11401,6033
+1143,24551,Faculdade Lions,,21662,24441,11401,6033
+1144,24551,Faculdade do Saber FASAB,,17839,24774,11401,6033
+1145,24567,Faculdade São Francisco de Juazeiro,,22427,24377,11401,6033
+1146,24567,Centro de Ensino Superior de Uberaba,,24381,24157,11401,6033
+1147,24579,Faculdade Ipiranga,,18877,24724,11401,6033
+1148,24605,Faculdade São Francisco de Assis,,16960,24882,11401,6033
+1149,24610,Instituto de Ensino Superior de Americana IESA,,24381,24202,11401,6033
+1150,24623,Universidade FUPAC,,15868,24954,11401,6033
+1151,24635,Faculdade de Inhumas,,15737,24981,11401,6033
+1152,24635,Faculdade de Tecnologia Rubens Lara Baixada Santista,,27782,22825,11401,6033
+1153,24635,Faculdade de Tecnologia Estudante Rafael Almeida Camarinha FATEC Marília,,23715,24302,11401,6033
+1154,24644,Faculdade Adelmar Rosado,,18238,24839,11401,6033
+1155,24644,Faculdade de Enfermagen Nova Esperança de Mossoró FACENE,,16263,24955,11401,6033
+1156,24662,Faculdade Católica de Pouso Alegre FACAPA,,27648,23114,11401,6033
+1157,24662,Faculdade Metropolitana de Camaçari FAMEC,,23367,24391,11401,6033
+1158,24690,Fundação Educacional de Além Paraíba FEAP,,18297,24892,11401,6033
+1159,24693,"Faculdades Integradas de Ciências Humanas, Saúde e Educação de Guarulhos",,27782,22932,11401,6033
+1160,24693,Faculdade Sul Fluminense FASF,,13637,25203,11401,6033
+1161,24693,Instituto Superior de Educação Nossa Senhora de Sion ISE,,22784,24491,11401,6033
+1162,24693,Horus Faculdades,,22440,24544,11401,6033
+1163,24736,Faculdade Modelo,,25644,24202,11401,6033
+1164,24736,Faculdades Montenegro,,22966,24544,11401,6033
+1165,24748,Faculdade de Educação de Colorado do Oeste,,26925,23909,11401,6033
+1166,24748,Faculdade de Enfermagem São Vicente de Paula FESVIP,,14709,25194,11401,6033
+1167,24769,Instituição de Ensino São Francisco,,24989,24328,11401,6033
+1168,24779,Instituto de Ensino Superior do Amapa IESAP,,22979,24576,11401,6033
+1169,24779,Faculdade de Ciências Médicas e Paramédicas Fluminense SEFLU,,24699,24377,11401,6033
+1170,24811,Faculdade de Tecnología Pernambuco FATECPE,,27410,23570,11401,6033
+1171,24819,Instituto Superior de Educação Ocidemnte ISEO,,24196,24491,11401,6033
+1172,24838,Faculdade Salesiana do Nordeste FASNE,,24101,24540,11401,6033
+1173,24843,Faculdade de Ensino Regional Alternativa FERA,,16584,25172,11401,6033
+1174,24849,Faculdade de São Bento,,21643,24806,11401,6033
+1175,24849,Faculdade IBS,,21741,24793,11401,6033
+1176,24864,Faculdade São José,,21053,24882,11401,6033
+1177,24864,Faculdade Barretos UNIBARRETOS,,21614,24831,11401,6033
+1178,24874,Fundação Universitária de Itaperuna FUNITA,,26029,24302,11401,6033
+1179,24881,Faculdade Santa Rita Novo Horizonte,,11158,25487,11401,6033
+1180,24919,Faculdade do Vale do Itapecuru FAI,,18132,25168,11401,6033
+1181,24919,Instituto de Ensino Superior Materdei IES,,25056,24523,11401,6033
+1182,24919,Escola Santa Adame,,17771,25178,11401,6033
+1183,24931,Instituto Batista de Ensino Superior de Alagoas,,24750,24598,11401,6033
+1184,24931,Faculdades Integradas de Diamantino FID,,22688,24822,11401,6033
+1185,24940,Faculdade Aplicada de Teologia e Filosofia FATEF,,24477,24644,11401,6033
+1186,24940,UNIESP Faculdade INED de Rio Claro CBTA,,25940,24419,11401,6033
+1187,24940,Centro de Ensino Superior do Vale do Parnaíba CESVALE,,16202,25296,11401,6033
+1188,24940,Instituto Superior Anísio Teixeira,,24477,24639,11401,6033
+1189,24954,Faculdade Mineirense FAMA,,19856,25059,11401,6033
+1190,24954,Faculdade de Teologia e Cultural da Bahia FATECBA,,25371,24512,11401,6033
+1191,24983,Faculdades Equipe FAE,,25002,24621,11401,6033
+1192,25018,Instituto Teológico Franciscano ITF,,15647,25405,11401,6033
+1193,25038,Faculdade de Odontologia de Manaus FOM,,27204,24099,11401,6033
+1194,25062,Escola Politécnica de Pernambuco POLI,,22815,24928,11401,6033
+1195,25079,BandTec Digital School (Faculdade Bandeirantes de Suzano),,25208,24696,11401,6033
+1196,25079,Faculdade de Roseira FARO,,17405,25340,11401,6033
+1197,25113,Faculdade de Tecnología do Amapá META,,25809,24644,11401,6033
+1198,25113,Grupo Magister,,12875,25621,11401,6033
+1199,25127,Centro de Ensino Superior Cenecista de Farroupilha CESF,,28051,23256,11401,6033
+1200,25136,Faculdades Asper,,24608,24842,11401,6033
+1201,25144,Centro Universitário Catolico do Sudoeste do Paraná UNICS,,27782,23474,11401,6033
+1202,25163,União Educacional de Ensino Superior do Medio Tocantins UNEST,,24675,24862,11401,6033
+1203,25180,Faculdade Porto,,21937,25145,11401,6033
+1204,25249,Faculdade Cenecista de Joinville FCJ,,27567,23982,11401,6033
+1205,25249,Escola e Faculdade São Geraldo,,24600,24955,11401,6033
+1206,25285,Faculdade Aliança de Itaberaí,,15424,25646,11401,6033
+1207,25285,Faculdade de Filosofia Ciências e Letras de Alegre FAFIA,,27782,23657,11401,6033
+1208,25296,Faculdade Cenecista de Varginha FACECA,,23383,25165,11401,6033
+1209,25296,Faculdade Tijucussu,,24266,25059,11401,6033
+1210,25312,Faculdade Futura (Ciências Gerênciais Votuporanga),,15985,25675,11401,6033
+1211,25312,Faculdade Paschoal Dantas,,25234,24966,11401,6033
+1212,25320,Faculdade de Ensino Superior Santa Bárbara FAESB,,16319,25635,11401,6033
+1213,25320,Faculdade do Trabalho,,20988,25360,11401,6033
+1214,25320,Faculdade de Apucarana,,17114,25591,11401,6033
+1215,25334,Faculdade Atlântico,,24477,25081,11401,6033
+1216,25334,Faculdade do Amazonas IAES,,24434,25093,11401,6033
+1217,25341,Faculdade FAIFA,,27039,24586,11401,6033
+1218,25341,AESPI/FAPI,,24047,25148,11401,6033
+1219,25359,Faculdade Wenceslau Braz FWB (Escola de Enfermagem Wenceslau Braz EEWB),,19397,25502,11401,6033
+1220,25359,Faculdade Santa Catarina,,27127,24561,11401,6033
+1221,25370,Faculdade Luso-Brasileira,,26917,24724,11401,6033
+1222,25390,Faculdade Zacarias de Góes FAZAG,,17771,25621,11401,6033
+1223,25484,Instituto Kenedy,,25809,25107,11401,6033
+1224,25484,Faculdade Católica do Cariri,,24047,25296,11401,6033
+1225,25506,Faculdade de Tecnologia IAPEC,,26382,25005,11401,6033
+1226,25512,(1) Instituto Tocantinense de Pós Graduação Faculdade ITOP,,15348,25901,11401,6033
+1227,25529,Faculdade de Itaituba FAI,,24750,25267,11401,6033
+1228,25546,Faculdade de Nanuque UNEC/FANAN,,26336,25068,11401,6033
+1229,25546,Faculdade São Vicente FASVIPA,,25320,25225,11401,6033
+1230,25554,Instituto Educacional Santa Catarina Faculdade Guaraí,,16542,25878,11401,6033
+1231,25569,Faculdade do Sudeste Goiano FASUG,,20435,25646,11401,6033
+1232,25569,Faculdades Integradas UNESULBAHIA,,20403,25663,11401,6033
+1233,25581,Faculdade de Palmas FAPAL,,25071,25290,11401,6033
+1234,25591,UNIFAMETRO Fortaleza,,20808,25660,11401,6033
+1235,25615,Escola Superior de Gestão e Ciencias da Saúde IAHCS,,27782,24121,11401,6033
+1236,25615,Faculdade de Ciências Gerenciais da Bahia,,23763,25465,11401,6033
+1237,25624,ISEAF Instituto Superior de Educação Antonino Freire,,23540,25489,11401,6033
+1238,25635,Faculdade Imaculada Conceição do Recife (Faculdade Marista),,13472,26125,11401,6033
+1239,25671,Instituto Superior de Educação de Barretos ISEB,,26085,25271,11401,6033
+1240,25687,Faculdade de Conchas FACON,,24865,25419,11401,6033
+1241,25687,Faculdades Dom Bosco,,26067,25290,11401,6033
+1242,25698,Faculdades Integradas de Caratinga,,27782,24246,11401,6033
+1243,25704,Faculdade Bertioga FABE,,23540,25572,11401,6033
+1244,25704,Faculdade de Realeza,,27782,24255,11401,6033
+1245,25736,UNIESP Instituto de Ensino Superior de Garça IESG,,26935,25190,11401,6033
+1246,25736,Fundação Antônio Almeida e Silva FUNDAL,,26166,25352,11401,6033
+1247,25745,Faculdade União Araruama de Ensino,,23088,25693,11401,6033
+1248,25762,Faculdade Vale do Gorutuba FAVAG,,19284,25940,11401,6033
+1249,25769,Faculdade da Vila Matilde (Faculdade de Tecnología Alvares de Azevedo FAATESP),,28051,24153,11401,6033
+1250,25781,Faculdade de Timbaúba,,25410,25509,11401,6033
+1251,25781,Faculdade de Nova Serrana FANS,,21633,25826,11401,6033
+1252,25859,Faculdade de Teologia e Ciencias Humanas,,23689,25753,11401,6033
+1253,25908,FACE Faculdade Casa do Estudante,,21304,25984,11401,6033
+1254,25908,(1) Instituto Betel de Ensino Superior IBES,,26495,25477,11401,6033
+1255,25919,Instituto Federal de Educação do Ceará IFCE Campus Crato,,28051,24377,11401,6033
+1256,25925,Faculdade UNICA União de Ensino Superior de Cafelândia,,24434,25753,11401,6033
+1257,25970,Instituto Savonitti de Ensino Superior,,20756,26091,11401,6033
+1258,25991,Faculdade Única de Ipatinga,,22033,26030,11401,6033
+1259,26004,Faculdade Já,,27782,24767,11401,6033
+1260,26016,Faculdade de Tecnología Egidio José da Silva FATEGIDIO,,27603,25031,11401,6033
+1261,26016,Faculdade Vizinhança Vale do Iguaçu Vizivali,,27782,24774,11401,6033
+1262,26037,Faculdade da Fronteira FAF,,27705,24909,11401,6033
+1263,26047,(1) Faculdade Capin Grosso,,26778,25576,11401,6033
+1264,26051,Faculdade de Direito da Bahia,,27603,25081,11401,6033
+1265,26062,Faculdade de Tecnología / Instituto de Educação Superior da Paraíba FATECPB,,27327,25382,11401,6033
+1266,26077,Faculdade Santa Rita de Cassia,,19841,26235,11401,6033
+1267,26089,Instituto C G Jung,,27378,25352,11401,6033
+1268,26103,Centro de Ensino Superior de Primavera CESPRI,,27327,25447,11401,6033
+1269,26128,Faculdade Paulista,,23947,26055,11401,6033
+1270,26137,Faculdade Santo Antônio,,25809,25878,11401,6033
+1271,26144,Faculdade de Iporá FAI,,21927,26212,11401,6033
+1272,26144,Faculdade de Estudos Sociais Aplicados de Viana FESAV,,26687,25742,11401,6033
+1273,26144,Centro Técnico-Educacional Superior do Oeste Paranaense CTESOP,,22864,26138,11401,6033
+1274,26151,Faculdade de Ciências Educacionais FACE,,25973,25889,11401,6033
+1275,26189,Grupo UNIFOX,,27386,25471,11401,6033
+1276,26196,Faculdade de Betim AAS,,16074,26541,11401,6033
+1277,26196,Faculdade Teologica de Ciencias Humanas e Sociais Logos FAETEL,,26660,25804,11401,6033
+1278,26196,Faculdade de Educação e Tecnología da Região Missioneira FETREMIS,,22117,26248,11401,6033
+1279,26204,FacUnicamps,,24534,26091,11401,6033
+1280,26215,Instituto Educar,,599,27341,11401,6033
+1281,26227,Faculdade do Centro Educacional Mineiro FACEM,,25133,26078,11401,6033
+1282,26258,Escola Superior de Marketing FAMA,,27705,25239,11401,6033
+1283,26280,Faculdade Sao Francisco,,26583,25933,11401,6033
+1284,26292,Faculdade Alfa Almenara Minas Gerais,,24750,26171,11401,6033
+1285,26292,Faculdade Salesiana de Santa Teresa FSST,,19626,26483,11401,6033
+1286,26292,Faculdade Ideal UNIDEAL,,21701,26372,11401,6033
+1287,26299,Faculdades Integradas da Vitoria de Santo Antao FAINTVISA,,17114,26581,11401,6033
+1288,26323,Faculdade Presbiteriana FATESUL,,27342,25703,11401,6033
+1289,26331,Universidade Aberta Vida,,25940,26091,11401,6033
+1290,26342,Faculdade Corporativa CESPI FACESPI (UNICESPI),,21840,26398,11401,6033
+1291,26342,Centro Universitário UNIPTAN,,21840,26398,11401,6033
+1292,26355,Faculdade Internacional do Delta,,27204,25817,11401,6033
+1293,26355,Faculdade UNISABER,,27782,25254,11401,6033
+1294,26382,Faculdade 15 de Agosto FAQ15,,23715,26332,11401,6033
+1295,26392,Faculdade Dom Luciano Mendes,,21840,26455,11401,6033
+1296,26402,Autarquia de Ensino Superior de Limoeiro AESL,,25133,26245,11401,6033
+1297,26460,Instituto Brasiliense de Tecnología e Ciencias IBTC,,26982,26016,11401,6033
+1298,26470,UniFASS,,27648,25533,11401,6033
+1299,26478,Faculdade de Sabará,,18189,26681,11401,6033
+1300,26519,Faculdade Cenecista da Ilha do Governador,,24928,26364,11401,6033
+1301,26519,Faculdade Padrão Aparecida,,27782,25447,11401,6033
+1302,26539,UniSãopaulo Instituto São Paulo de Formação e Especialização Profissional,,27127,26055,11401,6033
+1303,26546,Faculdade Calafiori,,13274,26939,11401,6033
+1304,26546,Instituto FEPAF,,27252,26011,11401,6033
+1305,26591,Faculdade Anglicana de Tapejara FAT,,15574,26917,11401,6033
+1306,26633,Faculdade de Castro INEC,,28051,25447,11401,6033
+1307,26640,Faculdade Gennari e Peartree FGP,,21065,26715,11401,6033
+1308,26643,Faculdade de Tecnologia MOCOCA,,27455,25966,11401,6033
+1309,26649,Faculdade Evangélica Beth Shalom FEBS,,27127,26196,11401,6033
+1310,26659,Escola de Música Carlos Gomes,,25491,26483,11401,6033
+1311,26659,Faculdades do Baixo Parnaíba FAP,,23868,26581,11401,6033
+1312,26666,União de Faculdades de Alagoas e Faculdade Figueiredo Costa FIC UNIFAL,,24655,26541,11401,6033
+1313,26735,Instituto Abuchaim,,26621,26434,11401,6033
+1314,26751,Faculdade de Tecnologia de Palmas FATEP,,27705,25866,11401,6033
+1315,26756,UNITERP,,26110,26522,11401,6033
+1316,26764,Faculdade de Teologia e Filosofia Fides Reformada FATEFFIR,,27782,25798,11401,6033
+1317,26768,Faculdades Integradas de Cuiabá FIC,,28051,25634,11401,6033
+1318,26771,Faculdade Católica Santa Teresinha,,21104,26871,11401,6033
+1319,26797,UNISÃOMIGUEL,,23064,26815,11401,6033
+1320,26797,Faculdade Cenecista Nossa Senhora dos Anjos FACENSA,,22107,26859,11401,6033
+1321,26804,Faculdade do Sertão Baiano Monte Santo FASB,,19208,26977,11401,6033
+1322,26821,Instituto Superior de Educação Elvira Dayrell ISEED FAVED,,23981,26795,11401,6033
+1323,26821,Faculdade Alfa Brasil Cascavel,,27004,26457,11401,6033
+1324,26821,Faculdade e Seminário Teológico da Fé Reformada FATEFE,,26495,26559,11401,6033
+1325,26856,Faculdade Cenecista de Sete Lagoas,,23981,26817,11401,6033
+1326,26862,Instituto Tecnológico do Sudoeste Paulista,,27410,26312,11401,6033
+1327,26874,Faculdade de Maceió FAMA,,22125,26939,11401,6033
+1328,26874,Faculdade Presidente Antônio Carlos de Aimorés UNIPAC,,24569,26812,11401,6033
+1329,26882,Faculdade Internacional de Teologia das Assembléias de Deus,,27495,26282,11401,6033
+1330,26897,Academia Militar das Agulhas Negras AMAN,,27705,26135,11401,6033
+1331,26951,Faculdade Brasileira de Estudos Avançados FABEA,,22721,27005,11401,6033
+1332,26970,Instituto Evolução,,26050,26817,11401,6033
+1333,26979,Faculdade de Teologia e Filosofia Siloé,,25847,26854,11401,6033
+1334,26998,Faculdade Presbiteriana Augusto Galvão,,20840,27117,11401,6033
+1335,27030,Centro Educacional do Alto São Francisco,,28051,26125,11401,6033
+1336,27048,Faculdade de Tecnologia Pedro Rogério Garcia FATTEP,,23731,27063,11401,6033
+1337,27051,Faculdade Antônio Propício Aguiar Franco FAPAF,,27062,26782,11401,6033
+1338,27054,Faculdade Cenecista de Nova Petropolis FACENP,,25410,26977,11401,6033
+1339,27057,Faculdade para o Desenvolvimento Sustentável do Nordeste FADESNE,,19772,27227,11401,6033
+1340,27057,Autarquia Municipal de Ensino de Poços de Calda,,26709,26871,11401,6033
+1341,27104,Faculdade Mantenense dos Vales Gerais INTERVALE,,21201,27248,11401,6033
+1342,27130,Instituto de Ensino Superior de Paraíba Faculdade de Filosofia Ciências e Letras FAFIL,,27177,26871,11401,6033
+1343,27135,UNIFATEC,,24395,27130,11401,6033
+1344,27153,ISEPE Guaratuba,,19546,27358,11401,6033
+1345,27157,Faculdade Evangélica do Piauí FAEPI,,25279,27117,11401,6033
+1346,27165,Faculdades ISEIB,,25900,27086,11401,6033
+1347,27177,Faculdade Unida de Vitória,,18167,27403,11401,6033
+1348,27184,Faculdade Alagoana de Administração Instituto de Ensino Superior de Alagoas FAA IESA,,22768,27250,11401,6033
+1349,27200,Unidez Faculdade itanhaém,,24928,27169,11401,6033
+1350,27238,Faculdade Madre Tereza,,19741,27424,11401,6033
+1351,27256,Fundação Universitária de Apoio ao Ensino FURNE,,26336,27158,11401,6033
+1352,27269,Faculdade Brasileira de Educação e Cultura FABEC,,20977,27424,11401,6033
+1353,27269,Faculdade de Roseira FARO Centro de Estudos Ambientais do Vale do Paraíba CEAVAP,,16858,27520,11401,6033
+1354,27274,Faculdade Casa Branca,,25661,27227,11401,6033
+1355,27292,Faculdade Cenecista de Itaboraí,,25390,27263,11401,6033
+1356,27307,Faculdade da Região Serrana FARESE,,25443,27292,11401,6033
+1357,27376,aculdade Catolica de Mato Grosso FACC,,21760,27489,11401,6033
+1358,27411,Faculdade Batista ABC FABC,,25528,27421,11401,6033
+1359,27427,Grupo Educacional Athenas,,25171,27432,11401,6033
+1360,27439,Faculdade de Educaçao FDE,,27782,26958,11401,6033
+1361,27481,Faculdades Uniro,,26778,27386,11401,6033
+1362,27490,Escola de Educacao Fisica do Exercito,,23750,28115,11401,5288
+1363,27517,Faculdade Teologica Batista de Bauru FATEO,,27782,27062,11401,6033
+1364,27530,Faculdade Alfa Praia Grande,,19705,27712,11401,6033
+1365,27539,Instituto Bahiano de História da Medicina e Ciências Afins,,25579,27522,11401,6033
+1366,27552,Instituto Internacional de Estudos de Direito do Estado IIEDE,,19613,27725,11401,6033
+1367,27558,Escola de Negócios UNISO,,24408,27595,11401,6033
+1368,27565,Faculdades da Escada FAESC/SOESE,,23243,27653,11401,6033
+1369,27596,Seminário Batista de Teologia Itaquera,,25628,27595,11401,6033
+1370,27633,UNIESP Faculdade de Vinhedo,,27150,27511,11401,6033
+1371,27633,Faculdade de Vendas,,27314,27481,11401,6033
+1372,27639,Faculdade Centro Oeste do Paraná FACEOPAR,,21320,27758,11401,6033
+1373,27664,(3) Faculdade Dom Pedro II Ensino a Distancia,,27782,27322,11401,6033
+1374,27673,Instituto de Ensino Superior do Oeste Paulista IESOP,,27177,27555,11401,6033
+1375,27684,Faculdade Colégio e Clínica Logos,,27356,27522,11401,6033
+1376,27690,Formação Teológica Betel FATEBEL,,24584,27739,11401,6033
+1377,27827,Faculdade Mercúrio,,27705,27595,11401,6033
+1378,27886,Faculdade Entre Rios,,27084,27852,11401,6033
+1379,27889,Faculdades de Tecnologia e Ensino Superior FATEC,,28051,27592,11401,6033
+1380,27949,Instituto de Ciências Humanas e da Informação ICHI,,14623,28086,11401,6033
+1381,27957,Instituto São Francisco de Assis de Administração Comunicação Educação e Saúde ISFACES,,27567,27852,11401,6033
+1382,28051,Faculdade Cidade de Guanhães FACIG,,27204,28015,11401,6033
+1383,28151,Faculdades Integradas Dom Pedro II,,26223,28151,11401,6033
+1384,28164,Faculdade Paulista de Comunicação,,25644,28163,11401,6033

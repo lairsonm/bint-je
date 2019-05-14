@@ -1,0 +1,83 @@
+---
+title: "ETL"
+author: "Team X"
+date: "April 4, 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source('../Dashboard/Queries.R')
+```
+
+## ETL
+
+This document show the steps required to extract, tansform and load the data in PostgreSQL.
+
+### Extract: Demo with Eurostat API
+
+See http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=hrst_st_ncat&lang=en for an interactive interface.
+
+```{r}
+library(eurostat)
+
+# For codes, look on the website of eurostat or use search_dataset from Eurostat (the R package)
+example_dataset <- get_eurostat("hrst_st_ncat")
+```
+
+### Transform with TidyVerse
+
+```{r}
+library(tidyverse)
+library(lubridate)
+
+# Transforming into tibble dataframes is not necessary for datasets created with the get_eurostat function, they are  already in a "tibble" format
+# But might be handy to know for other data sets/files
+transform_dataset_as_tibble <- as_tibble(example_dataset)
+
+result <- transform_dataset_as_tibble %>% mutate(year=year(ymd(time))) %>% filter(age == "Y15-24_Y65-74", category == "SE" , unit == "PC_POP", geo %in% c("BE", "NL", "DE")) %>% group_by(geo, year) %>% summarise(AvgScienPop = mean(values))
+
+```
+
+
+### Time to prepare the postgres schema
+
+You can use SQL chunks to write the CREATE TABLE statements in your ETL.RMD file. Easy No?
+
+```{sql connection=DATABASE}
+
+CREATE TABLE IF NOT EXISTS dim_year(
+  year_id char(4) PRIMARY KEY
+);
+
+CREATE TABLE IF NOT EXISTS dim_country(
+  country_id char(3) PRIMARY KEY
+);
+
+CREATE TABLE IF NOT EXISTS fact_science_hr(
+  year_id char(4) REFERENCES dim_year(year_id) NOT NULL,
+  country_id char(3) REFERENCES dim_country(country_id) NOT NULL,
+  value DECIMAL,
+  PRIMARY KEY(year_id, country_id)
+);
+
+```
+
+### Load to PostgreSQL
+
+```{r}
+
+dim_year <- as_tibble(unique(result$year)) %>% rename(year_id = value)
+dim_country <- result %>% distinct(geo) %>% rename(country_id = geo)
+
+fact_science_hr <- result %>% rename(year_id = year, country_id = geo, value = AvgScienPop)
+
+#We prefer to create tables ourselves to make sure the schema is right, so the table already exists and append=TRUE must be used
+dbWriteTable(DATABASE, "dim_year", dim_year, append=TRUE, row.names = FALSE)
+dbWriteTable(DATABASE, "dim_country", dim_country, append=TRUE, row.names = FALSE)
+dbWriteTable(DATABASE, "fact_science_hr", fact_science_hr, append=TRUE, row.names = FALSE)
+
+```
+
+
+

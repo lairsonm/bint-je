@@ -1,0 +1,1001 @@
+ranking;Researcher;University;Citations;H-Index
+1;Michel Foucault;Collège de France;782097;242
+2;Pierre Bourdieu;Centre de Sociologie Européenne;;
+3;Sigmund Freud;University of Vienna;482648;272
+4;Albert Bandura;Stanford University;451545;180
+5;Bert Vogelstein;Johns Hopkins University;342631;241
+6;Noam Chomsky;Massachusetts Institute of Technology MIT;337098;164
+7;Eric Lander;Broad Institute Harvard MIT;328108;234
+8;Tom Maniatis;Columbia University;325704;148
+9;Michael E Porter;Bishop William Lawrence University;;
+10;Herbert Simon;Carnegie Mellon University;311351;170
+11;Eugene Braunwald;Brigham and Women's Hospital Harvard Medical School;308150;250
+12;Daniel Kahneman;Princeton University;296047;126
+13;Douglas G Altman;Oxford University;294346;189
+14;Amartya Sen;Harvard University;292905;191
+15;Masatoshi Nei;Pennsylvania State University;291500;118
+16;Ronald C Kessler;Harvard University;286281;255
+17;Ulrich K Laemmli;University of Geneva;273494;67
+18;Karl Marx;Universities of Bonn Berlin and Jena;271714;163
+19;Graham Colditz;Washington University in St Louis;268650;271
+20;Robert Tibshirani;Stanford University;262969;139
+21;Michael Graetzel;Ecole Polytechnique Fédérale de Lausanne;258463;227
+22;Paulo Freire;;251240;124
+23;Oliver H Lowry;Washington University in St Louis;247156;88
+24;George M Sheldrick;Goettingen University;246895;105
+25;Philip Kotler;Northwestern University;246834;151
+26;Max Weber;Universities of Berlin Freiburg Heidelberg Vienna Munich;245380;123
+27;Joseph E Stiglitz;Columbia University;245163;199
+28;Jacques Derrida;École des Hautes Études en Sciences Sociales de Paris EHESS;242744;190
+29;Andrei Shleifer;Harvard University;241583;135
+30;Amos Tversky;Stanford University;235985;102
+31;Salim Yusuf;McMaster University;;
+32;Erving Goffman;University of Pennsylvania;232339;87
+33;Stephen West;Arizona State University;232123;80
+34;Robert Langer;Massachusetts Institute of Technology MIT;230926;241
+35;Solomon H Snyder;Johns Hopkins University;228898;245
+36;JoAnn E Manson;Harvard Medical School;;
+37;Eugene F Fama;Chicago Booth;228266;95
+38;Donald B Rubin;Harvard University;225484;119
+39;Oliver E Williamson;University of California Berkeley;223054;109
+40;Michael Karin;University of California San Diego;222410;228
+41;Icek Ajzen;University of Massachusetts Amherst;222178;90
+42;Kenneth Kinzler;Johns Hopkins University;221576;204
+43;Richard M Ryan;University of Rochester;220516;154
+44;Gary S Becker #;University of Chicago;218203;95
+45;Gilles Deleuze;;216083;151
+46;Paul M Ridker;Harvard Medical School;215947;200
+47;Glen Cowan;Royal Holloway University of London;215271;169
+48;S B Kim;Seoul National University;214644;199
+49;Miguel Branco;Ecole Polytechnique Fédérale de Lausanne;214284;191
+50;Edward L Deci;University of Rochester;208677;124
+51;Ahmedin Jemal;American Cancer Society;207387;91
+52;Joey Huston;Michigan State University;204975;172
+53;David Botstein;Princeton University;203608;170
+54;Vincenzo Barone;Scuola Normale Superiore di Pisa;202210;104
+55;John P Perdew #;Temple University;202065;96
+56;Robert A Weinberg;Massachusetts Institute of Technology MIT;201538;180
+57;Gordon Guyatt;McMaster University;201459;222
+58;Robert Gardner;University of Chicago;195998;175
+59;Carlo Croce;Ohio State University;194456;209
+60;James G March;Stanford University;193753;108
+61;Mark Daly;Harvard University;192036;167
+62;Paul R Krugman;Princeton University;189878;146
+63;Peter M Bentler;University of California Los Angeles;188939;102
+64;Peter Barnes;Imperial College London;188384;206
+65;Matthias Mann #;Max Planck Gesellschaft MPG;188263;200
+66;Webb Miller;Pennsylvania State University;;
+67;Eric Topol;Scripps Research Institute;186360;204
+68;Yiguo Zhang;Chongqing University;185401;172
+69;Karl Friston;University College London;184263;202
+70;Edward Witten;Institute for Advanced Study in Princeton;182487;188
+71;Richard A Flavell;Yale University;;
+72;Geoffrey Hinton;University of Toronto;179922;132
+73;David R Cox;Oxford University;179206;108
+74;Lotfi A Zadeh;University of California Berkeley;178567;104
+75;Rebecca L Siegel;American Cancer Society;178128;41
+76;Alan Heeger;University of California Santa Barbara;177877;187
+77;A S Fauci;National Institutes of Health NIH;177089;204
+78;Steven A Rosenberg;National Cancer Institute NIH;176874;207
+79;Frank B Hu;Harvard University;175710;213
+80;Guido Kroemer;INSERM;175662;199
+81;Kenneth J Arrow;Stanford University;175238;133
+82;Valentin Fuster;Centro Nacional de Investigaciones Cardiovasculares CNIC;173748;174
+83;Ralph B D'Agostino;Boston University;172837;200
+84;Daniel Levy;National Heart, Lung, and Blood Institute;172098;194
+85;Swagato Banerjee;University of Louisville;171276;151
+86;Albert László Barabási;Northeastern University;;
+87;Clifford Geertz;Princeton University;169354;98
+88;Deywis Moreno;Universidad Antonio Narino;169278;163
+89;Katherine Flegal;Centers for Disease Control and Prevention;168736;92
+90;Joseph A Schumpeter;Harvard University;168631;86
+91;Peter Libby;Harvard Medical School;168402;199
+92;Keiji Morokuma;;166590;113
+93;Gustavo E Scuseria;Rice University;166400;110
+94;Anil K Jain;Michigan State University;165906;167
+95;Bertrand Nicquevert;CERN European Organization for Nuclear Research;165893;165
+96;Fred H Gage;Salk Institute;165690;201
+97;Albert Sirunyan;Yerevan Physics Institute;165384;164
+98;Valarie Zeithaml;University of North Carolina at Chapel Hill;164363;73
+99;Robert Putnam;Harvard University;163615;80
+100;Peer Bork;European Molecular Biology Laboratory;163394;175
+101;Georg Kresse;University of Vienna;162595;106
+102;Patrick O Brown;Impossible Foods Inc;;
+103;H Bernhard Schlegel;Wayne State University;161871;109
+104;Alan Baddeley;University of York;161033;147
+105;Ronald M Evans;Salk Institute for Biological Studies;161001;192
+106;Chris Frith;University College London;160084;204
+107;David Harvey;City University of New York;159706;102
+108;Mildred S Dresselhaus;Massachusetts Institute of Technology MIT;159597;167
+109;Hannah Arendt;Stanford;;
+110;Trevor Hastie;Stanford University;156635;112
+111;Hongjie Dai;Stanford University;156154;170
+112;David E Goldberg;ThreeJoy Associates Inc;156122;105
+113;Zhong Lin Wang;Georgia Institute of Technology;156086;196
+114;Gregory Lip;University of Birmingham;;
+115;Michael Cole;University of California San Diego;155874;108
+116;Christopher Murray;University of Washington;155597;147
+117;Michael Schmitt;Northwestern University;155428;155
+118;Dhiman Chakraborty;Northern Illinois University;155086;140
+119;Robert Merton;Columbia University;154299;114
+120;C Florez;Universidad de los Andes;153760;168
+121;John Rawls;Harvard University;153304;81
+122;Pekka Sinervo;University of Toronto;153285;171
+123;Stephen Altschul;NCBI NLM NIH;153263;48
+124;William H Press;University of Texas at Austin;153131;65
+125;Younan Xia;Georgia Institute of Technology;153086;195
+126;Santiago González de la Hoz;Instituto de Física Corpuscular CSIC University of Valencia;152887;156
+127;Emelia J Benjamin;Boston University;152687;156
+128;Richard K Wilson;Washington University in St Louis;151889;139
+129;John McMurray;University of Glasgow;151375;161
+130;Yusuke Nakamura;University of Chicago;;
+131;Krzysztof Sliwa;Tufts University;150640;171
+132;Richard R Nelson;Columbia University;150638;123
+133;George Lakoff;University of California Berkeley;150561;99
+134;A Parasuraman;University of Miami;150410;87
+135;A Bodek;University of Rochester;150303;178
+136;John Trojanowski;University of Pennsylvania;149567;196
+137;Diederick E Grobbee;University Medical Center Utrecht;149335;178
+138;Craig Thompson;Memorial Sloan Kettering Cancer Center;149019;187
+139;Karl Popper;London School of Economics;;
+140;George E P Box;University of Wisconsin Madison;148589;94
+141;Henry Mintzberg;McGill University;148468;110
+142;Elizabeth M Ward;NIOSH;;
+143;James J Heckman #;University of Chicago;148260;153
+144;Andrés Pacheco Pages;Institut de Fisica d'Altes Energies Barcelona;147132;160
+145;Brian P Flannery;Resources for the Future;146986;52
+146;David Haussler;University of California Santa Cruz;146983;146
+147;Simon D M White;Max Planck Gesellschaft MPG;146358;165
+148;H Eugene Stanley;Boston University;146333;171
+149;Geert Hofstede;University of Maastricht;145974;94
+150;Martin Seligman;University of Pennsylvania;145793;136
+151;Lev Davidovich Landau;Moscow State University;;
+152;Meenakshi Narain;Brown University;144986;137
+153;Theodor Adorno;Goethe Universität Frankfurt am Main;144405;140
+154;Kevin Lane Keller;Dartmouth College;144363;75
+155;Eugene Koonin;National Institutes of Health NIH;143893;182
+156;Etienne Wenger Trayner;143833;54;
+157;Edward O Wilson;Museum of Comparative Zoology Harvard University;143715;124
+158;Nan Laird;Harvard School of Public Health;143687;105
+159;Émile Durkheim;Université de Bordeaux;;
+160;D Diener;University of Illinois at Urbana Champaign;;
+161;Napoleone Ferrara;University of California San Diego;142566;164
+162;T W Robbins;University of Cambridge;142537;216
+163;Robert J Barro;Harvard University;142406;113
+164;David M Strom;University of Oregon;142352;164
+165;Charles Robert Darwin;141883;106;
+166;Gregory Hannon;Cambridge University;;
+167;Richard Frackowiak;University of Lausanne;141444;193
+168;Ronald A Fisher;University College London;141386;94
+169;David S Johnson;Columbia University;141240;95
+170;Lewis Cantley;Weill Cornell Medical College;140585;183
+171;William T Vetterling;ZINK Imaging;140567;41
+172;David Moher;Ottawa Hospital Research Institute;140237;115
+173;Michael W Eysenck;University of Roehampton;140107;154
+174;Leroy Hood;Institute for Systems Biology;139972;171
+175;Joan Massague;Memorial Sloan Kettering Cancer Cencer;139815;179
+176;Clive Granger;University of Nottingham;;
+177;Paul Slovic;University of Oregon;139636;135
+178;Robert W Vishny;Chicago Booth;139264;62
+179;David J Hunter;Harvard University;139263;181
+180;John P A Ioannidis;Stanford University;139238;155
+181;Jiawei Han;University of Illinois at Urbana Champaign;138777;152
+182;David Bartel;Howard Hughes Medical Institute;;
+183;Howard Gardner;Harvard University;138630;132
+184;Claude E Shannon;Bell Labs;138557;55
+185;Deborah Cook;McMaster University;138378;159
+186;Rodney Ruoff;Ulsan National University;136758;139
+187;Robert Sternberg;Cornell University;136576;179
+188;Robert S Kaplan #;Harvard Business School;136376;111
+189;Milton Friedman #;University of Chicago;136173;101
+190;Simon Baron Cohen;University of Cambridge;136158;165
+191;Jan Ake Gustafsson;University of Houston;136142;166
+192;James F Sallis;University of California San Diego;136007;160
+193;Steven Salzberg;Johns Hopkins University;135837;125
+194;Elinor Ostrom;Indiana University;;
+195;Raymond J Dolan;University College London;135330;184
+196;Alberto Mantovani;Istituto Clinico Humanitas;;
+197;Richard Durbin;Wellcome Trust Sanger Institute;134635;113
+198;Andrew Ivanov;Kansas State University;134432;164
+199;Mark Newman;University of Michigan;134129;92
+200;Elaine Jaffe;National Cancer Institute NIH;133603;165
+201;Roy Baumeister;University of Queensland;;
+202;K Barry Sharpless;Scripps Research Institute;133548;162
+203;Sudhir Kumar;Temple University;133484;64
+204;Simon Eidelman;Novosibirsk State University;133257;133
+205;Paraskevas Paris Sphicas;National and Kapodistrian University of Athens;133229;172
+206;Eric Rimm;Harvard University;133135;188
+207;Mark P Mattson;National Institutes of Health NIH;132875;193
+208;B F Skinner;Harvard University;132254;109
+209;Halil Saka;Rutgers University;132099;163
+210;Mark Granovetter;Stanford University;131587;55
+211;Paul Alivisatos;University of California Berkeley;;
+212;Jean Louis Vincent;Université Libre de Bruxelles;130914;149
+213;Joseph F Hair Jr;University of South Alabama;130687;59
+214;Jeffrey Lieberman;Columbia University;130598;153
+215;Harlan Krumholz;Yale University;130324;174
+216;John Montgomery;University of Connecticut;130256;49
+217;Silvia G Priori;IRCCS Maugeri Fundation;;
+218;Donald Truhlar;University of Minnesota;129916;155
+219;Matthias Egger;University of Bern;129844;136
+220;Hiroshi Takeda;Kyoto University;129617;135
+221;Timothy Springer;Harvard Medical School;;
+222;John R Anderson;Carnegie Mellon University;128983;132
+223;Peter M W Gill;Australian National University;128313;72
+224;James S Coleman;University of Chicago;128110;73
+225;Piyali Banerjee;IIT Bombay;128095;130
+226;Jitendra Malik;University of California Berkeley;127990;107
+227;Giovanni Calderini;IN2P3;;
+228;Talcott Parsons;Harvard University;127702;115
+229;David Altshuler;Harvard University;127259;145
+230;Masahiro Morii;Harvard University;127221;147
+231;Goncalo Abecasis;University of Michigan;126651;136
+232;Chris Sander;Memorial Sloan Kettering Cancer Center;126275;147
+233;Douglas Scott;University of British Columbia;126202;109
+234;Michael G Marmot;University College London;125882;177
+235;Andrea Ventura;Università del Salento;125804;137
+236;Douglas Green;St Jude Children's Research Hospital;125801;163
+237;Stephen V Faraone;SUNY Upstate Medical University;125782;184
+238;Ralph Hruban;Johns Hopkins University;125778;180
+239;Daniel R Weinberger;Lieber Institute for Brain Development;125749;182
+240;Giuseppe Della Ricca;Universita degli Studi di Trieste;125671;164
+241;Jay Barney;University of Utah;125251;78
+242;Tony Hunter;Salk Institute for Biological Studies;125048;172
+243;B Efron;Stanford University;124384;98
+244;Carl Bromberg;Michigan State University;124378;156
+245;Adrian L Harris;Oxford University;124350;172
+246;Stephen Boyd;Stanford University;124302;103
+247;Claudia Patrignani;Università degli Studi di Genova;;
+248;George P Chrousos;University of Athens;124190;174
+249;Paul Zimmet;Baker IDI Heart and Diabetes Institute;123870;128
+250;Terrie E Moffitt;Duke University;123574;164
+251;Alessandro Cerri;University of Sussex;123568;148
+252;E N Gazis;;123514;138
+253;G Remuzzi;Istituto di Ricerche Farmacologiche Mario Negri;123301;157
+254;Vivek A Sharma;University of California San Diego;123149;161
+255;Mike Robb;Imperial College London;123131;80
+256;R H Friend;University of Cambridge;122761;152
+257;Antonio Damasio;University of Southern California;122735;99
+258;Richard Ming Wah Wong;National University of Singapore;122566;68
+259;Robert M May;Oxford University;122529;159
+260;Koichiro Tamura;Tokyo Metropolitan University;122497;30
+261;I Nonaka;Harvard Business Review;122426;74
+262;J V Ortiz;Auburn University;122377;64
+263;Michael I Jordan;University of California Berkeley;122267;138
+264;Frank Filthaut;Universitair Hoofddocent;;
+265;Stephen W Hawking;University of Cambridge;121875;116
+266;W Taylor;York University Toronto;121750;158
+267;Joao Guimaraes da Costa;Harvard University;121578;153
+268;David J Teece;University of California Berkeley;121038;99
+269;Eric Torrence;University of Oregon;120922;152
+270;Douglass C North;Washington University in St Louis;120759;86
+271;Robert R McCrae;;120106;136
+272;Alexei V Filippenko;University of California Berkeley;120014;144
+273;Chad Mirkin;Northwestern University;119986;155
+274;Klaus Honscheid;Ohio State University;119946;135
+275;David Tilman;University of Minnesota;119801;148
+276;Joseph Schlessinger;Yale University;119794;171
+277;Weitao Yang;Duke University;119499;78
+278;John Cacioppo;University of Chicago;119417;143
+279;Paul Costa;Duke University;118718;141
+280;Scott Shenker;University of California Berkeley;118675;143
+281;Marcus E Raichle;Washington University in St Louis;118479;156
+282;Krzysztof Matyjaszewski;Carnegie Mellon University;118362;168
+283;Rolph Anderson;Drexel University;118191;45
+283;Steven R Cummings;CPMC Research Institute;;
+285;Gene Myers;Max-Planck Institute for Molecular Cell Biology & Genetics;118172;62
+286;Peidong Yang;University of California Berkeley;118067;157
+287;Darien Wood;Northeastern University;117671;146
+288;M Saleem;University of Oklahoma;;
+289;Bernard Bass;Binghamton University;117294;86
+290;Stephen R Bloom;Imperial College London;117252;164
+291;M A K Halliday;University of Sydney;117147;96
+292;Michael I Posner;University of Oregon;117126;138
+293;Alan Evans;McGill University;116589;173
+294;Andrew Zisserman;Oxford University;116396;133
+295;Justin Albert;University of Victoria;116280;156
+296;Frank J Gonzalez;National Cancer Institute NIH;116156;167
+297;Gregg L Semenza;Johns Hopkins University;116151;157
+298;Andreas Warburton;McGill University;116047;155
+299;Luigi Ferrucci;National Institute on Aging NIH;115798;158
+300;K Bloom;University of Nebraska Lincoln;115725;145
+301;Giovanni Marchiori;IN2P3;115521;136
+302;Tomas Hökfelt;Karolinska Institute;115211;170
+303;Jeffrey Ullman;Stanford University;115179;106
+304;Paul Ekman;;114940;116
+305;Jordan Nash;Monash University;114897;144
+306;Ralph Weissleder;Massachusetts General Hospital;113896;168
+307;Douglas Easton;University of Cambridge;113725;159
+308;Clara Troncon;Istituto Nazionale di Fisica Nucleare;113724;137
+309;Xiaosong Li;University of Washington;113577;36
+310;Jonathan D Jones;Sainsbury Lab;113478;142
+311;David A Kenny;University of Connecticut;113468;87
+312;U K Yang;Seoul National University;113407;142
+313;Jean Tirole;Toulouse School of Economics;113385;126
+314;Harold Mooney;Stanford University;113314;145
+315;Alberto Ruiz Jimeno;Universidad de Cantabria;113215;143
+316;Patrizia Azzi;Istituto Nazionale di Fisica Nucleare;113073;154
+317;Barry Babin;Louisiana Tech University;113034;53
+318;Alan D Lopez;University of Melbourne;112880;111
+319;Wing To;Case Western Reserve University;112715;146
+320;Omar Yaghi;University of California Berkeley;112628;126
+321;Adi Gazdar;University of Texas Southwestern Medical Center;112541;164
+322;Bruce Yabsley;University of Sydney;112494;137
+323;Stefano Giagu;Sapienza Università di Roma;112410;138
+324;Ronald L Rivest;Massachusetts Institute of Technology MIT;112316;89
+325;Benjamin Brau;University of Massachusetts Amherst;112209;139
+326;John R Searle;University of California Berkeley;112193;95
+327;Deborah Estrin;Cornell University;;
+328;Stephen R Forrest;University of Michigan;112162;149
+329;S L Zang;Nanjing University;112146;130
+330;Richard A Posner;University of Chicago;112065;140
+331;Ross Levine;University of California Berkeley;112003;101
+332;Viktor N Staroverov;University of Western Ontario;111914;43
+333;Fred D Davis;Texas Tech University;111894;38
+334;Colin Mathers;World Health Organization;111858;92
+335;Brian Foster;University of Hamburg;;
+336;Matt Challacombe;on-ness inc;111647;57
+337;Julian Higgins;University of Bristol;111542;93
+338;Nicolo de Groot;Radboud University Nijmegen;111249;141
+339;Jeffrey Pfeffer;Stanford University;111247;106
+340;Joe Felsenstein;University of Washington;111089;72
+341;Richard L Martin;Los Alamos National Laboratory;110591;93
+342;Ralph DeFronzo;University of Texas Health Science Center San Antonio;110420;151
+343;Daniel Claes;University of Nebraska Lincoln;110409;139
+344;Duncan Carlsmith;University of Wisconsin Madison;110302;154
+345;Jose Ocariz;LPNHE IN2P3;;
+346;Asiri Nanayakkara;Institute of Fundamental Studies;109925;52
+347;Albert Einstein;Institute of Advanced Studies Princeton;109877;108
+348;Paul A Samuelson;Massachusetts Institute of Technology MIT;109862;109
+349;Charles M Perou;University of North Carolina at Chapel Hill;109828;117
+350;Didier Raoult;Aix Marseille Université;;
+351;Terrence Sejnowski;Francis Crick Institute;;
+352;David R Matthews;University of Oxford;109563;88
+353;Michelangelo Mangano;CERN European Organization for Nuclear Research;109539;129
+354;Lam Ching Wan;University of Hong Kong;109296;131
+355;Paul Jackson;University of Adelaide;109210;136
+356;Francesco Ragusa;;109054;128
+357;Marco Marra;BC Cancer Agency;;
+358;Hrant P Hratchian;University of California Merced;108905;36
+359;Russel J Reiter;University of Texas Health Science Center San Antonio;108704;160
+360;R Bagozzi;University of Michigan;108631;103
+361;Dipanwita Dutta;Bhabha Atomic Research Centre;108622;142
+362;Bharat B Aggarwal;University of Texas MD Anderson Cancer Center;108616;172
+363;Richard Thaler;University of Chicago, Booth School of Business;108607;92
+364;Lorenzo Bellagamba;Istituto Nazionale di Fisica Nucleare Bologna;108326;121
+365;Roger Moore;University of Alberta;108270;140
+366;Craig Rogers;Henry Ford Hospital;108166;111
+367;Zena Werb;University of California San Francisco;108013;158
+368;John Yates;Scripps Research Institute;107953;164
+369;Ronald Lipton;Fermilab Fermi National Accelerator Laboratory;107904;138
+370;A John Rush;Duke National University of Singapore;107657;141
+371;John von Neumann;Princeton University;107592;91
+372;Rakesh Agrawal;Microsoft Research;107524;98
+373;Jean Marie Tarascon;College de France;107355;132
+374;Jonathan D Cohen;Princeton University;106931;124
+375;Philip Cohen;University of Dundee;106890;153
+376;Ian T Foster;University of Chicago;;
+377;Jean Frechet;King Abdullah University of Science and Technology;106488;165
+378;Hari Balakrishnan;Massachusetts Institute of Technology MIT;106447;103
+379;Y Eugene Chen;University of Michigan;106334;135
+380;Evan Eichler;University of Washington;106257;137
+381;Michael Tomasello;Max Planck Gesellschaft MPG;106239;159
+382;Akihisa Inoue;Josai International University;105830;137
+383;Jeffrey Sachs;;105807;135
+384;Luca Lista;Istituto Nazionale di Fisica Nucleare;105661;139
+385;Dennis W Dickson;Mayo Clinic;105624;159
+386;Masahiko Hada;Tokyo Metropolitan University;105616;45
+387;Benoît B Mandelbrot;IBM;;
+388;J Ellison;University of California Riverside;105434;136
+389;William Dietz;;105392;106
+390;Carl Cotman;University of California Irvine;105337;163
+391;Bernd Stelzer;Simon Fraser University;105334;136
+392;Reinhard Schwienhorst;Michigan State University;105056;134
+393;Gabriella Pasztor;University of Geneva;105022;122
+394;Peter Carmeliet;Universiteit van Leuven VIB;104689;152
+395;Markku Laakso;University of Eastern Finland;104673;145
+396;Ad Bax;NIDDK NIH;104656;144
+397;John Minna;University of Texas Southwestern Medical Center;104590;167
+398;Geoffrey Burnstock;University College London;104541;143
+399;Russell Tracy;University of Vermont;104536;139
+400;Bernhard Schölkopf;Max Planck Gesellschaft MPG;104367;114
+401;Kalyanmoy Deb;Michigan State University;104205;104
+402;Jeffrey Cummings;Cleveland Clinic;103983;156
+403;Jack Strominger;Harvard University;103911;156
+404;Klaus Schulten;University of Illinois at Urbana Champaign;103891;144
+405;Gilvan Augusto Alves;Centro Brasileiro de Pesquisas Fisicas;103749;136
+406;K M Narayan;Emory University;103533;121
+407;Karlheinz Meier;Ruprecht Karls Universität Heidelberg;103504;134
+408;Rury R Holman;NIHR Oxford Bio- medical Research Centre;103458;101
+409;Matt Dobbs;McGill University;103451;98
+410;S L Lloyd;Queen Mary University of London;103072;128
+411;Daron Acemoglu;Massachusetts Institute of Technology MIT;102879;119
+412;Anthony Cerami;Rockefeller University;;
+413;Michael E Greenberg;Harvard University;102613;135
+414;Panos Deloukas;Queen Mary University of London;102568;120
+415;Alejandro Portes;Princeton University;102438;114
+416;Ramon Miquel;Institut de Fisica d'Altes Energies Barcelona;102355;108
+417;Cyrus Cooper;University of Southampton;;
+418;Akira Fujishima;Tokyo University of Science;102329;124
+419;Stephen J Gould;;102311;131
+420;Juan Suarez González;Belarusian State University;102282;127
+421;George Weinstock;Jackson Laboratory;102054;96
+422;Jack Dongarra;University of Tennessee at Knoxville;;
+423;John Stuart Mill;University of St Andrews;101880;83
+424;Carl Folke;Royal Swedish Academy of Sciences;101778;121
+425;Hans Ulrich Wittchen;Technische Universitaet Dresden;101548;145
+426;Takeo Kanade;Carnegie Mellon University;101521;144
+427;Carlo La Vecchia;Università degli Studi di Milano;101273;145
+428;Sotirios Vlachos;;101238;123
+429;G F Susinno;University of Geneva;;
+430;H Erich Wichmann;Helmholtz Zentrum München;;
+431;Nicholas A Peppas;University of Texas at Austin;101136;149
+432;Friedrich Hayek;LSE;;
+433;Oleg Yazyev;Ecole Polytechnique Fédérale de Lausanne;101018;57
+434;Ewan Birney;European Molecular Biology Laboratory;;
+435;Roger J Davis;Howard Hughes Medical Institute and Molecular Medicine;100798;146
+436;Walter W Powell;Stanford University;100723;67
+437;Srinivasan Iyengar;Indiana University;100605;49
+438;William A Goddard;California Institute of Technology;100563;136
+439;Gerasimos Filippatos;National and Kapodistrian University of Athens;;
+440;Giacomo Rizzolatti;University of Parma;100364;123
+441;M H Criqui;University of California San Diego;100359;127
+442;Richard E Mayer;University of California Santa Barbara;100346;130
+443;Gerald M Rubin;Howard Hughes Medical Institute;100287;145
+444;Giovanni Busetto;Università di Padova;100237;150
+445;Leo Breiman 1928 2005;UC Berkeley;100132;50
+446;Tim D Spector;King's College London;100016;156
+447;Julia Velkovska;Vanderbilt University;99983;129
+448;Stephen Holgate;University of Southampton;99791;154
+449;Sheldon Stone;Syracuse University;99607;117
+450;Yi Cui;Stanford University;99576;143
+451;Francesco Crescioli;Istituto Nazionale di Fisica Nucleare Pisa;99562;134
+452;Carlos Frenk;Durham University;99551;134
+453;Mark Gerstein;Yale University;99257;148
+454;Janet M Thornton;European Molecular Biology Laboratory;;
+455;Douglas C Montgomery;Arizona State University;99196;78
+456;Lev Dudko;Moscow State University;99164;134
+457;James Pinfold;University of Alberta;99064;135
+458;Fabrizio Palla;Istituto Nazionale di Fisica Nucleare;99007;135
+459;Byungsik Hong;Korea University;98963;137
+460;J L Rodriguez;Florida International University;98917;130
+461;Robin M Murray;King's College London;98868;157
+462;Bruce Avolio;University of Washington;98734;114
+463;Charles S Carver;University of Miami;98704;117
+464;Marshal Folstein;;98667;81
+465;Jinghui Zhang;St Jude Children's Research Hospital;98552;57
+466;Gagan Mohanty;Tata Institute of Fundamental Research;98454;135
+467;George A Wells;University of Ottawa;98414;156
+468;Richard S Ellis;California Institute of Technology;98389;147
+469;R B Haynes;McMaster University;98357;104
+470;Haijun Yang;Shanghai Jiao Tong University;98052;135
+471;George Bakris;University of Chicago;98008;111
+472;S Osher;University of California Los Angeles;97987;107
+473;Eduard de la Cruz Burelo;CINVESTAV IPN;97943;125
+474;Rob Knight;University of California San Diego;;
+475;Thomas Saaty;;97853;91
+476;Juan Jose Hernandez Rey;Instituto de Física Corpuscular CSIC University of Valencia;97818;86
+477;Emil Wolf;University of Rochester;97817;93
+478;Karl Swedberg;;97698;128
+479;Wilmar Schaufeli;Utrecht University;97696;134
+480;Michael Manns;Medizinische Hochschule Hannover;97545;147
+481;Si Xie;California Institute of Technology;97503;121
+482;Saptaparna Bhattacharya;Northwestern University;97420;109
+483;David Schlegel;Lawrence Berkeley National Laboratory;97330;122
+484;Joseph LeDoux;New York University;96871;138
+485;Elliott Cheu;University of Arizona;96713;127
+486;Richard E Petty;Ohio State University;96656;125
+487;William Greene;Stern School of Business NYU;96498;75
+488;Mario Paolo Giordani;Università degli Studi di Udine;;
+489;P M Ajayan;Rice University;96476;145
+490;Josef Coresh;Johns Hopkins University;96400;134
+491;Olgierd Zienkiewicz;Swansea University;96359;121
+492;Moungi Bawendi;Massachusetts Institute of Technology MIT;95936;143
+493;Fernando Barreiro;Universidad Autónoma de Madrid;95880;127
+494;Dani Rodrik;Institute for Advanced Study in Princeton;95738;126
+495;Fraser Stoddart;Northwestern University;95603;146
+496;Sandro De Cecco;Université Diderot Paris7;;
+497;Michael Phelps;University of California Los Angeles;95507;157
+498;Maria Elena Pol;Centro Brasileiro de Pesquisas Físicas;95459;130
+499;Paolo Laurelli;Istituto Nazionale di Fisica Nucleare;95358;126
+500;Ronald Harry Coase;University of Chicago;95332;56
+501;Tobin Marks;Northwestern University;95306;150
+502;Markus Klute;Massachusetts Institute of Technology MIT;95115;129
+503;Marc Kirschner;Harvard Medical School;95096;154
+504;Nahum Sonenberg;McGill University;95047;163
+505;Nicholas White;Mahidol University;;
+506;Sergey Kuleshov;Universidad Tecnica Federico Santa Maria;94980;128
+507;P Gabriel Steg;Université Paris 7 Diderot Sorbonne Paris-Cité;94966;122
+508;Ibahim Haddadi;;94799;87
+509;Oana Vickey Boeriu;University of Sheffield;94734;117
+510;Sean R Eddy;Howard Hughes Medical Institute;;
+511;Douglas M Gingrich;University of Alberta;94677;128
+512;Lucia Silvestris;Istituto Nazionale di Fisica Nucleare;94653;129
+513;Stuart Orkin;Harvard University;94519;174
+514;Saverio D'Auria;University of Glasgow;94238;124
+515;Shaoping Li;Western Digital Inc;94104;122
+516;Philippe Froguel;Imperial College London;;
+517;Edward L Wright;University of California Los Angeles;93986;90
+518;Mark McCarthy;University of Oxford;93974;140
+519;C N R Rao #;Jawaharlal Nehru Centre for Advanced Scientific Research;93951;138
+520;Peter Salovey;Yale University;93938;111
+521;Martin Blaser;New York University School of Medicine;93856;147
+522;Ian F Akyildiz;Georgia Institute of Technology;93845;107
+523;Mostafa A El Sayed;Georgia Institute of Technology;93681;112
+524;Alan Bryman;;93606;73
+525;Shelley E Taylor;University of California Los Angeles;93541;123
+526;David Bates;Harvard Medical School;93491;139
+527;Thomas D Schmittgen;University of Florida;93321;44
+528;Francesco Fabozzi;Università della Basilicata;;
+529;Linus Pauling;California Institute of Technology;93065;111
+530;Cass Sunstein;Harvard University;93006;139
+531;Richard J Davidson;University of Wisconsin Madison;92757;152
+532;Sidney G Winter;Wharton School University of Pennsylvania;92750;74
+533;Dongchul Son;Kyungpook National University;92729;128
+534;Slavoj Zizek;Birkbeck Institute for the Humanities;92686;112
+535;Stewart Wolmark;;92632;121
+536;John S Bell;CERN;92571;82
+537;Nicola Cavallo;Università degli Studi della Basilicata;92483;129
+538;Sheldon Cohen;Carnegie Mellon University;92388;108
+539;Adam Torbicki;Centrum Medyczne Kształcenia Podyplomowego;92252;75
+540;Peter E Hart;;92098;53
+541;Paolo Giacomelli;Istituto Nazionale di Fisica Nucleare;92072;128
+542;Kieron Burke;University of California Irvine;91976;55
+543;Herbert W Marsh;Australian Catholic University;;
+544;Michele Livan;;91960;129
+545;Vishva Dixit;Genentech Inc;91946;143
+546;Franco Ligabue;Scuola Normale Superiore di Pisa;91911;129
+547;Florencia Canelli;Universität Zürich;91904;136
+548;Richard Young;Massachusetts Institute of Technology MIT;91820;149
+549;Claes Fornell;University of Michigan;91816;53
+550;Elhanan Helpman;Harvard University;91781;80
+551;David Watson;University of Notre Dame;91738;93
+552;Stephen Carpenter;University of Wisconsin Madison;91538;124
+553;Giulio Usai;University of Texas at Arlington;91358;128
+554;Nicholas G Martin;QIMR Berghofer Medical Research Institute;91309;147
+555;Marco Dorigo;Université Libre de Bruxelles;91279;94
+556;Kenneth P Burnham;Colorado State University;91224;79
+557;Emilio Meschi;CERN European Organization for Nuclear Research;91106;134
+558;Jan Staessen;KU University of Leuven;91069;127
+559;Jacquelynne Sue Eccles;University of California Irvine;91032;136
+560;Aran Garcia Bellido;University of Rochester;91025;125
+561;Kypros H Nicolaides;King's College London;90981;147
+562;Harinder Singh Bawa;California State University Fresno;90862;118
+563;Calin Alexa;IFIN-HH;90815;127
+564;Gerald I Shulman;Howard Hughes Medical Institute;90581;149
+565;Jean Bousquet;INSERM;90556;143
+566;Jeremy Grimshaw;Ottawa Hospital Research Institute;90537;103
+567;Jeffrey S Flier;Harvard University;90513;148
+567;Paulus Kirchhof;University of Birmingham;90513;81
+569;Don Norman;University of California San Diego;90429;89
+570;John Pendry;Imperial College London;90417;105
+571;Tomaso Poggio;Massachusetts Institute of Technology MIT;90365;127
+572;Emmanuel Candes;Stanford University;90288;77
+573;Gordon Mills;University of Texas MD Anderson Cancer Center;90097;144
+574;Prolay Mal;National Institute of Science Education and Research Bhubaneswar;89946;119
+575;S F Novaes;Universidade Estadual Paulista;89924;129
+576;Ronald A DePinho;University of Texas MD Anderson Cancer Center;89911;154
+577;Guido Tonelli;Universitat de Pisa;89864;132
+578;F Stuart Chapin III;University of Alaska Fairbanks;89846;126
+579;Thomas J R Hughes;University of Texas at Austin;89814;135
+580;Norman Fairclough;University of Lancaster;89763;64
+581;Marcel Vos;IFIC Valencia UVEG CSIC;89730;123
+582;Matteo Negrini;Istituto Nazionale di Fisica Nucleare Bologna;89690;120
+583;Erez Etzion;Tel Aviv University;;
+584;Shankar Sastry;University of California Berkeley;89612;110
+585;Lex Bouter;VU University Amsterdam;89515;156
+586;Christof Koch;California Institute of Technology;89496;127
+587;Yiliu Wang;IEEE;;
+588;Jean Marie Lehn;CNRS;89337;129
+589;Roberto Romero;NICHD NIH;89336;140
+590;Kenneth A Dodge;Duke University;89167;140
+591;Pratap Chandra Behera;University of Delhi;89133;126
+592;John Rothwell;University College London;88883;158
+593;Nicholas Wareham;University of Cambridge;88881;148
+594;Isidro González Caballero;Universidad de Oviedo;88749;108
+595;Bart De Moor;KU University of Leuven;88736;127
+596;Martin Nowak;Harvard University;88631;132
+597;Gabriel Nuñez;University of Michigan;88625;141
+598;Jyothsna Komaragiri Shroff;88615;128;
+599;C Wright Mills;Columbia University;88554;65
+600;David Culler;University of California Berkeley;88539;117
+601;Paul Thompson;University of Southern California;88458;137
+602;Teun A Van Dijk;Pompeu Fabra University;88449;110
+603;Gunnar von Heijne;Stockholm University;88291;116
+604;Daniel L Schacter;Harvard University;88244;147
+605;Meroni Pier Luigi;;88229;126
+606;Joel Schwartz;Harvard School of Public Health;88141;167
+607;Joseph Loscalzo;Harvard Medical School;87930;125
+608;Bert W O'Malley;Baylor College of Medicine;87852;149
+609;Ronald Inglehart;University of Michigan;87790;96
+610;Frederick Wolfe;University of Kansas;87694;121
+611;Mark Johnson;University of Oregon;87684;46
+612;Yuri Tikhonov;Novosibirsk State University;;
+613;Sandra Leone;Istituto Nazionale di Fisica Nucleare;87578;142
+614;Dan Littman;New York University;87576;140
+615;Francisco Varela;CNRS;87509;102
+616;Nadia Rega;University of Napoli Federico II;87464;50
+617;Richard Lipton #;Albert Einstein College of Medicine;87350;152
+618;Peter J Schwartz;IRCCS Istituto Auxologico Italiano;87336;135
+619;William Sandborn;University of California San Diego;87325;144
+620;Tatsuo Kawai;Harvard Medical School;87314;108
+621;Richard Lipton;Albert Einstein College of Medicine;87308;152
+622;Jacob Israelachvili;University of California Santa Barbara;87160;115
+623;Andre Sznajder;Universidade do Estado do Rio de Janeiro;87149;128
+624;Sebastien Viret;CNRS;;
+625;Timothy Heckman;Johns Hopkins University;86972;138
+626;Gabriele Benelli;University of Kansas;86966;129
+627;Sylvie Braibant;Università di Bologna;86942;126
+628;Eram Rizvi;Queen Mary University of London;86940;137
+629;James O Prochaska;Cancer Prevention Research Center;86842;105
+630;Eduardo de Moraes Gregores;Universidade Federal do ABC;86787;126
+631;Sergio Verdu;Princeton University;86742;77
+632;Jonas Strandberg;Royal Institute of Technology;86720;124
+633;Michael B Eisen;University of California Berkeley;86699;72
+634;Ya Ju Lee;Institute of Electro-Optical Science and Technology, National Taiwan Normal;86654;112
+635;Kyle Cranmer;New York University;86628;122
+636;Kai Simons;Max Planck Gesellschaft MPG;86604;140
+637;Philip S Yu;University of Illinois at Chicago;86562;139
+638;Simonetta Gentile;Universita Sapienza;86338;112
+639;Stephane Mallat;École Normale Supérieure;86322;59
+640;Alberto Santoro;Universidade do Estado do Rio de Janeiro;86268;128
+641;Anthony Evans;University of California Santa Barbara;86203;145
+642;Antonietti Markus;Max Planck Gesellschaft MPG;86107;156
+643;Alex Smola;Carnegie Mellon University;86003;99
+644;Sergio Navas;Universidad de Granada;85934;70
+645;Jonathan Hays;Queen Mary University of London;85903;123
+646;A Jamil Tajik;;85869;150
+647;Peter Hall;University of Melbourne;85754;128
+648;Joseph Wang;New Mexico State University;;
+649;Thomas M Achenbach;University of Vermont;85686;98
+650;Paul DiMaggio;Princeton University;85659;66
+651;Dimitris Loukas;NCSR Demokritos;85601;120
+652;Antonio Lanzavecchia;ETH Zurich;85469;125
+653;James Engel;University of Michigan;85435;78
+653;Peter R Hobson;Brunel University;85435;127
+655;Jeanne Brooks Gunn;Columbia University;85418;146
+656;Roger Barlow;University of Huddersfield;85241;135
+657;Gillian Knapp;Princeton University;85175;122
+658;Fabrizio Fabbri;Istituto Nazionale di Fisica Nucleare Bologna;85166;123
+659;David Spergel;Princeton University;85105;108
+660;Dariush Mozaffarian;Friedman School of Nutrition Science & Policy;85103;101
+661;Martijn Mulders;CERN European Organization for Nuclear Research;85080;123
+662;Alberto Masoni;Dirigente di Ricerca INFN - Istituto Nazionale di Fisica Nucleare;85056;91
+663;Stylianos E Antonarakis;Université de Genève;85017;131
+664;Subir Sarkar;University of Oxford;;
+665;Pietro Faccioli;LIP Lisbon, IST Lisbon;;
+666;Paul W Armstrong;University of Alberta;84967;118
+667;Tiziano Camporesi;CERN European Organization for Nuclear Research;84935;121
+668;Michael O'Keeffe;;84914;101
+669;Xavier Espinal Curull;CERN European Organization for Nuclear Research;84836;128
+670;Kenneth Rogoff;Harvard University;84823;95
+671;Alejandro Schaffer;National Institutes of Health NIH;84634;68
+672;Christopher B Field;Carnegie Institution;84472;125
+673;Giacomo Bruno;Université Catholique de Louvain;84417;127
+674;Antonio Ereditato #;University of Bern;84359;118
+675;Jean Pierre Changeux;Pasteur Institute;84342;144
+676;Danforth Miller;Novartis Pharmaceuticals;84334;120
+677;John Morley;Saint Louis University;84327;145
+677;Shigekazu Nagata;Kyoto University;84327;124
+679;Helmut Sies;Heinrich Heine Universität Düsseldorf;84303;135
+680;Christopher Dobson;University of Cambridge;84283;140
+681;Steven G Louie;University of California Berkeley;84220;139
+682;Stephen M Smith;FMRIB Centre, Oxford University;84211;97
+683;René S Kahn;University Medical Center Utrecht;84199;136
+684;Jean Luc Bredas;King Abdullah University of Science and Technology;84160;133
+685;Tulika Bose;Boston University;84078;125
+686;Richard M Lerner;Tufts University;84015;95
+687;Owen White;University of Maryland;84008;90
+688;Alexander Belyaev;University of Southampton;83984;129
+689;Anders M Dale;University of California San Diego;83956;125
+690;I Kawachi;Harvard University;83918;142
+691;Giuseppe Bagliesi;Istituto Nazionale di Fisica Nucleare;83914;123
+692;Thomas L Madden;NCBI NLM NIH;83731;30
+693;Hirokazu Ishino;Okayama University;;
+694;Paul R Ehrlich;Stanford University;83640;137
+695;Russell Betts;Illinois Institute of Technology;83631;127
+696;Alex Zunger;University of Colorado Boulder;83614;132
+697;Jonathan W Lee;Sandia National Laboratories;83580;111
+698;David H Barlow;Boston University;83569;130
+699;Stanislas Dehaene;Collège de France;83528;139
+700;Richard Feynman;California Institute of Technology;83520;60
+701;Thomas Koffas;Carleton University;83515;106
+702;Roberto Di Nardo;CERN European Organization for Nuclear Research;83471;104
+703;Tim Bollerslev;Duke University;83452;79
+704;Colin Louis Masters;University of Melbourne;83432;135
+705;George Calin;University of Texas MD Anderson Cancer Center;83379;108
+706;Francisco Yumiceva;Florida Institute of Technology;83354;125
+707;P Kolh;Université de Liège;83343;47
+708;Linda Darling Hammond;Stanford University;83338;128
+709;Jens K Norskov;Stanford University;83327;142
+710;Andrew Y Ng;;83326;108
+711;Richard Nisbett;University of Michigan;83308;96
+712;Bengt Muthen;Statmodel;83303;96
+713;Rudolph E Tanzi;Harvard Medical School;83284;129
+714;Phaedon Avouris;IBM;83247;135
+715;Paolo Bartalini;Central China Normal University;83202;121
+716;Toyoko J Orimoto;Northeastern University;83180;129
+717;Manuel Cardona;Max Planck Gesellschaft MPG;83117;124
+718;Guanrong Chen;City University of Hong Kong;83113;136
+718;Metin Arik;Bogazici University;83113;115
+720;Farida Fassi;Mohammed V University in Rabat;83089;131
+721;Ted Belytschko;Northwestern University;83066;138
+722;Dimitri Bertsekas;Massachusetts Institute of Technology MIT;83056;88
+723;Zhihua Liang;;83053;103
+724;Antonio Amorim;Universidade de Lisboa;83015;120
+725;David Anderson;;83001;73
+726;Alexandre Vaniachine;Argonne National Laboratory;82988;117
+727;James L McClelland;Stanford University;82959;95
+728;Gérald Simonneau;;82933;129
+729;Robert A Baron;Oklahoma State University;82909;131
+730;Kenneth Bollen;University of North Carolina at Chapel Hill;82766;78
+731;Peter Dalgaard;Copenhagen Business School;82765;21
+732;Michael R Garey;;82611;56
+733;Fedor Ratnikov;High School of Economics Moscow;82584;120
+734;Nicholas Talley;University of Newcastle;82548;160
+735;Lev Pitaevskii;University of Trento;;
+736;Tommaso Tabarelli de Fatis;Universita di Milano Bicocca;82454;119
+737;Roberto Carlin;Università di Padova;82438;124
+738;Ian H Witten;University of Waikato;82368;74
+739;Tom Bruno;NIST;82362;45
+740;Vincenzo Cavasinni;Università di Pisa;;
+741;John W Harris;Yale University;82285;134
+742;Robert Plomin;King's College London;82283;142
+743;Daniel J Rader;University of Pennsylvania;82187;136
+744;Ernest E Moore;Denver Health Medical Center;82150;134
+745;Anna Di Ciaccio;Università Roma Tor Vergata;82134;113
+746;Frank Wilczek;Massachusetts Institute of Technology MIT;82071;123
+747;Andrew D Oxman;Norwegian Institute of Public Health;82027;106
+748;Thomas Davenport;Babson College;82022;85
+749;Masahiro Ehara;Institute for Molecular Science;81986;51
+750;Reka Albert;Pennsylvania State University;81980;48
+751;Ted M Dawson;Johns Hopkins University;81976;144
+752;Helmut Wolters;LIP Coimbra;81953;115
+753;Philip Jones;University of East Anglia;81948;132
+754;James Tiedje;Michigan State University;81940;141
+755;Colin Camerer;California Institute of Technology;81933;105
+755;Freya Blekman;Vrije Universiteit Brussel;81933;120
+757;Giorgio Trinchieri #;National Cancer Institute NIH;81918;142
+758;Florencio Lopez de Silanes;EDHEC Business School;81847;48
+759;Marco Paganoni;Università di Milano Bicocca;;
+760;R Core Team;;81800;23
+761;David F Larcker;Stanford University;81776;69
+762;Tim Hubbard;King's College London;81757;83
+763;Tiziano Rovelli;Istituto Nazionale di Fisica Nucleare Bologna;81751;115
+764;Serkant Ali Çetin;Istanbul Bilgi University;81670;113
+765;John Y Campbell;Harvard University;81614;94
+766;Helio Takai;Brookhaven National Laboratory;81590;115
+767;Sebastian Thrun;Stanford University;81573;134
+768;Adrian Furnham;University College London;81557;138
+769;Panos Razis;University of Cyprus;81544;116
+770;Jaakko Kaprio;University of Helsinki;81515;141
+771;Gad Getz;Broad Institute Harvard MIT;81442;109
+772;George Church;Harvard Medical School;81374;140
+773;Sami Kama;Southern Methodist University;81370;126
+774;Ion Stoica;University of California Berkeley;81323;110
+775;Monique Breteler;;81282;145
+776;David S Brown;University of Colorado;81225;128
+777;Donald Ingber;Harvard University;81193;144
+778;Christophe Delaere;Université Catholique de Louvain;81145;121
+779;Gianluca Alimonti;Istituto Nazionale di Fisica Nucleare;;
+780;Justin Smith;Drexel University;80994;102
+781;Jean Pierre Després;;80992;131
+782;Luiz Mundim;Universidade do Estado do Rio de Janeiro;80884;125
+783;Joe Gray;Oregon Health and Sciences University;80882;126
+784;Veysi Erkcan Ozcan;Bogazici University;80869;128
+785;Else Lytken;Lund University;80845;119
+786;Michael VonKorff;Kaiser Permanente Washington Health Research Institute;80766;151
+786;Paolo Francavilla;INFN Pisa;80766;125
+788;Patricia Goldman Rakic;Yale University;80666;149
+789;Zeljko Ivezic;University of Washington;80650;123
+790;Susan Fiske;Princeton University;80620;107
+791;Marko Mikuz;University of Ljubljana;;
+792;David Lowe;Google;80579;48
+793;Nuno Leonardo;CERN European Organization for Nuclear Research;80545;124
+794;Ronald M Krauss;Children's Hospital Oakland Research Institute;80534;123
+795;Thomas C Quinn;Johns Hopkins University;80433;135
+796;Dongyuan Zhao;Fudan University;80426;131
+797;Paul Milgrom;Stanford University;80378;73
+798;Martin Sevior;University of Melbourne;80359;118
+799;Guy Salvesen;Sanford-Burnham Medical Research Institute;80291;117
+800;Dezso Horvath;;80259;119
+801;Prashant Shukla;Bhabha Atomic Research Centre;80240;117
+802;Sascha Caron;Radboud University Nijmegen;;
+803;Endel Tulving;University of Toronto;80164;107
+803;Mary Cushman;University of Vermont;80164;107
+805;J Rouleau;Universite de Montreal;80163;112
+806;Arnold B Bakker;Erasmus University Rotterdam;80160;120
+807;James J Gross;Stanford University;80052;119
+808;Ernst Fehr;Universität Zürich;79948;103
+809;William L Jorgensen;Yale University;79870;109
+810;Vipin Kumar #;University of Minnesota;79778;107
+811;Ronald N Jones;JMI Laboratories;79669;131
+812;Will Brooks;Universidad Tecnica Federico Santa Maria;79664;125
+813;Steven H Strogatz;Cornell University;79632;71
+814;Pablo García Abia;Centro de Investigaciones Energéticas Medioambientales y Tecnológicas CIEMAT;79630;115
+815;Yehuda Shoenfeld;Saint Petersburg State University;79576;121
+816;Laura Fabbri;University of Bologna;79563;99
+817;Bernard Moss;National Institutes of Health NIH;79523;149
+818;Takeuchi Osamu;Kyoto University;79505;106
+819;Edward T Bullmore;University of Cambridge;;
+820;J M Hernandez;Centro de Investigaciones Energéticas Medioambientales y Tecnológicas CIEMAT;79458;120
+821;M K Jha;Purdue University;79439;117
+822;Piotr Zalewski;;79430;114
+823;Chris Ponting;University of Edinburgh;79400;103
+824;Richard M Myers;HudsonAlpha Institute for Biotechnology;79360;130
+825;Iacopo Vivarelli;University of Sussex;79336;101
+826;Jacob Seidell;VU University Amsterdam;79284;111
+827;Stephen A Ross;MIT Sloan School of Management;79276;73
+828;John Canny;University of California Berkeley;79240;70
+829;Wil van der Aalst;Eindhoven University of Technology;79178;134
+830;Alan E Kazdin;Yale University;79150;136
+831;H H J ten Kate;CERN;;
+831;Sanjay Padhi;University of California San Diego;;
+833;Frits Rosendaal;Leiden University Medical Center;79134;133
+834;Jonathan Epstein;Johns Hopkins University;79050;137
+835;Josef Penninger;Austrian Academy of Sciences;78980;133
+836;Antonio Policicchio;Istituto Nazionale di Fisica Nucleare;78780;98
+837;Paolo Boffetta;Icahn School of Medicine at Mount Sinai;78732;139
+838;Riccardo Di Sipio;University of Bologna;;
+839;George Loewenstein;Carnegie Mellon University;78411;119
+840;Inder Verma;Salk Institute;78399;144
+841;Hakobyan Hrachya;Yerevan Physics Institute;78392;109
+842;Lei Jiang;University of Alabama Birmingham;78313;130
+843;Peter J Lang;University of Florida;78265;116
+844;Vincenzo Innocente;CERN;78156;123
+845;P Legendre;Universite de Montreal;78131;95
+846;Laurence Steinberg;Temple University;77952;120
+847;Derek Lovley;University of Massachusetts Amherst;77942;152
+848;Piotr Chomczynski;MRC;77940;30
+849;Deepak Kar;University of Glasgow;77934;119
+850;Noboru Mizushima;University of Tokyo;77887;106
+851;Bertrand Laforge;Université Pierre et Marie Curie;77802;111
+852;Mengcen Wang;Hokkaido University;77785;18
+853;Zoltán Trócsányi;University of Debrecen;77718;119
+854;Hideo Hosono;Tokyo Institute of Technology;77691;115
+855;Ronald Workman;George Washington University;77681;52
+856;Oxana Smirnova;Lund University;77680;107
+857;Alaettin Serhan Mete;University of California Irvine;77594;123
+858;Lewis L Lanier;University of California San Francisco;77569;150
+858;Yang Yang;University of California Los Angeles;77569;130
+860;Arjun Appadurai;New York University;77554;68
+861;Luc Van Gool;ETH Zurich;77530;114
+862;Giuseppe Francesco Tartarelli;Istituto Nazionale di Fisica Nucleare Milano;77501;113
+863;Joseph T Coyle;Harvard Medical School;77482;124
+864;Richard Deyo;Oregon Health & Science University;77450;136
+865;Tim J Cole;University College London;77433;125
+866;Ben Shneiderman;University of Maryland College Park;77402;111
+867;Phillip R Shaver;University of California Davis;77364;111
+868;L Cardon;GlaxoSmithKline;77321;104
+869;Stephen L Buchwald;Massachusetts Institute of Technology MIT;77211;153
+870;W James Kent;University of California Santa Cruz;77165;67
+871;Dugan O'Neil;Simon Fraser University;77160;113
+872;Bart Staels;Université Lille 2;77156;139
+872;Judea Pearl;University of California Los Angeles;77156;88
+874;Pedro Galli Mercadante;Universidade Federal do ABC;77124;121
+875;David S Eisenberg;University of California Los Angeles;77113;126
+876;Paul M Vanhoutte;University of Hong Kong;77083;134
+877;Marco Delmastro;CNRS;;
+878;Richard Cavanaugh;University of Illinois Chicago;;
+879;Alvaro Pascual Leone;Harvard University;77018;148
+880;A Irles;LAL;;
+881;Vasiliki Mitsou;Consejo Superior de Investigaciones Científicas;76949;109
+882;Concezio Bozzi;Istituto Nazionale di Fisica Nucleare;76918;131
+883;Stephen Pearton;University of Florida;76861;111
+884;Victor Velculescu;Johns Hopkins University;76847;95
+885;Daniel S Levin;University of Michigan;76787;111
+886;Lawrence Appel;Johns Hopkins University;76760;114
+887;Robert M Strieter;Novartis Institutes for Biomedical Research;76754;154
+888;Steve C R Williams;King's College London;76692;137
+889;Leonardo Carminati;Universita degli Studi di Milano;76668;113
+890;Yoshua Bengio;Universite de Montreal;76591;100
+891;Michael Boehnke;University of Michigan;76567;117
+892;Mark D Adams;Jackson Laboratory for Genomic Medicine;76566;73
+893;Richard G M Morris;University of Edinburgh;76563;93
+894;Alice Eagly;Northwestern University;76549;94
+895;Charles Van Loan;Cornell University;76545;48
+896;Rahmat Rahmat;;76509;124
+897;Giacomo Polesello;Istituto Nazionale di Fisica Nucleare;76443;110
+898;Elio Riboli;Imperial College London;76442;138
+899;Willem M de Vos;Wageningen University;;
+900;Giovanni Organtini;Universita Sapienza;76422;116
+901;Albert de la Chapelle;Ohio State University;76419;129
+902;Ruslan Mashinistov;;76408;107
+903;J A Fodor;Rutgers University;76396;88
+904;Alan Sill;Texas Tech University;76374;120
+905;Philip Scheltens;VU University Medical Center;76336;135
+906;Manel Esteller;IDIBELL;76334;131
+907;Juan E Peralta;Central Michigan University;76308;42
+908;William G Cochran 1909 1980;Harvard University;76305;71
+909;Pak Sham;University of Hong Kong;76252;116
+910;Ignazio Lazzizzera;Università di Trento;76246;127
+911;John W Hutchinson;Harvard University;76212;133
+912;David J Brooks;Aarhus University;76207;143
+913;Martti Raidal;National Institute of Chemical Physics and Biophysics Tallinn;76194;121
+914;Stanley Falkow;Stanford University;76188;148
+915;Allan Collins;Northwestern University;76167;63
+916;Kevin J Tracey;Feinstein Institute for Medical Research;76103;130
+917;Michael A Hitt;Texas A&M University College Station;76078;119
+917;Thomas D Cook;Northwestern University;76078;72
+919;A S Szalay;Johns Hopkins University;75983;103
+920;Henry Giroux;McMaster University;75965;130
+921;Joanna Wang;University of New South Wales;75948;101
+922;Y J Liu;Birmingham;;
+923;James Hill;University of Colorado;75867;120
+924;John A Rogers #;Northwestern University;75859;137
+925;Arul Chinnaiyan;University of Michigan;75827;129
+926;Frederik Barkhof;VU University Medical Center;75796;138
+927;Christopher M Bishop;Microsoft Research;75743;53
+928;Vincent Lemaître;Université Catholique de Louvain;75605;116
+929;Eric Jansen;Euro-Mediterranean Center on Climate Change;75596;108
+930;Edmund T Rolls;Oxford Centre for Computational Neuroscience;;
+931;David P Farrington;University of Cambridge;75570;149
+932;Chen Chuncheng;Insitute of Chemistry;75564;110
+933;Neta Bahcall;Princeton University;75550;115
+934;David Swofford;Duke University;75485;47
+935;Francesca Cavallari;Istituto Nazionale di Fisica Nucleare Roma;75481;116
+936;Raymond Frey;University of Oregon;75452;134
+937;Boris B Stefanov;Aisthon Ltd;75397;53
+937;Ronald Burt;;75397;69
+939;Guido Volpi;University of Pisa;75388;113
+940;Robert Post;Grounded Theory Institute;75385;143
+941;Pierre Petroff;University of California Santa Barbara;75371;126
+942;John C Marshall;University of Toronto;75367;97
+943;Stephen Chanock;National Institutes of Health NIH;75314;127
+944;John Urry;University of Lancaster;75252;88
+945;Barry Popkin;University of North Carolina at Chapel Hill;75240;138
+946;Jeffrey Kim;Radiant Genomics;75235;95
+947;Joseph R Ecker;Howard Hughes Medical Institute;;
+948;Morten Dam Jørgensen;Terma A/S;75180;109
+949;Joseph Jankovic;Baylor College of Medicine;75172;140
+950;Robert Costanza;Australian National University;75157;108
+951;Anthony E Lang;University of Toronto;75140;141
+952;Enrico Tassi;Universita della Calabria;;
+953;Michael F Scheier;Carnegie Mellon University;75029;93
+954;Garret A FitzGerald;University of Pennsylvania;75021;125
+955;Eugene C Butcher;Stanford University;75019;146
+956;Peter Fonagy;University College London;74975;122
+957;Orhan Cakir;Ankara University;74952;107
+958;Mark Halpern;University of British Columbia;74919;85
+959;L Aravind;National Institutes of Health NIH;74906;121
+960;Miguel Villaplana;Universita degli Studi di Milano;;
+961;Jennifer Lee;University of North Texas;74852;112
+962;William T Abraham;Ohio State University;74847;107
+963;Donal D C Bradley;Imperial College London;74837;117
+964;Duncan J Watts;Microsoft Research;74827;46
+965;Jerry W Shay;University of Texas Southwestern Medical Center;74813;134
+966;James M Tour;Rice University;74793;127
+967;Mikhail Katsnelson;Radboud University Nijmegen;74768;94
+968;David A Weitz;Harvard University;74743;141
+969;Steven Heymsfield;Pennington;74706;132
+970;Hazel Markus;Stanford University;74649;92
+971;Cordelia Schmid;INRIA;74645;97
+972;Sander Greenland;University of California Los Angeles;74639;123
+973;Stephan Meyer;University of Chicago;74612;75
+974;John Maynard Keynes;Cambridge University;74585;61
+975;G Mantovani;Università di Perugia;74571;115
+976;Chuen Tsai Sun;National Chiao Tung University;74517;101
+977;Steven Narod;Women's College Research Institute;74516;125
+978;Valerio Vercesi;Istituto Nazionale di Fisica Nucleare;74490;110
+979;R Sekhar Chivukula;Michigan State University;74442;46
+980;Robert E W Hancock;University of British Columbia;74408;141
+981;Johan Auwerx;École Polytechnique Fédérale de Lausanne;74378;138
+982;George Perry;University of Texas at San Antonio;74364;136
+983;Victor Montori;Mayo Clinic;74338;114
+984;Graeme J Hankey;University of Western Australia;74332;108
+985;Philip Kim;Harvard University;74304;89
+986;Terence P Speed;Walter & Eliza Hall Institute;74302;95
+987;Kevin Black;Boston University;74288;106
+988;Daniel Pauly;University of British Columbia;74287;120
+989;Xiangyang Ju;University of Wisconsin Madison;74244;98
+990;Rattan Lal;;74222;129
+991;Andrea C Ferrari;University of Cambridge;74194;97
+992;John Terning;University of California Davis;74172;61
+993;Pier Paolo Pandolfi;Beth Israel Deaconess Medical Center;74145;141
+994;Norbert Neumeister;Purdue University;74144;121
+995;Randy L Buckner;Harvard University;74120;121
+996;Anders Björklund;Lund University;74118;154
+997;Stephen Krashen;;74115;81
+998;Carol Dweck;Stanford University;74092;103
+999;Andrew Pardoll;Johns Hopkins University;74076;119
+1000;G D Farquhar;Australian National University;74056;123
